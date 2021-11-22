@@ -5,7 +5,7 @@
 
 
 import pandas as pd
-df = pd.read_csv("msci_url_esg.csv", index_col=0)
+df = pd.read_csv("./search_results/msci_url_esg.csv", index_col=0)
 df = df.dropna()
 df
 
@@ -245,9 +245,20 @@ external_web_texts = []
 count = 0
 total_urls_visited = 0
 
-import sys
-start=int(sys.argv[1])
-end=int(sys.argv[2])
+# import sys
+# start=int(sys.argv[1])
+# end=int(sys.argv[2])
+
+
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--start", help="starting index", default=0)
+parser.add_argument("--end", help="ending index", default=len(links))
+args = parser.parse_args()
+
+start = args.start
+end = args.end
+
 print("start: ", start, " end: ", end)
 for link in links[start:end]:
     count += 1
@@ -298,7 +309,7 @@ df_temp["external_pdfs"] = external_pdfs
 df_temp["external_web_texts"] = external_web_texts
 df_temp["company"] = df_rank.company.values[start:end].tolist()
 #         df_temp.to_csv("esg_companies_"+str(count+1000)+".csv")
-df_temp.to_csv("esg_companies_"+str(end)+".tsv", sep = '\t')
+df_temp.to_csv("./company_reports_link/esg_companies_"+str(end)+".tsv", sep = '\t')
 print("saved", end)
 
 
