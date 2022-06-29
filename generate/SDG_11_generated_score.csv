@@ -1,0 +1,940 @@
+,company,wikidata_id,product_score,report_evidence_binary,report_evidence_content,average_sentiment_impactful,score_before_graph,graph_group_average,final_score
+0,3M Co,Q159433,0,False,nothing,-16.44388888888888,-1,-1.0,-1.0
+1,A O Smith Corp,Q4648219,0,False,nothing,2.3400000000000007,1,1.0,1.0
+2,a2 Milk Co Ltd,Q22909318,0,False,nothing,-8.46,-1,-1.0,-1.0
+3,ABB Ltd,Q52825,0,True,Through our leading technologies and sustainable business practices we enable seven of the SD G goals directly 7 affordable and clean energy 11 sustainable cities and communities 9 industry innovation and infrastructure 6 clean water and sanitation 12 responsible consumption and production 8 decent work and economic growth and 17 partnership for the goals,68.70545454545454,2,2.0,2.0
+4,ABB Ltd,Q52825,0,True,Through our leading technologies and sustainable business practices we enable seven of the SD G goals directly 7 affordable and clean energy 11 sustainable cities and communities 9 industry innovation and infrastructure 6 clean water and sanitation 12 responsible consumption and production 8 decent work and economic growth and 17 partnership for the goals,68.70545454545454,2,2.0,2.0
+5,Abbott Laboratories,Q306764,0,False,nothing,-6.77,-1,-1.0,-1.0
+6,AbbVie Inc,Q14662364,0,False,nothing,-26.65,-1,-1.0,-1.0
+7,ABN AMRO Bank NV,Q287471,0,False,nothing,-52.13,-1,-1.0,-1.0
+8,Accenture PLC,Q338825,0,False,nothing,49.09142857142857,1,1.0,1.0
+9,Accor SA,Q212599,0,False,nothing,160.8957142857143,1,1.0,1.0
+10,Activision Blizzard Inc,Q344341,0,False,nothing,-88.65299999999999,-1,-1.0,-1.0
+11,Adani Transmission Ltd,Q83472792,0,False,nothing,15.06,1,1.0,1.0
+12,adidas AG,Q3895,0,False,nothing,136.77517241379311,1,1.0,1.0
+13,Adient PLC,Q26832896,0,False,nothing,-4.69,-1,-1.0,-1.0
+14,Adobe Inc,Q11463,0,True,Green Building Councils Building Health Initiative and the Bay Area Councils Water Task Force to further our commitment to efficient work spaces that conserve natural resources and allow us to provide our products to customers with minimal or no environmental impact,46.590384615384615,2,2.0,2.0
+15,ADT Inc,Q290680,0,False,nothing,12.25,1,1.0,1.0
+16,Adtalem Global Education Inc,Q5244154,0,False,nothing,5.67,1,1.0,1.0
+17,Advance Auto Parts Inc,Q4686051,0,False,nothing,-4.515000000000001,-1,-1.0,-1.0
+18,Advanced Drainage Systems Inc,Q60745531,0,False,nothing,0.3400000000000001,1,1.0,1.0
+19,Advanced Micro Devices Inc,Q128896,0,False,nothing,56.13510204081632,1,1.0,1.0
+20,Adyen NV,Q4686934,0,False,nothing,29.82,1,1.0,1.0
+21,AECOM,Q2825507,1,True,Our team is leading the development of a policy process planning and management instruments toolkit which can be used to mitigate the deterioration of urban natural assets and ecosystem services and promote green urban growth in African cities,-35.2,1,1.0,1.0
+22,AECOM,Q2825507,1,True,Our team has significant PES experience we can advise both land and natural resource managers who are interested in generating and selling additional ecosystem services as well as buyers including government businesses and communities who are interested in purchasing ecosystem nature at the heart of decision making 16 A E COM Promoting green urban development in African Cities World Bank Africa We have been working with the World Bank to improve understanding amongst city level managers and planners of the impact of urban development on natural assets and ecosystem services in Africa and to enhance the ability of national and local governments to make well informed strategic planning land use budgetary and investment decisions to promote green urban development,-35.2,1,1.0,1.0
+23,AECOM,Q2825507,1,True,From high performance buildings and infrastructure to resilient communities and environments to stable and secure nations our work is transformative differentiated and vital,-35.2,1,1.0,1.0
+24,AES Corp,Q291508,0,False,nothing,51.00000000000001,1,1.0,1.0
+25,Ageas SA/NV,Q392338,0,False,nothing,-6.386,-1,-1.0,-1.0
+26,Agilent Technologies Inc,Q393762,0,False,nothing,380.1575,1,1.0,1.0
+27,AIA Group Ltd,Q1152465,0,False,nothing,-11.7,-1,-1.0,-1.0
+28,AIB Group PLC,Q1642179,0,False,nothing,-12.522499999999996,-1,-1.0,-1.0
+29,Air Liquide SA,Q407448,0,False,nothing,131.552,1,1.0,1.0
+30,Ajinomoto Co Inc,Q412826,0,False,nothing,4.46,1,1.0,1.0
+31,Akamai Technologies Inc,Q415598,0,False,nothing,264.46,1,1.0,1.0
+32,Akbank TAS,Q416624,0,True,Sustainable Cities and Communities Value Added to Our Customers Pages 54 8412,0.0,0,0.0,0.0
+33,Akzo Nobel NV,Q50912,1,True,We supply a wide range of solutions to the construction industry that can help to make cities and communities more sustainable,10.345,3,3.0,3.0
+34,Albemarle Corp,Q127074,0,False,nothing,-2.88,-1,-1.0,-1.0
+35,Alcon Inc,Q684825,0,False,nothing,21.875,1,1.0,1.0
+36,Alexandria Real Estate Equities Inc,Q48739877,2,False,nothing,1.404,3,1.8333333333333333,3.0
+37,Alfa Laval AB,Q686030,0,False,nothing,10.59666666666667,1,1.0,1.0
+38,Alibaba Group Holding Ltd,Q1359568,0,False,nothing,-105.8629411764706,-1,-0.42857142857142855,-1.0
+39,Allegion plc,Q16738121,0,True,Our community impact projects span safe and secure housing hunger relief domestic violence shelters support for educators schools and children facing health and social challenges STEM and mentoring programs and many more needs identified by our local operations,23.11,2,2.0,2.0
+40,Allianz SE,Q487292,0,False,nothing,-13.476363636363637,-1,0.0,-0.5
+41,Allied Properties Real Estate Investment Trust,Q697852,1,True,Login Fran a is The cities we build have to be sustainable and conducive to human wellness diversity and creativity,51.05375000000001,3,3.0,3.0
+42,Allied Properties Real Estate Investment Trust,Q697852,1,True,VISION To make a continuous contribution to cities and elevates and inspires the humanity in all of provide knowledge based organizations urban environments for human connectivity in a manner that is sustainable to human wellness and VALUES Respect for everyone involved in our business users investors trustees partners and neighbours,51.05375000000001,3,3.0,3.0
+43,Allied Properties Real Estate Investment Trust,Q697852,1,True,Allied s dedication to sustainability is ree c ted in our mission statement To provide knowledge based organizations with distinctive urban work space in a manner that is sustainable and conducive to human wellness creativity connectivity and diversity Environmental social and governance ES G issues are a critical consideration of day to day business operations and long range planning,51.05375000000001,3,3.0,3.0
+44,Allied Properties Real Estate Investment Trust,Q697852,1,True,This is encouraging and it is Allied to submit to scrutiny in this regard just as we submit financial and operational cities we build have to and human wellness diversity and creativity,51.05375000000001,3,1.8333333333333333,3.0
+45,Allison Transmission Holdings Inc,Q2036530,0,False,nothing,9.2,1,1.0,1.0
+46,Alphabet Inc,Q20800404,0,True,3 Alphabet Sustainability Bond Framework 2020 Introduction 3 Our sustainability approach We firmly believe that every business has the opportunity and obligation to protect our planet and support the communities where it operates,-7.686999999999998,0,0.0,0.0
+47,Alphabet Inc,Q20800404,0,True,11 Sustainable Communities Eligible project categories 7 Alphabet Sustainability Bond Framework 2020 Our framework Green and project category Eligibility example projects Intended environmental and or social goal SD G 1 Circular design Expenditures related to projects that increase waste diversion from landfill and design out waste,-7.686999999999998,0,0.0,0.0
+48,Alphabet Inc,Q20800404,0,True,Accelerate the transition to carbon free energy and a circular users with the people and places where we operate For additional information please visit 1 FIVE YEAR SUSTAINABILITY STRATEGY OVERVIEW We strive to build sustainability into everything we do Benefit people and places Share benefits with communities where we operate Empower with technology Google products tools and platforms in form or enable sustainability Accelerate carbon free and circular De couple business growth from growth of carbon intensity and material use 4 Alphabet Sustainability Bond Framework 2020 Introduction 4 5 Our framework 5 Alphabet Sustainability Bond Framework In accordance with Google s five year sustainability strategy we have designed this Sustainability Bond Framework the Framework under which we may issue from time to time certain bonds or related debt instruments with net proceeds that we intend to allocate to finance one or more projects that we believe may have environmental and or societal benefits any such bonds a Sustainability Bond,-7.686999999999998,0,0.0,0.0
+49,Alstom SA,Q309084,2,True,Smart innovation for sustainable mobility Follow us on Commitments Key figures Corporate governance Innovation Strategy Sustainable mobility Sustainable Procurement Health and safety Environmental footprint Local communities Diversity Inclusion Ethics drives our growth,81.90727272727273,4,4.0,4.0
+50,Altice USA Inc,Q644289,0,False,nothing,-70.21000000000001,-1,-1.0,-1.0
+51,Altium Ltd,Q1066620,0,False,nothing,3.344999999999999,1,1.0,1.0
+52,Amadeus IT Group SA,Q696061,0,False,nothing,0.0,-1,-1.0,-1.0
+53,Amazon.com Inc,Q3884,0,False,nothing,29.50431309904153,1,1.0,1.0
+54,AMC Entertainment Holdings Inc,Q294721,0,False,nothing,-41.481923076923074,-1,-1.0,-1.0
+55,American Axle & Manufacturing Holdings Inc,Q4743120,0,True,8 ENVIRONMENTAL ENERGY AND EMISSIONS REDUCTION REDUCE WATER USE AT EVERY LOCATION REDUCE REUSE AND RECYCLE INDUSTRIAL MATERIALS 9 THE POWER TO CONSERVE Since our inception A AM has believed that being focused on sustainability be nets our associates suppliers customers communities shareholders and the environment,24.360000000000003,2,2.0,2.0
+56,American Express Co,Q194360,0,True,Government Media Partners Suppliers Shareholders INTRODUCTION OUR APPROACH TO CSR OPERATING RESPONSIBLY BACKING OUR CUSTOMERS BACKING OUR COMMUNITIES BACKING OUR COLLEAGUES SUSTAINABILITY MANAGING OUR ENVIRONMENTAL IMPACT GRI CONTENT INDEX 10 UNITED NATIONS SUSTAINABLE solving the worlds most pressing problems including ending action on climate change achieving food security protecting the private sector and citizens a like have committed to working together in partnership to achieve the outlined targets and ensure we leave a better planet for future generations,2.204705882352939,2,0.21052631578947367,2.0
+57,American International Group Inc,Q212235,0,True,In partnership with John Wood Group plc oe ring a resilience framework that helps our clients and communities arrive at more resilient solutions for urban development projects to UNI DO member cities and communities,-1103.2955555555554,0,0.0,0.0
+58,American International Group Inc,Q212235,0,True,In partnership with John Wood Group plc o er a resilience framework that helps our clients and communities arrive at more resilient solutions for urban development projects to United Nations Industrial Development Organization UNI DO member cities and Security Our products and solutions through our network of financial advisors help individuals and institutions pursue financial security from life insurance solutions that help provide financial stability in the event of a loss in the family to retirement solutions that provide guaranteed income for life,-1103.2955555555554,0,0.0,0.0
+59,American International Group Inc,Q212235,0,True,36 of AIG s executive hires and promotions in 2020 were female and or ethnically 2020 summer intern class was 44 female globally and 46 ethnically diverse in the of Lasting Change 10 AIG 2020 Annual Report AIG s sustainability agenda focuses on future proofing communities through four key priorities community resilience financial security sustainable operations and sustainable investing,-1103.2955555555554,0,0.0,0.0
+60,American Tower Corp,Q4745263,0,False,nothing,-9.5,-1,1.8333333333333333,-0.5
+61,American Water Works Co Inc,Q467238,0,False,nothing,559.81,1,1.0,1.0
+62,Amorepacific Corp,Q490142,0,False,nothing,11.923333333333332,1,1.0,1.0
+63,ams AG,Q477875,1,False,nothing,-1.2000000000000002,0,0.0,0.0
+64,Analog Devices Inc,Q484930,0,True,Habitat is committed to supporting long term recovery and rebuilding lives and communities affected by the Prosperity Our Sustainability Sustainability Report 35 ADI addresses its environment health and safety EH S resp on sibi li ties through an integrated EH S management system,15.64,2,2.0,2.0
+65,ANDRITZ AG,Q442018,1,False,nothing,42.191428571428574,2,2.0,2.0
+66,Anglo American PLC,Q541451,0,False,nothing,-108.16249999999998,-1,-1.0,-1.0
+67,Anheuser-Busch InBev SA/NV,Q128738,0,False,nothing,51.95142857142857,1,1.0,1.0
+68,ANSYS Inc,Q295774,0,False,nothing,176.66,1,1.0,1.0
+69,Antero Resources Corp,Q39046155,0,False,nothing,0.18,1,1.0,1.0
+70,Anthem Inc,Q677488,0,False,nothing,-55.64,-1,-1.0,-1.0
+71,APA Group,Q20311412,0,False,nothing,0.2133333333333335,1,1.0,1.0
+72,Apple Inc,Q312,0,False,nothing,-124.62029810298102,-1,0.21052631578947367,-0.5
+73,Applied Materials Inc,Q621610,0,False,nothing,10.936,1,1.0,1.0
+74,Aptiv PLC,Q643626,0,False,nothing,71.34,1,1.0,1.0
+75,Aramark,Q625708,0,True,We also focus on the wellbeing of our planet by minimizing environmental impact across all of our operations from the foods we serve and facilities we operate to the vehicles we goal is supported by four priorities which align with the United Nations Sustainable Development Goals Our People priorities are to engage employees empower healthy consumers build local communities and source ethically and inclusively,14.875000000000028,2,2.0,2.0
+76,Arcadis NV,Q631507,1,False,nothing,22.23,2,2.0,2.0
+77,ArcelorMittal SA,Q27893,0,False,nothing,32.19000000000001,1,1.0,1.0
+78,Arista Networks Inc,Q2861324,0,False,nothing,44.55,1,1.0,1.0
+79,Arkema SA,Q673327,0,False,nothing,14.31,1,-0.5,0.5
+80,Asahi Kasei Corp,Q720489,0,False,nothing,40.78,1,1.0,1.0
+81,Ashtead Group PLC,Q4805956,0,False,nothing,2.640000000000001,1,1.0,1.0
+82,ASOS PLC,Q211951,0,False,nothing,-143.8341176470588,-1,-1.0,-1.0
+83,Aspen Pharmacare Holdings Ltd,Q4807838,0,False,nothing,-4.5600000000000005,-1,-1.0,-1.0
+84,Aspen Technology Inc,Q736091,0,False,nothing,59.92,1,1.0,1.0
+85,Astellas Pharma Inc,Q528842,0,False,nothing,13.74,1,1.0,1.0
+86,AstraZeneca PLC,Q731938,0,False,nothing,-141.06684131736526,-1,-1.0,-1.0
+87,Atlas Copco AB,Q757164,0,False,nothing,5.636666666666667,1,1.0,1.0
+88,Australia & New Zealand Banking Group Ltd,Q714641,0,False,nothing,28.06357142857143,1,1.0,1.0
+89,Auto Trader Group PLC,Q4826130,0,True,As an employer it comprises employee engagement rewards and recognition schemes people development health and safety the environmental impact sustainability efficient a company we are keen to give back to our local communities in which we operate as well as supporting charities and causes that to our employees hearts,2.9450000000000003,2,2.0,2.0
+90,Autodesk Inc,Q628051,0,False,nothing,8.795714285714284,1,1.0,1.0
+91,Avantor Inc,Q104842834,0,False,nothing,-16.240000000000002,-1,-1.0,-1.0
+92,Avery Dennison Corp,Q790650,0,False,nothing,3.0000000000000004,1,1.0,1.0
+93,Avis Budget Group Inc,Q2874395,0,False,nothing,143.35500000000002,1,1.0,1.0
+94,Aviva PLC,Q791179,0,True,5 million people Building Future Communities Report Drive forward our 3 year climate focused partnership with WWF helping local communities and ecosystems and working together to reorient the way financial services function in a sustainable economy Support 1,-19.676666666666662,0,0.0,0.0
+95,Aviva PLC,Q791179,0,True,6 m vehicles on the UK plc Sustainability Report health and cities and consumption and below on justice and strong for the water and and clean work and economic innovation and inequalities Communities data continued Additional Indicators Notes SD G Mapping Amount our people gave or fund raised 1,-19.676666666666662,0,0.0,0.0
+96,Aviva PLC,Q791179,0,True,Case study 2 Case study Funding the future Contents Climate action Stronger communities Acting sustain ably Conclusion and resources Strategic approach Aviv a is investing in UK infrastructure and real estate to help our economy and communities bounce back,-19.676666666666662,0,0.0,0.0
+97,Aviva PLC,Q791179,0,True,Our more about how were acting on climate change building stronger communities and embedding sustainability into our business,-19.676666666666662,0,0.0,0.0
+98,Aviva PLC,Q791179,0,True,Read more about how were acting on climate change building stronger communities and embedding sustainability into our business,-19.676666666666662,0,0.0,0.0
+99,AXA SA,Q160054,0,False,nothing,-13.36857142857143,-1,0.0,-0.5
+100,Axalta Coating Systems Ltd,Q26215536,0,False,nothing,83.25142857142858,1,1.0,1.0
+101,Axiata Group Bhd,Q792500,0,True,PLANET SOCIETY IMPROVING OUR ENVIRONMENTAL PERFORMANCE AND SUPPORTING COMMUNITIES We are committed to minim ising our environmental impact and to support sustainable development for everyone,-21.54500000000001,0,0.0,0.0
+102,Axis Bank Ltd,Q2003549,0,True,Our strong sustainable lending portfolio focuses on sectors with a strong sustainability linked socio economic and environmental impact such as renewable energy generation mass transportation smart cities waste management others,-33.49,0,0.0,0.0
+103,Baidu Inc,Q14772,0,False,nothing,-28.59363636363636,-1,-1.0,-1.0
+104,Bajaj Finance Ltd,Q28173355,0,False,nothing,-6.525,-1,-1.0,-1.0
+105,Ball Corp,Q4034815,0,False,nothing,19.095,1,1.0,1.0
+106,Ballard Power Systems Inc,Q474383,0,False,nothing,-5.52,-1,-1.0,-1.0
+107,Banco Bilbao Vizcaya Argentaria SA,Q806189,0,False,nothing,-8.806363636363637,-1,-1.0,-1.0
+108,Banco BTG Pactual SA,Q2877503,0,True,The contemplated projects demonstrate our commitment to the regions and communities where we operate mainly in Brazil including the following highlight so BT G SOMA is program for accelerating social organizations that aims to contribute to boosting the performance of NGOs so that they achieve nanci al sustainability,22.380000000000003,2,2.0,2.0
+109,Banco Comercial Portugues SA,Q118581,0,False,nothing,-2.5600000000000005,-1,-1.0,-1.0
+110,Banco de Sabadell SA,Q762330,0,False,nothing,-0.8800000000000001,-1,-1.0,-1.0
+111,Banco do Brasil SA,Q610817,0,False,nothing,-11.12153846153846,-1,-1.0,-1.0
+112,Banco Santander Chile,Q1094313,0,False,nothing,7.364999999999999,1,1.0,1.0
+113,Banco Santander SA,Q6496310,0,False,nothing,-6.995,-1,-1.0,-1.0
+114,Bancolombia SA,Q806206,0,False,nothing,-0.16,-1,-1.0,-1.0
+115,Bandhan Bank Ltd,Q19882235,0,False,nothing,-7.300000000000001,-1,-1.0,-1.0
+116,Bangkok Bank PCL,Q806483,0,False,nothing,31.69333333333333,1,1.0,1.0
+117,Bank Negara Indonesia Persero Tbk PT,Q2882611,0,False,nothing,1035.7733333333335,1,1.0,1.0
+118,Bank of America Corp,Q487907,0,False,nothing,-43.64059999999999,-1,-1.0,-1.0
+119,Bank of China Ltd,Q790068,0,False,nothing,-55.577,-1,-1.0,-1.0
+120,Bank of Ireland Group PLC,Q806689,0,False,nothing,6.038333333333331,1,1.0,1.0
+121,Bank of Nova Scotia,Q451476,0,False,nothing,-44.322,-1,-1.0,-1.0
+122,Bankinter SA,Q806808,0,False,nothing,-0.4666666666666666,-1,-1.0,-1.0
+123,Barclays PLC,Q245343,0,True,The Thriving Local Economies initiative focuses on four pilot areas in geographically different parts of the country and representing different types of place a metropolitan area a smaller town a rural area and a coastal community,-48.17829787234043,0,0.0,0.0
+124,BASF SE,Q9401,0,False,nothing,50.69625,1,1.0,1.0
+125,Basler AG,Q810387,0,False,nothing,0.16,1,1.0,1.0
+126,Bausch Health Cos Inc,Q1700871,0,False,nothing,-9.75,-1,-1.0,-1.0
+127,Baxter International Inc,Q761965,0,False,nothing,25.83,1,1.0,1.0
+128,Bayer AG,Q152051,0,False,nothing,-3.1923684210526337,-1,-1.0,-1.0
+129,Bayerische Motoren Werke AG,Q26678,0,False,nothing,41.735416666666666,1,1.0,1.0
+130,Beijing Enterprises Holdings Ltd,Q836569,0,True,We aim to build ecological cities characterized by blue sky green land fresh and clear air and lucid water,-0.92,0,0.0,0.0
+131,Beijing Enterprises Holdings Ltd,Q836569,0,True,Our professional water and environmental services have helped improve the living standard of urban residents we and our partners have joined hands to stimulate industrial development with the idea of win win cooperation,-0.92,0,0.0,0.0
+132,Belden Inc,Q815327,0,False,nothing,6.85,1,1.0,1.0
+133,Berkshire Hathaway Inc,Q217583,0,False,nothing,-130.39,-1,0.21052631578947367,-0.5
+134,Berry Global Group Inc,Q4894819,0,False,nothing,2.28,1,1.0,1.0
+135,Bharat Petroleum Corp Ltd,Q854826,0,False,nothing,-2.492,-1,-1.0,-1.0
+136,Bharti Airtel Ltd,Q854867,0,False,nothing,-16.794999999999998,-1,-1.0,-1.0
+137,BHP Group Ltd,Q625713,0,False,nothing,-15.334166666666668,-1,-1.0,-1.0
+138,BHP Group PLC,Q625713,0,False,nothing,-7.83,-1,-1.0,-1.0
+139,Biffa PLC,Q4904749,1,False,nothing,48.260000000000005,2,1.0,2.0
+140,Big Yellow Group PLC,Q4906703,0,False,nothing,6.23,1,1.0,1.0
+141,Biotage AB,Q10429829,0,False,nothing,0.0,-1,-1.0,-1.0
+142,Blackbaud Inc,Q4922539,0,True,This continues to be Sustainable Development Goals SD G including own impact against the S DGs by incorporating SD G taxonomy in Black baud Grant making and by mapping our own giving on this foundation we joined the UN forward in deepening our ES G proud of how our company and our employees show up to support the social good community both inside and outside of work,48.11,2,2.0,2.0
+143,BNP Paribas SA,Q499707,0,False,nothing,31.253125,1,1.0,1.0
+144,Bombardier Inc,Q333498,1,False,nothing,31.168999999999997,2,2.0,2.0
+145,Booking Holdings Inc,Q18674747,0,False,nothing,-1.7000000000000002,-1,-1.0,-1.0
+146,Boralex Inc,Q2910597,0,False,nothing,84.6,1,1.0,1.0
+147,Boston Properties Inc,Q4844439,2,False,nothing,2.32,3,1.8333333333333333,3.0
+148,Boston Scientific Corp,Q894585,0,False,nothing,-28.885,-1,-1.0,-1.0
+149,BP PLC,Q152057,0,True,This includes sustainable livelihoods as well as other aims in support of local communities and cities where we work such as health and wellbeing biodiversity restoration or conservation nature based solutions natural climate solutions and programmes to enhance the availability of fresh water in the local area,-111.93764705882352,0,0.0,0.0
+150,BP PLC,Q152057,0,True,Together we will explore opportunities in service of the city s de carbon iz ation economic and social ambitions working across several themes including accelerating the adoption of electric and hydrogen powered city vehicles energy efficiency programmes for buildings and circular economy,-111.93764705882352,0,0.0,0.0
+151,Braskem SA,Q899395,0,False,nothing,-75.96,-1,-1.0,-1.0
+152,BRF SA,Q899097,0,False,nothing,3.3199999999999985,1,1.0,1.0
+153,Bridgestone Corp,Q179433,0,False,nothing,54.42,1,0.0,0.5
+154,Bristol-Myers Squibb Co,Q266423,0,False,nothing,-36.30555555555556,-1,-1.0,-1.0
+155,British American Tobacco Malaysia Bhd,Q856411,0,False,nothing,0.0640000000000004,1,1.0,1.0
+156,British American Tobacco PLC,Q856411,0,False,nothing,0.0640000000000004,1,1.0,1.0
+157,Britvic PLC,Q4971696,0,False,nothing,32.980000000000004,1,1.0,1.0
+158,Broadcom Inc,Q4827416,0,False,nothing,42.9,1,1.0,1.0
+159,BT Group PLC,Q593786,0,False,nothing,-298.4031578947368,-1,-0.3333333333333333,-1.0
+160,BYD Co Ltd,Q2608329,0,False,nothing,57.46,1,0.21052631578947367,1.0
+161,CA Immobilien Anlagen AG,Q1022921,2,True,learn more Sustainable Urban Disc tr ict Development We specialise in the environmentally friendly revitalisation of old inner city sites brownfield development,0.0,2,2.0,2.0
+162,CA Immobilien Anlagen AG,Q1022921,2,True,Circular Economy Water Sustainable Urban Disc tr ict Development We specialise in the environmentally friendly rev i tal is ation of old inner city sites brownfield develop ment,0.0,2,2.0,2.0
+163,CA Immobilien Anlagen AG,Q1022921,2,True,We support our employees by of their needs health and URBAN DISTRICT DEVELOPMENT We transform old brownfield sites and inner city areas formerly utilised for industrial purposes into modern mixed use urban city districts which are attractive integrated accessible and offer a high quality of the process we take care biodiversity and establish sustainable ENERGY We have set ourselves the target of cutting our energy consumption and carbon foot print in the construction and operation of our buildings while building the resilience of our portfolio ETHICS CORPORATE GOVERNANCE COMPLIANCE Throughout our sphere of influence we do business in accordance with responsible compliance with social environmental and business related regulations,0.0,2,2.0,2.0
+164,CA Immobilien Anlagen AG,Q1022921,2,True,In doing so we pay attention to the protection of biodiversity and create mixed use urban neigh b our hoods with sustainable infrastructure and a high quality of life that are attractive inclusive and acc es sib le,0.0,2,2.0,2.0
+165,CA Immobilien Anlagen AG,Q1022921,2,True,In doing so we pay attention to the protection of biodiversity and create mixed use urban neighbourhoods with sustainable infrastructure and a high quality of life that are attractive inclusive and accessible,0.0,2,2.0,2.0
+166,CA Immobilien Anlagen AG,Q1022921,2,True,Our goal is to create urban districts in which people will enjoy living tomorrow just as much as they do today attractive mixed use districts with good public transport links that combine working living so cia l and cultural facilities and thus enable people to live within a short distance of each other,0.0,2,2.0,2.0
+167,Cal-Maine Foods Inc,Q5018092,0,False,nothing,14.625,1,1.0,1.0
+168,Campbell Soup Co,Q1030544,0,False,nothing,5.935000000000002,1,1.0,1.0
+169,Canfor Corp,Q1033165,0,False,nothing,26.26,1,1.0,1.0
+170,Capital One Financial Corp,Q1034654,0,False,nothing,165.88875000000002,1,1.0,1.0
+171,CapitaLand Ltd,Q3272868,1,False,nothing,39.55,2,2.0,2.0
+172,Carlsberg AS,Q113215,0,False,nothing,37.94,1,1.0,1.0
+173,Carrefour SA,Q3117359,0,False,nothing,-9.728260869565217,-1,-1.0,-1.0
+174,Cascades Inc,Q544004,0,False,nothing,-10.56,-1,-1.0,-1.0
+175,Catalent Inc,Q19866242,0,False,nothing,8.045000000000002,1,1.0,1.0
+176,CBRE Group Inc,Q1023013,0,False,nothing,5.492727272727271,1,1.0,1.0
+177,CCR SA,Q1121225,1,False,nothing,-1.3200000000000005,0,0.0,0.0
+178,CD Projekt SA,Q7098994,0,False,nothing,-101.183,-1,-1.0,-1.0
+179,Celanese Corp,Q547450,1,False,nothing,12.055,2,2.0,2.0
+180,Cemex SAB de CV,Q1053348,0,False,nothing,44.580000000000005,1,1.0,1.0
+181,Centrica PLC,Q259013,0,False,nothing,-21.072857142857146,-1,-1.0,-1.0
+182,Cerner Corp,Q1055390,0,False,nothing,20.895000000000003,1,1.0,1.0
+183,CF Industries Holdings Inc,Q905806,0,False,nothing,-1.5499999999999998,-1,-1.0,-1.0
+184,Charter Communications Inc,Q2961234,0,False,nothing,-60.09800000000001,-1,0.21052631578947367,-0.5
+185,Chegg Inc,Q5089544,0,False,nothing,-258.03,-1,-1.0,-1.0
+186,Chevron Corp,Q319642,0,False,nothing,-246.9825,-1,-1.0,-1.0
+187,China Everbright Environment Group Ltd,Q10890263,1,False,nothing,12.32,2,2.0,2.0
+188,China Hongqiao Group Ltd,Q10874559,0,False,nothing,-1.08,-1,-1.0,-1.0
+189,China Merchants Bank Co Ltd,Q1073327,0,False,nothing,-0.2850000000000001,-1,-1.0,-1.0
+190,China Merchants Port Holdings Co Ltd,Q268784,0,True,Green is Not Just a Color is CM HIs global initiative to drive forward our pledge to improve the quality of our coastal environment and local communities,4.870000000000001,2,2.0,2.0
+191,China Resources Gas Group Ltd,Q5099882,0,False,nothing,0.0,-1,-1.0,-1.0
+192,China Resources Land Ltd,Q5099887,1,False,nothing,-0.5,0,0.0,0.0
+193,China Traditional Chinese Medicine Holdings Co Ltd,Q27892807,0,False,nothing,4.847857142857142,1,0.0,0.5
+194,China Vanke Co Ltd,Q861340,2,False,nothing,-33.35,1,1.0,1.0
+195,Chubb Ltd,Q1089060,0,False,nothing,14.559999999999995,1,1.0,1.0
+196,Chugai Pharmaceutical Co Ltd,Q750619,0,False,nothing,-20.72,-1,-1.0,-1.0
+197,Cie de Saint-Gobain,Q678565,1,False,nothing,-90.07333333333334,0,-0.5,-0.5
+198,Cie Generale des Etablissements Michelin SCA,Q151107,0,False,nothing,110.49736842105264,1,1.0,1.0
+199,Cimarex Energy Co,Q16829606,0,False,nothing,-0.1699999999999999,-1,-1.0,-1.0
+200,Cimpress PLC,Q22121865,0,False,nothing,14.0875,1,1.0,1.0
+201,Cintas Corp,Q1092571,0,False,nothing,35.81333333333335,1,1.0,1.0
+203,Citigroup Inc,Q219508,0,True,SD G Goal 11 Sustainable Cities and Communities Financing Affordable Housing We offer a range of housing financing solutions including construction and permanent lending tax credit equity and Fannie Mae and Freddie Mac mortgage banking to affordable housing de vel oper s,38.6016129032258,2,2.0,2.0
+204,Citigroup Inc,Q219508,0,True,0 B Contents ES G at Citi Sustainable Progress Equitable Resilient Communities Talent Diversity Risk Management Responsible Business Appendices Citi 2020 ES G Report 35 Environmental Finance in Support of the S DGs Much of the work we do in finance aligns with three of the UN Sustainable Development Goals SD G 7 which seeks to ensure access to affordable reliable sustainable and modern energy for all SD G 11 which aims to make cities and human settlements inclusive safe resilient and sustainable and SD G 13 which contributes to urgent action to combat climate change and its impacts,38.6016129032258,2,2.0,2.0
+205,Citigroup Inc,Q219508,0,True,These activities which were counted toward our 100 Billion Environmental Finance Goal are helping cities meet the needs of rapid urbanization and work toward SD G 9 which commits to build resilient infrastructure promote inclusive and sustainable industrial iz a tion and foster innovation as well as SD G 11 which aims to make cities and human settlements inclusive safe resilient and sustainable,38.6016129032258,2,2.0,2.0
+206,Citigroup Inc,Q219508,0,True,SD G Goal 7 Affordable and Clean Energy SD G Goal 11 Sustainable Cities and Communities SD G Goal 13 Climate Action Contents ES G at Citi Sustainable Progress Equitable Resilient Communities Talent Diversity Risk Management Responsible Business Appendices Citi 2020 ES G Report 36 Climate change continues to be a def in ing challenge of our time,38.6016129032258,2,2.0,2.0
+207,Citigroup Inc,Q219508,0,True,SD G Goal 11 Sustainable Cities and Implementation Our centralized team of E SRM specialists within C it is Risk Management function evaluates transactions that trigger a review according to our E SRM Policy,38.6016129032258,2,2.0,2.0
+208,Citigroup Inc,Q219508,0,True,Inclusive and Resilient Communities Page 43 Environmental Finance SOLUTIONS FOR IMPACT 22 Citi 2019 ES G Approach to for We Do 23 Inclusive and Resilient Communities From infrastructure to affordable housing from jobs to financial inclusion we are helping to build more inclusive resilient and sustainable communities,38.6016129032258,2,2.0,2.0
+209,Citigroup Inc,Q219508,0,True,Moreover by helping city leaders develop technology driven so lu t ions to urban challenges our initiatives help support SD G 9 which promotes inclusive and sustainable industrial iz a tion and fosters innovation,38.6016129032258,2,2.0,2.0
+210,Citrix Systems Inc,Q916196,0,False,nothing,48.24,1,1.0,1.0
+211,City Developments Ltd,Q16259060,2,True,It reports the company s efforts in accelerating green building and sustainability efforts as well as expanding its outreach and advocacy to a larger ecosystem comprising multiple stakeholders along its value Sherman Kw ek CD L Group Chief Executive Officer said The current C OVID 19 global pandemic serves as a reminder of things that many of us take for granted our environment our health our safety and our freedom,35.7,4,4.0,4.0
+212,City Developments Ltd,Q16259060,2,True,In the midst of the C OVID 19 pandemic and the current climate crisis CD L will continue to strengthen our ES G strategy and climate resilience sharpen our competitive edge through innovation and pro actively cultivate a strong global eco conscious business mindset in the communities we operate in,35.7,4,4.0,4.0
+213,Clear Channel Outdoor Holdings Inc,Q5130656,0,False,nothing,92.56,1,1.0,1.0
+214,Clearwater Paper Corp,Q5130952,0,False,nothing,-0.31,-1,-1.0,-1.0
+215,CLP Holdings Ltd,Q977959,0,True,See more Eco Building Fund Our initiative to provide subsidies for energy saving improvement works in communal areas of shopping malls as well as residential commercial and industrial buildings to help create a smarter greener Hong Kong,85.68,2,2.0,2.0
+216,CME Group Inc,Q1071967,0,False,nothing,-8.025714285714285,-1,-1.0,-1.0
+217,CNH Industrial NV,Q15238661,0,False,nothing,5.816000000000001,1,1.0,1.0
+218,CNP Assurances,Q1023930,0,False,nothing,58.42,1,1.0,1.0
+219,Coca-Cola Europacific Partners PLC,Q106829668,0,True,Looking ahead we are implementing new hygiene and social distancing measures in our o ices in line with local and national legislation to make sure our people can safely return to their MORE ABOUT OUR SUPPORT FOR OUR PEOPLE IN OUR PEOPLE SECTION ON PAGES 3841 SOCIETY READ MORE AT ACTION ON SOCIETY OUR PEOPLE CC EPs commitment to S DGs NO POVERTY QUALITY EDUCATION GENDER EQUALITY DECENT WORK AND ECONOMIC GROWTH SUSTAINABLE CITIES AND COMMUNITIES 27 Our communities We ve been an integral pa of our communities for generations,-0.32,0,0.0,0.0
+220,Coca-Cola Femsa SAB de CV,Q20714863,0,False,nothing,2793.42,1,1.0,1.0
+221,Cogent Communications Holdings Inc,Q1106938,0,False,nothing,21.480000000000004,1,1.0,1.0
+222,Cognizant Technology Solutions Corp,Q1107035,0,False,nothing,220.3466666666667,1,1.0,1.0
+223,Coherent Inc,Q1107088,0,False,nothing,-9.96,-1,-1.0,-1.0
+224,Colfax Corp,Q2579502,0,False,nothing,0.0,-1,-1.0,-1.0
+225,Colgate-Palmolive Co,Q609466,0,False,nothing,37.92,1,1.0,1.0
+226,Columbia Sportswear Co,Q1112588,0,False,nothing,25.9,1,1.0,1.0
+227,Comcast Corp,Q1113804,0,False,nothing,-37.188125000000014,-1,-1.0,-1.0
+228,Comfort Systems USA Inc,Q5151691,0,False,nothing,-0.1399999999999999,-1,-1.0,-1.0
+229,Commonwealth Bank of Australia,Q285328,0,False,nothing,-11.47166666666667,-1,-1.0,-1.0
+230,CommScope Holding Co Inc,Q5152057,0,True,Our infrastructure developments and donations create more inclusive societies with equal access to also support local communities that are recovering from humanitarian crises and natural disasters,86.36999999999999,2,2.0,2.0
+231,Community Health Systems Inc,Q5154770,0,False,nothing,-0.1999999999999998,-1,-1.0,-1.0
+232,Compass Group PLC,Q782697,0,True,Our Sustainability Strategy We centre our strategy on three key pillars Health and Wellbeing helping people to make better nutritional choices be supported in their mental health and follow healthier lifestyles Environmental Game Changers reducing food waste and single use plastics and promoting plant forward meals Better for the World sourcing responsibly enriching local communities and collaborating for big change Enriching local communities Plant forward meals Mental health Collaborating for big change Better nutrition choices Healthy lifestyle Sourcing responsibly Food waste Single use plastics 8 I COMPASS GROUP PLC I SUSTAINABILITY REPORT 2019 OUR PEOPLE SAFETY CULTURE HEALTH AND WELLBEING ENVIRONMENTAL GAME CHANGERS BETTER FOR THE WORLD PERFORMANCE METRICS ABOUT US The United Nations Sustainable Development Goals The United Nations has identified 17 key challenges facing the world today,-19.78625,0,0.0,0.0
+233,Constellation Brands Inc,Q1128160,0,False,nothing,-1.0799999999999983,-1,-1.0,-1.0
+234,Contact Energy Ltd,Q1128439,0,False,nothing,14.2725,1,1.0,1.0
+235,Contemporary Amperex Technology Co Ltd,Q18653563,1,False,nothing,55.68142857142858,2,2.0,2.0
+236,Continental AG,Q163241,0,False,nothing,-7.5,-1,-1.0,-1.0
+237,Continental Resources Inc/OK,Q5165314,0,False,nothing,-3.405,-1,-1.0,-1.0
+238,Corning Inc,Q5842736,1,False,nothing,27.03,2,2.5,2.0
+239,Cosan SA,Q2998228,0,False,nothing,-0.18,-1,-1.0,-1.0
+240,Coty Inc,Q1104787,0,False,nothing,259.69800000000004,1,1.0,1.0
+241,Credicorp Ltd,Q126559,0,False,nothing,372.135,1,1.0,1.0
+242,Credit Suisse Group AG,Q372657,0,False,nothing,-198.638,-1,0.0,-0.5
+243,CRH PLC,Q1053299,0,True,stake holder engagement days in Sustainability in CR HC RH Sustainability Report Stake holder Engagement continued C RH STAKEHOLDERS ENGAGEMENT EXAMPLES AREAS OF and new Hall CEO safety and governance and and labour local impact LOCAL COMMUNITIES Neighbours Local and volunteer in local local of and SRI General governance and and climate and executive and and market and corporate information on relations and and safety and efficiency of and safety and governance and local and local of Group products and and direct local governance and and climate to air ground and safety and wellbeing ACADEMIC and table and climate and labour to air ground and and resource development and and and strategy and governance and safety and and climate innovation NGOS and labour rights in governance and and climate and labour and resource efficiency Sustainability in CR HC RH Sustainability Report Areas of Sustainability Opportunity Sustainability Priority Areas The table below outlines the key sustainability topics within each of the main areas of sustainability performance Health Safety,7.8725,2,2.0,2.0
+244,Croda International PLC,Q3003175,0,False,nothing,-13.222500000000004,-1,-1.0,-1.0
+245,Crown Castle International Corp,Q5189320,0,True,Manufacturing Oil and Gas Internet of Close sub menu YOUR COMMUNITY News Municipalities Property Owners Investors CCI sites Careers Search Search investors Corporate sustainability We consider the social and environmental impact of our business and weave sustainability into our business practices and decision making,-17.430000000000007,0,1.8333333333333333,0.5
+246,Crown Holdings Inc,Q5189378,0,True,We want to help ensure that our neighborhoods remain environmentally sound and protected,45.1,2,2.0,2.0
+247,CVS Health Corp,Q624375,0,True,14 Building Healthier Communities is a major part of our philanthropic investment strategy and represents our commitment to make community health and wellness central to our efforts to Transform Health,85.18222222222222,2,2.0,2.0
+248,CyberArk Software Ltd,Q5197666,0,False,nothing,326.33,1,1.0,1.0
+249,CyrusOne Inc,Q16953751,0,False,nothing,2.7224999999999997,1,1.8333333333333333,1.0
+250,Daikin Industries Ltd,Q1157589,0,False,nothing,50.87333333333336,1,1.0,1.0
+256,Daiwa House Industry Co Ltd,Q913825,0,True,We are of the opinion that although these efforts have just begun our Group can utilize the know how developed over the years to contribute to finding a solution to various societal issues such as the unoccupied house the S DGs put forth by the United Nations number 11 says make cities and human settlements inclusive safe resilient and sustainable,23.800000000000004,2,2.0,2.0
+257,Daiwa House Industry Co Ltd,Q913825,0,True,5 5 Protecting biodiversity Promoting forest preservation through sustainable timber procurement we are striving to develop towns in harmony with green spaces and designed with harmony with their local environment,23.800000000000004,2,2.0,2.0
+258,Daiwa House Industry Co Ltd,Q913825,0,True,125 113 Da iwa House Group Sustainability Report 2019 Co creating a Brighter Future with Local Communities Koji Hara no Senior Executive Officer General Manager Urban Development Department Head of Urban Development We are looking at the issues in our changing communities and will bring together the collective strengths of our Group to solve are working toward a solution toward the unoccupied houses issue that is getting more serious Japan is currently entering a period of an aging society facing population decline,23.800000000000004,2,2.0,2.0
+259,Daiwa House Industry Co Ltd,Q913825,0,True,Issue 1 Build platforms for innovating solutions to social base Human resources base Technology and manufacturing base Human resources base Improve our housing planning and management abilities and promote inclusive and sustainable development based on long term design and area management so that community and property values rise rather than fall in 2030 and broad inclusive design concepts into all processes of urban development and large scale construction handled by our Group,23.800000000000004,2,2.0,2.0
+260,Daiwa House Industry Co Ltd,Q913825,0,True,Through the activity we focus on two factors For the benefit of people and For the benefit of regions promoting community development enhancing eight values for both safety health comfort communication for people and sustainability environmental economy and identity for addition we based on our Community Development Vision hold up the policy of actively participating in urban redevelopment,23.800000000000004,2,2.0,2.0
+261,Daiwa House Industry Co Ltd,Q913825,0,True,11 Sustainable Cities and Communities as a contribution we can make through business,23.800000000000004,2,2.0,2.0
+262,Daiwa House Industry Co Ltd,Q913825,0,True,Also we have shared data on the growing environmental consciousness of the residents validation experiments for small scale mobility sharing in Tsukuba City low carbon lifestyle creation and overall energy data for total community visualization on built for sale land,23.800000000000004,2,2.0,2.0
+263,Danaher Corp,Q1159256,0,False,nothing,-1.2400000000000002,-1,-1.0,-1.0
+264,Danone SA,Q329426,0,False,nothing,-16.80583333333333,-1,-1.0,-1.0
+265,Danske Bank A/S,Q1636974,0,False,nothing,-64.0,-1,-1.0,-1.0
+266,DBS Group Holdings Ltd,Q705417,0,False,nothing,4.552857142857143,1,1.0,1.0
+267,Deckers Outdoor Corp,Q1181953,0,False,nothing,5.7700000000000005,1,1.0,1.0
+268,Dell Technologies Inc,Q27500963,0,False,nothing,27.58285714285714,1,1.0,1.0
+269,Delta Electronics Inc,Q5254620,1,True,Meanwhile we adopt Internet of Things I oT technology to develop solutions for smart and healthy buildings as well as energy infrastructure to foster sustainable smart cities,-4.98,1,1.0,1.0
+270,DENTSPLY SIRONA Inc,Q23781052,0,False,nothing,5.93,1,1.0,1.0
+271,Derichebourg SA,Q3023799,1,False,nothing,4.32,2,2.0,2.0
+272,Deutsche Bank AG,Q66048,0,False,nothing,-58.1584,-1,-1.0,-1.0
+273,Deutsche Telekom AG,Q9396,0,False,nothing,-750.24,-1,-0.3333333333333333,-1.0
+274,Deutsche Wohnen SE,Q1204510,0,True,to energy sources 82 Energy efficient sustainable building Responsibility towards society 86 Helping to create liveable towns and cities 87 Modern residential estates give districts stability 90 Preserving and maintaining historic buildings as cultural heritage 93 Conscientious and expert refurbishment that benefits tenants 94 Broad support of art culture and sport Appendix Facts and figures 98 Key figures 111 GRI content index 124 Memberships 125 Contact and publishing details Table of contents 2 DEUTSCHE WOH NEN SE SUSTAINABILITY REPORT 2018 WITH SIZE COMES RESPONSIBILITY Dear readers You have before you the Deutsche Woh nen Sustainability Report for 2018 a year which was important for us because we achieved good progress in making our thought processes planning construction and business practices more sustainable,-58.426,0,0.0,0.0
+275,Deutsche Wohnen SE,Q1204510,0,True,neighbourhoods and the environment Deutsche Woh nen wishes to increase peoples wellbeing and the quality of life together within local communities with its housing and its service this end we focus not only on the residential situation but also on the design of outdoor spaces and the development of districts,-58.426,0,0.0,0.0
+276,Deutsche Wohnen SE,Q1204510,0,True,Here we will create a metropolitan and carbon neutral district of high urban development quality taking into account environmental economic and social sustainability issues,-58.426,0,0.0,0.0
+277,Deutsche Wohnen SE,Q1204510,0,True,A promise built 86 DEUTSCHE WOH NEN SE SUSTAINABILITY REPORT 2018 HELPING TO CREATE AND CITIES We want to do more than just provide urgently needed good quality is also our responsibility to contribute to creating living spaces in which people feel comfortable and at home,-58.426,0,0.0,0.0
+278,Deutsche Wohnen SE,Q1204510,0,True,However the official requirements and laws serve as an obstacle to our new construction projects we aim to create the districts of the future offering attractive living conditions and meeting peoples needs for socially and ecologically designed housing architectural diversity and participation,-58.426,0,0.0,0.0
+279,Devon Energy Corp,Q1206980,0,True,City through our new Inclusion and Equity responsive wellness programs and frequent communications during the to virtual delivery for all physical DIVERSITY EQUITY AND our focus on equity in our pay structure and workforce to deepen our understanding of social and racial inequality through intentional conversations and listening as steps toward improving our community and Our corporate culture is based on integrity and supportive relationships giving our people the courage to take intelligent risks with a shared desire to achieve great results,2.7,2,2.0,2.0
+280,Dexcom Inc,Q15109865,0,False,nothing,17.43,1,1.0,1.0
+281,Diageo PLC,Q161140,0,True,Strategic priority Pioneer grain to glass sustainability PROGRESS TARGETS THROUGH TO 2020 K PI PROGRESS Our community programmes enable those who live and work in our communities particularly women to have the skills and resources to build a better future for themselves Number of women empowered to date Number of people participating in skills empowerment programmes Number of people reached through water sanitation and hygiene programmes 435 000 to date Over 6 600 Over 250 000 SUSTAINABLE SUPPLY CHAINS Establish partnerships with farmers to develop sustainable agricultural supplies of key raw materials Number of small holder farmers supported,50.13125,2,2.0,2.0
+282,Diamondback Energy Inc,Q65091423,0,False,nothing,-4.38,-1,-1.0,-1.0
+283,DiaSorin SpA,Q3706466,0,False,nothing,39.48,1,1.0,1.0
+284,Digital Realty Trust Inc,Q5275969,2,False,nothing,94.42,3,1.8333333333333333,3.0
+285,Direct Line Insurance Group PLC,Q5280285,0,False,nothing,5.320000000000001,1,1.0,1.0
+286,Discover Financial Services,Q5281775,0,False,nothing,11.840000000000003,1,1.0,1.0
+287,Dollar General Corp,Q145168,0,False,nothing,41.98774193548388,1,1.0,1.0
+288,Dollar Tree Inc,Q5289230,0,False,nothing,42.5,1,1.0,1.0
+289,Dometic Group AB,Q5290243,0,False,nothing,34.580000000000005,1,1.0,1.0
+290,Dover Corp,Q16974527,0,False,nothing,24.805,1,1.0,1.0
+291,Dow Inc,Q62739842,0,False,nothing,51.025,1,1.0,1.0
+292,DS Smith PLC,Q5206214,1,False,nothing,7.185454545454545,2,2.0,2.0
+293,Duke Energy Corp,Q1264404,0,False,nothing,-21.24058823529412,-1,-1.0,-1.0
+294,Duke Realty Corp,Q48742298,1,False,nothing,0.0,0,0.0,0.0
+295,DuPont de Nemours Inc,Q221062,0,False,nothing,-72.12222222222222,-1,-1.0,-1.0
+296,E.ON SE,Q270223,1,False,nothing,-48.40249999999999,0,0.0,0.0
+297,Eastman Chemical Co,Q899022,1,False,nothing,28.2,2,2.0,2.0
+298,Eaton Corp PLC,Q48872,0,True,Our strategy and 2030 sustainability targets help advance these UN S DGs 3 Good health and well being 5 Gender equality 6 Clean water and sanitation 7 Affordable and clean energy 8 Decent work and economic growth 9 Industry innovation and infrastructure 10 Reduced inequalities 11 Sustainable cities and communities 12 Responsible consumption and production 13 Climate action For example as demand on the power grid increases were helping municipalities and utilities optimize power efficiency and distribution including clean energy from solar and wind,-9.48,0,0.0,0.0
+299,eBay Inc,Q58024,0,False,nothing,-20.43578947368422,-1,0.0,-0.5
+300,Ecolab Inc,Q1282031,0,False,nothing,23.21,1,1.0,1.0
+301,Ecopetrol SA,Q1282130,0,False,nothing,-51.74,-1,-1.0,-1.0
+302,Edenred,Q3047407,0,False,nothing,13.899999999999997,1,1.0,1.0
+303,Edgewell Personal Care Co,Q5337641,0,False,nothing,0.9275,1,1.0,1.0
+304,EDP - Energias de Portugal SA,Q1341222,0,False,nothing,-17.025000000000002,-1,-1.0,-1.0
+305,Edwards Lifesciences Corp,Q16966841,0,False,nothing,29.385,1,1.0,1.0
+306,eHealth Inc,Q5323107,0,False,nothing,2.28,1,1.0,1.0
+307,Elanco Animal Health Inc,Q30280160,0,False,nothing,-5.629999999999999,-1,-1.0,-1.0
+308,Electrolux AB,Q505922,0,False,nothing,-6.359999999999999,-1,-1.0,-1.0
+309,Electronic Arts Inc,Q173941,0,False,nothing,-41.680465116279066,-1,-1.0,-1.0
+310,Element Solutions Inc,Q18228597,0,False,nothing,14.85,1,1.0,1.0
+311,Eli Lilly & Co,Q632240,0,False,nothing,18.558,1,1.0,1.0
+312,Embraer SA,Q105557,0,False,nothing,25.80375,1,1.0,1.0
+313,EMCOR Group Inc,Q5370289,0,False,nothing,0.4760000000000001,1,1.0,1.0
+314,Emerson Electric Co,Q1335585,0,False,nothing,49.25,1,1.0,1.0
+315,Emirates Telecommunications Group Co PJSC,Q543449,0,False,nothing,273.27000000000004,1,1.0,1.0
+316,Enbridge Inc,Q1339966,0,True,Sustainable communities supporting sustainability projects that help improve grow and nurture our environment such as those that focus on environmental education habitat conservation and remediation and supporting the energy transition,-83.17966666666666,0,0.0,0.0
+317,Enbridge Inc,Q1339966,0,True,24 Sustainability approach Healthier planet Safe operations Inclusive society Energized workforce Responsible business Inclusive society By living our values everywhere we operate and in everything we do we can advance Indigenous reconciliation strengthen local communities and build bridges to a more inclusive and prosperous future,-83.17966666666666,0,0.0,0.0
+318,Encompass Health Corp,Q5690400,0,False,nothing,4.65,1,1.0,1.0
+319,Endo International PLC,Q5376211,0,False,nothing,-30.239999999999995,-1,-1.0,-1.0
+320,Enel SpA,Q651222,0,True,Our priorities and stake holder involvement Sustainability context Climate change and environmental degradation an in crea singly diverse society demographic changes ur bani z ation the evolution of cities new technologies and inequalities are the mega trends in u enc ing the economic social and environmental dimensions of sustainable de vel op ment rede ning our future and changing the way where we live and work,-2.171666666666665,0,0.0,0.0
+321,Energizer Holdings Inc,Q1200840,0,False,nothing,-11.386666666666668,-1,-1.0,-1.0
+322,Engie SA,Q13416787,0,True,Long term activities in direct interaction with the environment and local communities Sustainability managed at the highest corporate level ES R is a key component of EN GIEs business model Integrating ES R criteria in day to day business decisions and in the investment process Creating business opportunities and differentiating factor from competitors Ambition to further build leadership positions in 15 Appendices Content Material it y matrix Integrated Report Environmental policy Human Resources Health Safety Governance policy Ethics Sustainable procurement Green Bond R assemble urs d Energies Innovation ES G criteria to assess investment projects Ma grit te initiative Jira u Material it y matrix a strong stake holder dialogue process Identify priority issues according to their relevance both to ENGI E and its stakeholders Cover environmental social societal economic financial and governance issues Fit in with EN GIEs approach to responsible performance High convergence between the priorities for our stakeholders and those of the Group Stake holder dialogue Local acceptance Business conduct G HG emissions Reputation Health safety Facility safety Access to energy Responsible purchasing Biodiversity Regulatory compliance Staff diversity Human rights Risk management Taxation Air pollution Relations with political decision makers Adaptability of the business model Management culture Staff career personal development Social dialogue Operational efficiency Innovation Balanced energy mix Local recruitment Customer manager relations Security of supply Financial strength Energy transition Financial,11.898,2,2.0,2.0
+323,ENN Energy Holdings Ltd,Q55610325,0,False,nothing,-0.1399999999999999,-1,-1.0,-1.0
+324,Enphase Energy Inc,Q17012234,2,False,nothing,26.99,3,3.0,3.0
+325,Entra ASA,Q5380649,1,True,business and how we operate SD G 9 Industry Innovation and Infrastructure SD G 11 Sustainable cities and communities SD G 12 Responsible consumption and SD G 13 Climate action,-13.1,1,1.0,1.0
+326,EPAM Systems Inc,Q1275613,0,True,One day we will even meet say a sustainability director at a government institution and remark We ve got all the expertise and technology to help you to build a more sustainable city lets work together,40.510000000000005,2,2.0,2.0
+327,EQT Corp,Q5323987,0,False,nothing,15.188333333333334,1,1.0,1.0
+328,Equinix Inc,Q851641,0,False,nothing,298.6975,1,1.0,1.0
+329,Equinor ASA,Q1776022,0,False,nothing,-63.685,-1,-1.0,-1.0
+330,Equity Residential,Q187740,1,False,nothing,-5.64,0,1.8333333333333333,0.5
+331,Erste Group Bank AG,Q1310001,0,False,nothing,-0.068,-1,-1.0,-1.0
+332,Essity AB,Q30938280,0,False,nothing,-26.160000000000004,-1,-1.0,-1.0
+333,Etsy Inc,Q1353939,0,False,nothing,110.43166666666669,1,1.0,1.0
+334,Eutelsat Communications SA,Q848336,0,False,nothing,35.193333333333335,1,1.0,1.0
+335,Everest Re Group Ltd,Q1381973,0,False,nothing,30.950000000000003,1,1.0,1.0
+336,Evraz PLC,Q1382653,0,False,nothing,-0.6399999999999992,-1,-1.0,-1.0
+337,Exxon Mobil Corp,Q156238,0,False,nothing,-137.8398245614035,-1,0.21052631578947367,-0.5
+338,F5 Networks Inc,Q3029296,0,False,nothing,1.58,1,1.0,1.0
+339,Facebook Inc,Q355,0,False,nothing,-922.28115,-1,-1.0,-1.0
+340,Falabella SA,Q5135229,0,False,nothing,0.0,-1,-1.0,-1.0
+341,Faurecia SE,Q142205,1,False,nothing,11.015,2,2.0,2.0
+342,Federal Signal Corp,Q1400073,0,False,nothing,0.7599999999999999,1,1.0,1.0
+343,Ferguson PLC,Q624682,0,False,nothing,0.0,-1,-1.0,-1.0
+344,First Abu Dhabi Bank PJSC,Q29124183,0,False,nothing,0.4649999999999998,1,1.0,1.0
+345,First Quantum Minerals Ltd,Q1419532,0,False,nothing,0.4349999999999999,1,1.0,1.0
+346,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 41 Partnerships for Affordable Housing Home Ownership and Developing Our Local Economies San Francisco Housing Accelerator Fund The San Francisco Housing Accelerator Fund is a cross sector fund that provides dynamic financing tools to help produce and preserve affordable rental housing in San Francisco,3.255000000000001,2,2.0,2.0
+347,First Republic Bank/CA,Q5453752,0,True,Senior Preferred Banker sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 51 Managing Our Impact on the Environment As a responsible member of our communities we are focused on managing our impact on the environment and supporting clients in managing their following are some of the ways we have worked to reduce our environmental footprint over several years We installed solar energy panels to reduce our overall energy consumption at many of our offices in the San Francisco Bay Area,3.255000000000001,2,2.0,2.0
+348,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 61 meeting clients earlier Professional Loan Program P LP 1 2 Number of Households 4 5,3.255000000000001,2,2.0,2.0
+349,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 37 community advisory board Formed in 2016 the Community Advisory Board consists of distinguished community leaders in affordable housing financial empowerment and small business and economic development,3.255000000000001,2,2.0,2.0
+350,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 53 we serve more than 100 environmentally focused nonprofit organizations The Center for Sustainable Energy C SE The Center for Sustainable Energy C SE is a nonprofit energy program administration and advisory services organization,3.255000000000001,2,2.0,2.0
+351,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 57 net promotion in practice Our NPS is more than just a number it translates into more business with clients,3.255000000000001,2,2.0,2.0
+352,First Republic Bank/CA,Q5453752,0,True,with Bank Regulations page 27 sustainable culture and community index sustainable culture and community index first republic its a privilege to serve you 89 employee diversity and inclusions as b code metric disclosure FN AC 330 a,3.255000000000001,2,2.0,2.0
+353,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 39 Supporting Affordable Housing and Home Ownership affordable housing Affordable housing makes our communities more inclusive by providing adequate housing for people from a broader range of economic backgrounds,3.255000000000001,2,2.0,2.0
+354,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community shareholders sustainable culture and community shareholders first republic its a privilege to serve you 77 Leadership When you have an organization with such a strong representation of women at the senior levels all the younger women can see a clear path for success,3.255000000000001,2,2.0,2.0
+355,Fiserv Inc,Q1420513,0,False,nothing,200.5425,1,1.0,1.0
+356,FleetCor Technologies Inc,Q16838618,0,False,nothing,-0.69,-1,-1.0,-1.0
+357,Flowserve Corp,Q1430331,0,False,nothing,34.31999999999999,1,1.0,1.0
+358,Ford Motor Co,Q44294,0,False,nothing,-66.73283018867924,-1,-1.0,-1.0
+359,Fortescue Metals Group Ltd,Q1438957,0,False,nothing,3.978333333333334,1,1.0,1.0
+360,Fortinet Inc,Q2749364,0,False,nothing,187.13,1,1.0,1.0
+361,Fortive Corp,Q27919383,0,False,nothing,41.55,1,1.0,1.0
+362,Freeport-McMoRan Inc,Q1453620,0,False,nothing,-3.4599999999999973,-1,-1.0,-1.0
+363,Fresenius Medical Care AG & Co KGaA,Q650259,0,False,nothing,-60.55333333333334,-1,-1.0,-1.0
+364,Fresenius SE & Co KGaA,Q705361,0,False,nothing,-3.778928571428572,-1,-1.0,-1.0
+365,FUCHS PETROLUB SE,Q878404,0,False,nothing,0.0,-1,-1.0,-1.0
+366,FuelCell Energy Inc,Q16993862,0,False,nothing,-37.66714285714285,-1,-1.0,-1.0
+367,Fuji Electric Co Ltd,Q498662,1,False,nothing,0.0,0,0.0,0.0
+368,Galapagos NV,Q5517961,0,False,nothing,9.4,1,1.0,1.0
+369,Gartner Inc,Q174198,0,False,nothing,-18.28277777777777,-1,-1.0,-1.0
+370,Gazprom PJSC,Q102673,0,False,nothing,-53.91244897959184,-1,-0.5,-1.0
+371,Geberit AG,Q464905,0,False,nothing,-2.4,-1,-1.0,-1.0
+372,Geely Automobile Holdings Ltd,Q739000,0,False,nothing,9.8525,1,1.0,1.0
+374,General Electric Co,Q54173,0,True,Our expansive business operations provide cities and communities with career and business opportunities that support them in achieving a more sustainable future,13.7284,2,2.0,2.0
+375,General Mills Inc,Q629998,0,False,nothing,-17.877142857142857,-1,-1.0,-1.0
+376,General Motors Co,Q81965,0,True,GM works to create sustainable solutions that improve the communities in which we live and work,-92.78060344827584,0,0.0,0.0
+377,General Motors Co,Q81965,0,True,Local Solutions Scalable Impact Our Renewable Energy Journey At General Motors we are working hard to combat climate change and reduce our environmental impact,-92.78060344827584,0,-0.5,-0.5
+378,GFL Environmental Inc,Q25001278,1,False,nothing,30.76000000000001,2,2.0,2.0
+379,Gilead Sciences Inc,Q663596,0,False,nothing,-11.901999999999996,-1,-1.0,-1.0
+380,Givaudan SA,Q509544,0,False,nothing,39.43333333333334,1,1.0,1.0
+381,GlaxoSmithKline PLC,Q212322,0,False,nothing,-244.9448,-1,-1.0,-1.0
+382,Global Payments Inc,Q5570544,0,False,nothing,12.660000000000002,1,1.0,1.0
+383,GN Store Nord AS,Q1544339,0,False,nothing,18.24,1,1.0,1.0
+384,Golden Agri-Resources Ltd,Q17039222,0,False,nothing,-17.92,-1,0.3333333333333333,-0.5
+385,Goldman Sachs Group Inc,Q193326,0,True,74 Yo Y in more WORLD RESOURCES INSTITUTE How does a research driven global institute focused on sustainability manage its portfolio for the long term View video MUNICIPAL BONDS AN OVERLOOKED IMPACT INVESTMENT As interest grows in achieving positive impacts while generating market rate returns investors may forget about the opportunity in their own backyards municipal more THEMES These conversations along with our re afr mati on of long held principles of inclusion are invaluable to our organization,-26.07679487179487,0,0.0,0.0
+386,Goodman Group,Q3110722,1,True,Our properties are in the tier 1 cities of Beijing Shanghai Chengdu Hong Kong Guangzhou Tokyo and Osaka cities with the largest populations that are leveraging the latest consumer and technology trends and driving the sustainable growth of our Rambler Goodman Interlink Hong Kong SAR network 25 Europe UK Date of establishment 2006 AUM 9,-1.4880000000000002,1,1.0,1.0
+387,Goodyear Tire & Rubber Co,Q620875,0,False,nothing,-64.32444444444444,-1,-1.0,-1.0
+388,GrafTech International Ltd,Q5592433,0,False,nothing,94.095,1,1.0,1.0
+389,Graphic Packaging Holding Co,Q5597139,0,False,nothing,9.0,1,1.0,1.0
+390,Grasim Industries Ltd,Q906943,0,True,Through our engagement programmes we understand the community s expectations of better health and hygiene facilities more local employment opportunities better educational and infra structural amenities VISION COMMUNITIES IN WHICH WE sSD G 4 Providing inclusive and equitable quality education and lifelong learning opportunities for all 21 253 Education 6160 Social trained so far,13.15,2,2.0,2.0
+391,Great Portland Estates PLC,Q5599804,1,True,Every effort should be made to maximise the social value of the project and completed aim to be intrinsically involved with the communities in which our developments are built and operated and encourage our project teams and employees to become directly involved through dedicating time to volunteering for local community local community needs and incorporate them into our activities Our approach Creating sustainable spaces Creating a sustainable footprint Creating sustainable relationships Relationships with the locality Promote the property and construction and the future Adapt to of slavery Positive value Deliverable s Local authority policy on social value established Community stakeholders identified Social value measures identified Reporting against social value measures on a monthly basis Soho streets W 1 30 The process of designing and delivering developments can positively contribute to raising the aspirations of local children and young people,25.41,3,3.0,3.0
+392,Great Portland Estates PLC,Q5599804,1,True,We aim to increase biodiversity across our portfolio by introducing urban greening to improve air quality reduce the urban heat island effect and provide habitats for insects and Reduce our energy intensity by 40 by 2030 when compared to our 2016 target Reduce our energy intensity by 8,25.41,3,3.0,3.0
+393,Greencore Group PLC,Q5603798,0,False,nothing,-97.5,-1,-1.0,-1.0
+394,Greif Inc,Q20486914,0,False,nothing,7.92,1,1.0,1.0
+395,Grieg Seafood ASA,Q5608696,0,False,nothing,-0.2199999999999997,-1,-1.0,-1.0
+396,Grifols SA,Q901262,0,False,nothing,-0.1157142857142857,-1,-1.0,-1.0
+397,Gruma SAB de CV,Q545402,0,False,nothing,0.0,-1,-1.0,-1.0
+398,Grupo Bimbo SAB de CV,Q775031,0,False,nothing,-7.199999999999999,-1,-1.0,-1.0
+399,Grupo Televisa SAB,Q47099,0,False,nothing,140.78666666666666,1,1.0,1.0
+400,GS Yuasa Corp,Q931156,0,False,nothing,12.86,1,1.0,1.0
+401,Gudang Garam Tbk PT,Q1553005,0,False,nothing,-1.41,-1,-1.0,-1.0
+402,Haier Smart Home Co Ltd,Q1143211,0,False,nothing,-2.6236363636363635,-1,-1.0,-1.0
+403,Halliburton Co,Q656165,0,True,The sustainability of our business the reduction in environmental impacts and the enhancement of the economic and social well being of our employees and the communities in which we live and work are critical to our success,103.50571428571432,2,0.21052631578947367,2.0
+404,Halma PLC,Q5643254,0,False,nothing,8.77,1,1.0,1.0
+405,Hana Financial Group Inc,Q490601,0,False,nothing,-6.78,-1,-1.0,-1.0
+406,Hanesbrands Inc,Q5647768,0,False,nothing,91.32,1,1.0,1.0
+407,Hankook Tire & Technology Co Ltd,Q493094,0,False,nothing,-1.2600000000000002,-1,0.0,-0.5
+408,Hapvida Participacoes e Investimentos SA,Q10293878,0,False,nothing,0.0,-1,-1.0,-1.0
+409,HCA Healthcare Inc,Q1630431,0,False,nothing,-331.52,-1,-1.0,-1.0
+410,HCL Technologies Ltd,Q5629103,0,True,As the world looks forward to a resurgent world post C OVID we will continue to nurture clean green and healthy communities where everyone is em pow ered and equipped to reach their full Sustainability Report Our commitment to a greener planet HCL takes its responsibility of contributing towards building a greener planet very seriously,71.18666666666667,2,2.0,2.0
+411,HCL Technologies Ltd,Q5629103,0,True,HCL s Sustainability vision is founded on 4 Rs Responsible Business Redefine Workplace Renew Ecosystem and Repay HCL we have always believed in the power of communities and ecosystems to drive positive change,71.18666666666667,2,2.0,2.0
+412,Healthpeak Properties Inc,Q16975567,2,False,nothing,0.0,1,1.8333333333333333,1.0
+413,HeidelbergCement AG,Q632233,0,False,nothing,-7.229999999999999,-1,-1.0,-1.0
+414,HelloFresh SE,Q23014836,0,False,nothing,22.22,1,1.0,1.0
+415,Helvetia Holding AG,Q933766,0,True,Sustainable cities and communities With our real estate portfolio worth CH F 7,0.0,0,0.0,0.0
+416,Helvetia Holding AG,Q933766,0,True,103 2 We pay attention to local environmentally friendly and socially responsible procurement and use of our infrastructure and consumable materials,0.0,0,0.0,0.0
+417,Henderson Land Development Co Ltd,Q1604969,2,True,We incorporate environmentally and environmental performance while also mitigating the urban heat island effect managing storm water effectively enhancing biodiversity and reducing air pollution,-2.4800000000000004,2,2.0,2.0
+418,Henkel AG & Co KGaA,Q276507,0,False,nothing,36.92000000000001,1,1.0,1.0
+419,Hexcel Corp,Q5748967,0,False,nothing,0.2164705882352941,1,1.0,1.0
+420,Hilton Worldwide Holdings Inc,Q1057464,0,False,nothing,160.74125000000004,1,1.0,1.0
+421,HKT Trust & HKT Ltd,Q5895075,0,False,nothing,6.56,1,1.0,1.0
+422,Hokuetsu Corp,Q11404108,0,False,nothing,0.0,-1,-1.0,-1.0
+423,Holcim Ltd,Q267818,0,True,4 Hol cim US Diversity page 30 Hol cim A pasco Building livable communities page 34 Hol cim US Wastewater treatment award page 27 Hol cim Costa Rica Improving CO 2 efficiency page 18 Hol cim Brazil Mobilizing the communities page 36 Cement o Pol pai co Building livable communities page 34 Hol cim A pasco Sustainable relationships micro enterprise and end user initiatives page 12 Latin America Education and training to reduce poverty page 28 Hol cim South Africa Product development page 17 Hol cim Morocco Protecting endangered species website Hol cim Foundation for Sustainable Construction page 4 Hol cim Romania Improving CO 2 efficiency page 18 Hol cim France Benelux Helping to reduce an environmental disaster page 23 Hol cim South Africa External acknowledgment for our OHS practices page 32 Overview of the cases presented in this report and on our CEO statement 2 Vision strategy 4 Corporate governance management systems 8 Economic performance 12 Environmental performance 18 Social performance 28 Stake holder relations 36 Methodology verification 40 Siam City Cement Forest rehabilitation website Hol cim Vietnam Wetland conservation page 24 Hol cim Vietnam Clean water bright future website Union Cement Corporation Best CSR policy page 34 Hol cim New Zealand Port clean up page 8 Hol cim Group company locations Hol cim Lanka Sustainable relationships micro enterprise and end user initiatives page 12 Chairman CEO statement 2 Chairman CEO statement 3 Sustainable development has taken its place as a corporate our SD agenda has developed we have added several new include better corporate governance the willingness to engage with a variety of stakeholders and a better understanding of the range of possibilities for a new dynamic toward sustainability in the construction we have refined our strategies and policies and improved our internal structures and global 2003 we strengthened our governance structure and,-29.965714285714284,0,0.0,0.0
+424,Holmen AB,Q1467848,0,False,nothing,0.0,-1,-1.0,-1.0
+425,Hologic Inc,Q5884072,0,False,nothing,1024.4266666666665,1,1.0,1.0
+426,Home Depot Inc,Q864407,0,False,nothing,-8.771764705882356,-1,-1.0,-1.0
+427,HomeServe PLC,Q5890431,0,True,The Foundations purpose is to make homes better and build better communities through three core pillars of activity Apprenticeships supporting and encouraging employers to employ and train more apprentices in the construction home improvement and repair sector Communities supporting vulnerable people to lead a healthy safe and long life in their own homes Environment encouraging employers to adapt to deliver green initiatives and promoting the benefits of developing a green the year our UK employees ran a variety of virtual fundraising events which raised 38 000 for our chosen team charities,13.175000000000002,2,2.0,2.0
+428,Honda Motor Co Ltd,Q9584,0,False,nothing,157.8421052631579,1,1.0,1.0
+429,Housing Development Finance Corp Ltd,Q1446319,0,False,nothing,2.028,1,1.0,1.0
+430,Howmet Aerospace Inc,Q25104597,0,False,nothing,3.46,1,1.0,1.0
+431,HP Inc,Q21404084,0,False,nothing,-9.0,-1,-1.0,-1.0
+432,HSBC Holdings PLC,Q190464,0,False,nothing,-22.74875,-1,-1.0,-1.0
+433,HUGO BOSS AG,Q491627,0,False,nothing,-4.983333333333333,-1,-1.0,-1.0
+434,Huntsman Corp,Q851361,1,False,nothing,5.764999999999999,2,2.0,2.0
+435,Hydro One Ltd,Q3143709,0,False,nothing,9.409999999999998,1,1.0,1.0
+436,Hyundai Mobis Co Ltd,Q497534,0,False,nothing,-1.46,-1,0.3333333333333333,-0.5
+437,Hyundai Motor Co,Q55931,0,False,nothing,18.971384615384626,1,0.3333333333333333,1.0
+438,Iberdrola SA,Q1437502,0,False,nothing,-36.333333333333336,-1,-1.0,-1.0
+439,ICICI Bank Ltd,Q1653258,0,True,Socially Responsible Banking ENVIRONMENTAL SOCIAL AND GOVERNANCE REPORT 55 We strive to meet the financial requirements of customers in rural and semi urban locations,10.495454545454546,2,2.0,2.0
+440,IDEX Corp,Q5970002,0,False,nothing,156.81714285714287,1,1.0,1.0
+441,IDEXX Laboratories Inc,Q1758392,0,False,nothing,825.0899999999999,1,1.0,1.0
+442,iHeartMedia Inc,Q477993,0,True,57 200 raised to help the under served population in the community with their electric bill 107 i Heart Media continually looks for ways to encourage the communities in which we live and work to protect the environment and to conserve energy and natural resources,10.723583333333332,2,2.0,2.0
+443,iHeartMedia Inc,Q477993,0,True,We look forward to rolling this out across all of our cities in the coming HALL GREEN LIGHT FUND CEO AND CO FOUNDER CAMPAIGN IMPACT 110 000 Children and Families Across Green lights Cities With Their Innovative Replica ble and Effective Programs Were Reached by Green lights 27 Portfolio Organizations in Programs Address a Wide Variety of Issues Including Early Childhood Literacy College Access and Persistence Teacher Effectiveness Poor Health Outcomes Family Income and Asset Building and Youth Aging Out of Foster GREEN LIGHT Green Light Fund helps transform the lives of children youth and families in high poverty urban areas by creating local infrastructure and a consistent annual process to Identify critical needs Import innovative entrepreneurial programs that can have a significant measurable impact and Galvanize local support to help programs reach and sustain impact in the new 74 DE A THE U,10.723583333333332,2,2.0,2.0
+444,II-VI Inc,Q15109887,0,False,nothing,0.7142857142857143,1,1.0,1.0
+445,Illinois Tool Works Inc,Q1510378,0,False,nothing,238.86000000000004,1,1.0,1.0
+446,Illumina Inc,Q2068984,0,False,nothing,-16.461111111111123,-1,-1.0,-1.0
+447,Imperial Brands PLC,Q1471161,0,False,nothing,-61.32000000000001,-1,0.0,-0.5
+448,Industria de Diseno Textil SA,Q44504,0,False,nothing,-19.098,-1,-1.0,-1.0
+449,Industrial & Commercial Bank of China Ltd,Q26463,0,False,nothing,-29.785714285714285,-1,-1.0,-1.0
+450,Inficon Holding AG,Q1404191,0,False,nothing,0.0,-1,-1.0,-1.0
+451,Infineon Technologies AG,Q311394,0,False,nothing,26.42,1,0.0,0.5
+452,Inner Mongolia Yili Industrial Group Co Ltd,Q1231406,0,False,nothing,59.15,1,1.0,1.0
+453,Innergex Renewable Energy Inc,Q3151374,0,False,nothing,1.938,1,1.0,1.0
+454,Intel Corp,Q248,0,False,nothing,21.950392156862744,1,1.0,1.0
+455,InterContinental Hotels Group PLC,Q1424962,0,False,nothing,74.64999999999999,1,1.0,1.0
+456,International Business Machines Corp,Q37156,0,False,nothing,179.06525000000002,1,0.21052631578947367,1.0
+457,International Paper Co,Q202972,0,False,nothing,83.81,1,1.0,1.0
+458,Intesa Sanpaolo SpA,Q1343118,0,False,nothing,50.82,1,1.0,1.0
+459,Intrum AB,Q1671623,0,False,nothing,16.2,1,1.0,1.0
+460,Intuitive Surgical Inc,Q2743863,0,False,nothing,10.859999999999998,1,1.0,1.0
+461,IPG Photonics Corp,Q5973024,0,False,nothing,4.4300000000000015,1,1.0,1.0
+462,IQVIA Holdings Inc,Q305473,0,False,nothing,13.100000000000003,1,1.0,1.0
+463,ISS A/S,Q9956,0,False,nothing,-0.8,-1,-1.0,-1.0
+464,ITC Ltd,Q1655008,0,False,nothing,35.26571428571428,1,0.0,0.5
+465,ITM Power PLC,Q5974865,0,False,nothing,-5.120000000000001,-1,-1.0,-1.0
+466,Itron Inc,Q5923178,1,True,Our company partners with cities and utilities to build secure reliable connected communities that offer a multitude of new services to improve the quality of life ensure the safety and promote the well being of people around the globe,15.105,3,3.0,3.0
+467,Itron Inc,Q5923178,1,True,13 Creating Resourceful Communities Through corporate and employee giving volunteer is m and educational outreach our contributions to organizations and investments in our communities are a source of pride and compelling corporate culture for our recognize the strength in building collaborative communities and celebrate the opportunity to solve real world problems as we work closely with our customers community partners and city leaders to help create a positive impact on and our employees have a distinct role to play in keeping our communities vibrant well educated and working collectively to create a more sustainable future,15.105,3,3.0,3.0
+468,Japan Tobacco Inc,Q898568,0,False,nothing,3.38,1,1.0,1.0
+469,Jardine Matheson Holdings Ltd,Q1683452,0,False,nothing,0.3350000000000026,1,0.3333333333333333,1.0
+470,Jazz Pharmaceuticals PLC,Q16255113,0,True,We seek to operate our manufacturing facilities in an environmentally responsible way to protect our people our business our environment and the local communities in which we operate,18.71333333333333,2,2.0,2.0
+471,JBS SA,Q1676554,0,False,nothing,-55.9025,-1,-1.0,-1.0
+472,JELD-WEN Holding Inc,Q1612593,0,False,nothing,13.400000000000002,1,1.0,1.0
+473,Johnson Controls International plc,Q667865,0,False,nothing,74.904,1,1.0,1.0
+474,Johnson Matthey PLC,Q502470,2,False,nothing,29.325,3,3.0,3.0
+475,Johnson Outdoors Inc,Q19654979,0,False,nothing,13.965,1,1.0,1.0
+476,JPMorgan Chase & Co,Q192314,0,False,nothing,-36.82178082191781,-1,-0.42857142857142855,-1.0
+477,JSW Steel Ltd,Q6108978,0,True,The Foundation focuses on outreach of government programs in health and employment generation through gap filling support moving our townships and communities Empowering communities and enabling them to grow hand in hand with us is deeply ingrained in our business carbon efficient management systems in situ conservation of at least one major monument at all project locations and promote national cooperation for conservation of all monuments collaborative earth care initiatives and need based social development interventions,11.496666666666664,2,2.0,2.0
+478,JSW Steel Ltd,Q6108978,0,True,Our townships and communities to move towards carbon efficient management conservation of at least one major monument at project locations and promotion of national cooperation for conservation of all monuments,11.496666666666664,2,2.0,2.0
+479,Jyske Bank A/S,Q136672,0,False,nothing,11.28,1,1.0,1.0
+480,Kaiser Aluminum Corp,Q6348410,0,False,nothing,-0.4844444444444444,-1,-1.0,-1.0
+482,KB Home,Q6326486,2,False,nothing,42.03,3,3.0,3.0
+483,Kemira Oyj,Q905801,0,False,nothing,2.1,1,1.0,1.0
+484,Kering SA,Q931207,0,False,nothing,-9.36,-1,-1.0,-1.0
+485,Keyence Corp,Q1475699,0,False,nothing,13.410000000000002,1,1.0,1.0
+486,Kia Corp,Q35349,0,False,nothing,58.753958333333344,1,0.3333333333333333,1.0
+487,Kimberly-Clark Corp,Q1741634,0,False,nothing,-4.693076923076922,-1,-1.0,-1.0
+488,Kinder Morgan Inc,Q931032,0,False,nothing,-29.279999999999998,-1,-1.0,-1.0
+489,Kingspan Group PLC,Q6413386,2,False,nothing,-37.333333333333336,1,1.0,1.0
+490,Klabin SA,Q1474718,0,False,nothing,0.0,-1,-1.0,-1.0
+491,Knorr-Bremse AG,Q256290,2,False,nothing,-13.38,1,1.0,1.0
+492,Komatsu Ltd,Q162257,1,False,nothing,12.02,2,2.0,2.0
+493,Kone Oyj,Q1146592,0,True,The safety of the billion people who use our equipment daily is our top more about how we create better urban environments with our customers and partners on TABLES AND CHARTS REPORTING SCOPE AND INDICES CONTENTS SUSTAINABILITY AS PART OF OUR BUSINESS 14 K ONE SUSTAINABILITY REPORT 2020 REPORTING AREAS HOW WE HELP OUR CUSTOMERS When striving for carbon neutrality urban communities need to be developed around a core of sustainability and well being,13.26,2,2.0,2.0
+494,Kone Oyj,Q1146592,0,True,As the challenges of global warming environmental protection and resource depletion become increasingly pressing creating a sustainable society is a TABLES AND CHARTS REPORTING SCOPE AND INDICES CONTENTS SUSTAINABILITY AS PART OF OUR BUSINESS 6 K ONE SUSTAINABILITY REPORT 2020 REPORTING AREAS HIGHLIGHTS SUSTAINABLE SUCCESS WITH CUSTOMERS OUR STRATEGY AND MEGA TRENDS At K ONE our mission is to improve the ow of urban life,13.26,2,2.0,2.0
+495,Kone Oyj,Q1146592,0,True,3 K ONE 2015 SUSTAINABILITY REPORT K ONE 2015 SUSTAINABILITY REPORT STRATEgY AND MEgA TRENDS STRATEgY AND MEgA TRENDS 89 TURNINg OUR VISION INTO REALITY From low rise buildings to the worlds highest skyscrapers or the demands of shopping malls hotels airports and transit hubs to cruise ships stadiums and concert halls K ONE remains focused on delivering the best People Flow experience and we are proud to serve some of the worlds most well known buildings and urban job is to make the best of the worlds cities buildings and public spaces because we believe that cities are part of the solution for a better future,13.26,2,2.0,2.0
+496,Kone Oyj,Q1146592,0,True,Read more about how we improve cities one project at the time Read how we have supported our customers green building agenda K ONE SUSTAINABILITY REPORT,13.26,2,2.0,2.0
+497,Koninklijke Ahold Delhaize NV,Q20539261,0,False,nothing,43.09,1,1.0,1.0
+498,Korea Electric Power Corp,Q486737,0,False,nothing,-6.88,-1,-1.0,-1.0
+499,Kraft Heinz Co,Q19681433,0,False,nothing,-1.3983333333333334,-1,0.21052631578947367,-0.5
+500,Kraton Corp,Q2417728,0,False,nothing,51.96,1,1.0,1.0
+501,Kroger Co,Q153417,0,False,nothing,-11.506,-1,-1.0,-1.0
+502,Kunlun Energy Co Ltd,Q1792238,0,False,nothing,0.0,-1,-1.0,-1.0
+503,Kurita Water Industries Ltd,Q6446085,1,False,nothing,13.95,2,2.0,2.0
+504,Kweichow Moutai Co Ltd,Q1518607,0,False,nothing,-8.7,-1,-1.0,-1.0
+505,Lamb Weston Holdings Inc,Q3216600,0,False,nothing,36.00000000000001,1,1.0,1.0
+506,Lattice Semiconductor Corp,Q747207,0,False,nothing,20.1,1,1.0,1.0
+507,Lear Corp,Q502344,0,False,nothing,7.36,1,1.0,1.0
+508,LendingTree Inc,Q6522339,0,False,nothing,21.9225,1,1.0,1.0
+509,Lennar Corp,Q16981175,1,False,nothing,-4.48,0,0.0,0.0
+510,Lenovo Group Ltd,Q14799,0,False,nothing,-25.154,-1,-1.0,-1.0
+511,LG Chem Ltd,Q486976,0,False,nothing,-32.25,-1,-1.0,-1.0
+512,Linde PLC,Q682759,0,False,nothing,-24.14,-1,-1.0,-1.0
+513,Live Nation Entertainment Inc,Q1061903,0,False,nothing,-30.046000000000003,-1,-1.0,-1.0
+514,LKQ Corp,Q20711490,0,False,nothing,-27.17,-1,-1.0,-1.0
+515,Lloyds Banking Group PLC,Q1152764,0,False,nothing,-2.6533333333333338,-1,-1.0,-1.0
+516,London Stock Exchange Group PLC,Q5573225,0,False,nothing,2.1374999999999997,1,1.0,1.0
+517,Longfor Group Holdings Ltd,Q11180568,0,True,Inspired by the grand strategy of SaaS Space as a Service putting ourselves in customers shoes driven by technology Long for has always been deeply reshaping urban space and services creating Alive Space and Compelling Service and spread the concept of sustainable development to all com pan ions,-2.5200000000000005,0,0.0,0.0
+518,LONGi Green Energy Technology Co Ltd,Q28207127,0,False,nothing,-4.48,-1,-1.0,-1.0
+519,Lotte Chemical Corp,Q482841,0,True,We launched the campaign in 2010 in cooperation with Ulsan Life Forest and Ulsan KBS in order to promote urban greening in Ulsan a heavily industrialized city and to raise public awareness of the importance of a green environment,-34.32,0,0.0,0.0
+520,Louisiana-Pacific Corp,Q1872227,2,False,nothing,-5.725,1,1.0,1.0
+521,LUKOIL PJSC,Q329347,0,False,nothing,-23.225,-1,-1.0,-1.0
+522,Lumen Technologies Inc,Q5063092,0,False,nothing,-350.68666666666667,-1,-1.0,-1.0
+523,Lumentum Holdings Inc,Q3156887,0,False,nothing,-4.420000000000001,-1,-1.0,-1.0
+524,Lundin Energy AB,Q253423,0,False,nothing,49.44,1,1.0,1.0
+525,Luzhou Laojiao Co Ltd,Q4260724,0,False,nothing,-3.08,-1,-1.0,-1.0
+526,LyondellBasell Industries NV,Q899255,0,False,nothing,-4.14,-1,-1.0,-1.0
+527,Magna International Inc,Q697311,0,False,nothing,-19.64,-1,-1.0,-1.0
+528,Mapfre SA,Q544532,0,False,nothing,-8.600000000000001,-1,-1.0,-1.0
+529,Mapletree Logistics Trust,Q6754089,1,False,nothing,1.09,2,2.0,2.0
+530,Marfrig Global Foods SA,Q3064573,0,False,nothing,-101.76,-1,-1.0,-1.0
+531,Marriott International Inc/MD,Q1141173,0,True,In the Report Leading the Challenge on Climate Change W TTC and participating members outlined sustainability policies and commitments around five themes accountability and responsibility local community sustainable growth and capacity building educating customers and stakeholders greening supply chains and innovations capital investment and full working group of members and other stakeholders from the tourism industry public sector and academia encouraged governments to implement supportive and progressive policies to facilitate our industry with Suppliers Marriott expects our suppliers to operate in an environmentally responsible manner by complying fully with all applicable international federal regional state and local environmental laws ordinances and regulations,61.423,2,2.0,2.0
+532,Marvell Technology Inc,Q1347782,0,False,nothing,6.840000000000001,1,1.0,1.0
+533,Masco Corp,Q6782872,0,False,nothing,14.085,1,1.0,1.0
+534,Mastercard Inc,Q489921,0,False,nothing,1.267999999999997,1,1.0,1.0
+535,Maxim Integrated Products Inc,Q1784671,0,False,nothing,258.44,1,1.0,1.0
+536,Maximus Inc,Q6795931,0,False,nothing,27.410000000000004,1,1.0,1.0
+537,MDC Holdings Inc,Q6715131,0,False,nothing,46.815,1,1.0,1.0
+538,MediaTek Inc,Q699848,0,False,nothing,22.55476190476191,1,1.0,1.0
+539,Medical Properties Trust Inc,Q30693638,0,False,nothing,-4.38,-1,-1.0,-1.0
+540,MEDNAX Inc,Q16981865,0,False,nothing,-1.790000000000001,-1,-1.0,-1.0
+541,Medtronic PLC,Q642189,0,False,nothing,49.288,1,1.0,1.0
+542,Meituan,Q15907772,0,False,nothing,-31.608,-1,-1.0,-1.0
+543,Mercer International Inc,Q1391599,0,False,nothing,-26.91,-1,-1.0,-1.0
+544,MetLife Inc,Q607131,0,False,nothing,62.39200000000001,1,1.0,1.0
+545,METRO AG,Q169167,0,False,nothing,-0.5,-1,-1.0,-1.0
+546,Metro Pacific Investments Corp,Q6824659,0,False,nothing,5.415000000000001,1,1.0,1.0
+547,MGM China Holdings Ltd,Q4043414,0,False,nothing,-0.76,-1,-1.0,-1.0
+548,MGM Resorts International,Q568532,0,False,nothing,48.873000000000005,1,1.0,1.0
+549,Microchip Technology Inc,Q1545076,0,False,nothing,-1.22,-1,-1.0,-1.0
+550,Microsoft Corp,Q2283,0,True,We work with Rockefeller s 100 Resilient Cities which helps cities around the world address 21 st century physical social and economic challenges,-60.329545454545446,0,0.21052631578947367,0.5
+551,Midea Group Co Ltd,Q2609533,0,False,nothing,119.51333333333332,1,1.0,1.0
+552,Millicom International Cellular SA,Q276345,0,False,nothing,5.893333333333331,1,1.0,1.0
+553,Mitsubishi Estate Co Ltd,Q304962,1,True,Of course what we do at the Mitsubishi Estate Group has a strong an it y with Goal 11 Sustainable Cities and Communities but the connections go further than that,19.32,3,3.0,3.0
+554,Mitsubishi Estate Co Ltd,Q304962,1,True,We are engaged in socially and environmentally conscious urban planning with people in in the United States In the U,19.32,3,3.0,3.0
+555,Mitsubishi Estate Co Ltd,Q304962,1,True,Through its investment in MAGUS Mitsubishi Estate will continue to utilize art in urban planning and development and strengthening relationships with customers going forward with the aim of creating an enriched Welfare Basic Policy and Approach in Urban Development The Mitsubishi Estate Group has set out to create a truly meaningful society as its Group Mission by building attractive environmentally sound communities where people can live work and relax with contentment based on the Three Principles which is the management philosophy of the Mitsubishi order to further promote this mission the Mitsubishi Estate Group focuses on sustainability in urban development including urban regeneration taking into consideration social needs such as disaster preparedness and barrier free access in all properties as part of the planning phase and guide the development and operation phase as well as the prevention of the spread of infectious diseases and there by allowing diverse people regardless of nationality race color language religion sex gender sexual orientation gender identity age political or other opinions national or social origins property disability birth class or other status to live work and relax with to facilitate use by many people we consider access to public transport during design and development stages in all properties as we select development sites and make investments,19.32,3,3.0,3.0
+556,Mitsubishi Estate Co Ltd,Q304962,1,True,The company aims to obtain ABIN C cert i cation condominium category with projects that demonstrate particularly high levels of contribution to preservation of will continue to make efforts in environmentally friendly urban development and residential development for the preservation of biodiversity and sustainable ABIN C cert i cation condominium category ABIN C cert i cation condominium category evaluates and cer ties efforts at companies such as the creation of green spaces that consider biodiversity and the management and use of green spaces from the four perspectives of creating environments that contribute to biodiversity maintenance and management that considers biodiversity communication activities and other initiatives,19.32,3,3.0,3.0
+557,Mitsubishi Estate Co Ltd,Q304962,1,True,an expansion in development opportunities and demand for smart communities houses ando ces Interactive value added urban development based on knowledge building and networks Cutting edge urban development with continual open innovation Innovate business models and maximize performance Support the creation of new ideas and businesses from the perspective of urban development contribute to the growth of cities and industries MITSUBISHI ESTATE GROUP Sustainability Report OUR ACTION Operating Incubation O ces READ MORE Using Cutting Edge Technology and Robots READ MORE Creating Innovation through Collaborations and Alliances READ MORE MITSUBISHI ESTATE GROUP Sustainability Report Key Theme 3 Innovation Operating Incubation O ces Lounge space EGG JAPAN Helping New Businesses Set Up and Expand Housed in the Shin Maru no uchi Building Entrepreneur Group for Growing Japan EGG JAPAN is run by Mitsubishi Estate to assist growing companies from overseas and innovative Japanese venture companies as they create and expand new businesses,19.32,3,3.0,3.0
+558,Mitsubishi Estate Co Ltd,Q304962,1,True,Through urban development we aim to create a society where all people including those with disabilities along with their families can live with greater peace of mind and Group is also working to use timber that complies with the Sustainable Sourcing Code cer tied lumber or Japan grown timber or equivalent for 100 of the timber in the concrete form work panels it uses in the construction of o ce buildings and housing by 2030,19.32,3,3.0,3.0
+559,Mitsubishi Estate Co Ltd,Q304962,1,True,The project has provided housing and an environment conducive to well being and there by enables the residents to enjoy their lives as active members of their local is an initiative which embodies the aim of contributing to a truly meaningful society through urban development as set out in the Mitsubishi Estate Groups philosophy and recognized by Mark Taylor the Mayor of Flor ham Park as a wonderful project for our featuring the supportive housing project Sunshine City Barrier Free Information Site Opens In November 2020 Sunshine City Corporation launched the Sunshine City Barrier Free Information Website for wheelchair users and other physically challenged people with the aim of ensuring a complex that anyone can enjoy,19.32,3,3.0,3.0
+560,Mitsubishi Estate Co Ltd,Q304962,1,True,in an aim to increase the areas value and achieve sustainable development of Members Director Chair Committee Chair MITSUBISHI ESTATE GROUP Sustainability Report Partner organization Overview Our role Association for Creating Sustainability in Urban Development of the Ote machi Maru no uchi andY ur aku cho Districts Commonly known as the Eco zz eri a Association The Association operates the CSV Business Creation Platform that aims for better urban development and to resolve social issues directed toward achievement of the Ote machi Maru no uchi Yu rak u cho O MY Sustainability Vision,19.32,3,3.0,3.0
+561,Mitsubishi UFJ Financial Group Inc,Q1542175,0,False,nothing,8.962,1,0.21052631578947367,1.0
+562,Mitsui Fudosan Co Ltd,Q1812986,0,True,Positioning the promotion of business while addressing collaboration and cooperation with the community reduction of environmental burden and improvement of security safety and comfort as vital to harmonious coexistence with the environment we endeavor to create urban environments of enrichment and comfort and contribute to the global environment,3.38,2,2.0,2.0
+563,Mitsui Fudosan Co Ltd,Q1812986,0,True,We will expand environment conscious urban development such as smart cities both at home and abroad and aim to be an environmentally advanced company that plays a leading role in the future of urban development,3.38,2,2.0,2.0
+564,Mizrahi Tefahot Bank Ltd,Q2777129,0,False,nothing,0.0,-1,-1.0,-1.0
+565,Mobile TeleSystems PJSC,Q1368919,0,False,nothing,12.02,1,1.0,1.0
+566,Molson Coors Beverage Co,Q3319685,0,False,nothing,14.835,1,1.0,1.0
+567,Mondelez International Inc,Q12857502,0,False,nothing,8.625,1,1.0,1.0
+568,Mondi PLC,Q779252,0,False,nothing,18.285,1,0.0,0.5
+569,Monolithic Power Systems Inc,Q22058448,0,False,nothing,-0.1542857142857143,-1,-1.0,-1.0
+570,Morgan Stanley,Q334204,0,True,The bond brings to life our new Social Bond Framework designed to contribute directly to SD G 11 Sustainable Cities and Communities and indirectly to SD G 1 No Poverty 10 Reduced Inequalities,1.6194117647058817,2,2.0,2.0
+571,Morgan Stanley,Q334204,0,True,Our program seeks to transform communities quality of life through a focus and development of sustainable multi family affordable rental housing Healthy communities Equitable transit oriented development Economic development that supports quality jobs Capital for under served small and rural markets Capacity building for nonprofits A summary of our impact through 2018 and examples of highly innovative and impact ful transactions executed in 2018 are shown below,1.6194117647058817,2,0.21052631578947367,2.0
+572,Mowi ASA,Q776750,0,False,nothing,30.18,1,1.0,1.0
+573,MTN Group,Q1813361,0,False,nothing,-55.131875,-1,-1.0,-1.0
+574,Muangthai Capital PCL,Q6930725,0,False,nothing,0.0,-1,-1.0,-1.0
+575,Mueller Water Products Inc,Q16982326,0,False,nothing,0.8218181818181818,1,1.0,1.0
+576,Murphy Oil Corp,Q951259,0,False,nothing,4.105,1,1.0,1.0
+577,Myriad Genetics Inc,Q3331496,0,False,nothing,-60.5,-1,-1.0,-1.0
+578,Nabors Industries Ltd,Q1962059,0,False,nothing,89.925,1,1.0,1.0
+579,Nasdaq Inc,Q1472929,0,False,nothing,76.63,1,1.0,1.0
+580,Naspers Ltd,Q1965898,0,False,nothing,63.333333333333336,1,-0.42857142857142855,0.5
+581,National Australia Bank Ltd,Q1430985,0,False,nothing,-37.781,-1,-1.0,-1.0
+582,National Bank of Canada,Q634298,0,False,nothing,22.955000000000005,1,1.0,1.0
+583,National Bank of Kuwait SAKP,Q4045072,0,True,Bader Al Nasrallah Goal 3 Good Health and Well Being Healthcare Environment Awareness Tips Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Living Environment Camping Safety Tips Goal 3 Good Health and Well Being Healthcare International Womens Day Goal 3 Good Health and Well Being Healthcare World Diabetes Day Goal 3 Good Health and Well Being Healthcare ENVIRONMENT Clean Up The World Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Living Environment 73 Healthcare Enhancement NB Ks community investment initiatives have a very strong emphasis on healthcare as we deem healthcare to be one of our major social responsibilities in giving the wellbeing and standard of living of members of the community,39.3,2,2.0,2.0
+584,National Bank of Kuwait SAKP,Q4045072,0,True,5 Gender Equality Human Capital SOCIAL CONTRIBUTION Do Good Deeds in Ramadan Daily Iftar Tent Distributing Iftar Banquets Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Healthcare Human Capital Sponsorship of Kuwait TV Program at Na if Palace Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Healthcare Human Capital Volunteers During Ramadan Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital Kuwait Red Crescent K RCS Campaign S aed T as aad Helping Families in J lee b Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital Iftar at Kuwait University and Emergency Medical Services Department Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital Healthcare Distributing Fridges and Dates at Kuwait Mosques Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital Building a J lee b Iftar Center Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital Gr aish Kuwait Governor and Ministry of Interior Goal 3 Good Health and Well Being Goal 9 Industry Innovation and Infrastructure Goal 11 Sustainable Cities and Communities Human Capital 72 Category ProgramS DGs K NDP AWARENESS Goal 9 Industry Innovation and Infrastructure Human Capital National and Liberation Day Goal 5 Gender Equality Goal 9 Industry,39.3,2,2.0,2.0
+585,National Grid PLC,Q1465461,0,False,nothing,-85.8825,-1,-1.0,-1.0
+586,Naturgy Energy Group SA,Q474690,0,True,9 Finally I would like to highlight the responsibility that both companies and citizens have to jointly transforming our societies to make the planet a fairer cleaner and healthier place and where the Sustainable Development Goals are closer than ever to being achieved,-13.32,0,0.0,0.0
+587,Natwest Group PLC,Q13218598,0,False,nothing,-11.5275,-1,-1.0,-1.0
+588,Navigator Co SA,Q686182,0,False,nothing,-18.360000000000003,-1,-1.0,-1.0
+589,NCR Corp,Q524989,0,False,nothing,316.8475,1,1.0,1.0
+590,NEL ASA,Q30259493,0,False,nothing,-1.02,-1,-1.0,-1.0
+591,Nemak SAB de CV,Q21010157,0,False,nothing,2.893333333333333,1,1.0,1.0
+592,Neoen SA,Q39938677,0,False,nothing,-4.0200000000000005,-1,-1.0,-1.0
+593,Neste Oyj,Q616376,0,False,nothing,18.258333333333336,1,1.0,1.0
+594,NetEase Inc,Q196259,0,False,nothing,40.58,1,1.0,1.0
+595,Netflix Inc,Q907311,0,False,nothing,-0.3187307032590015,-1,0.21052631578947367,-0.5
+596,New World Development Co Ltd,Q752084,1,False,nothing,-6.400000000000001,0,0.0,0.0
+597,Newell Brands Inc,Q667599,0,False,nothing,-13.355000000000002,-1,-1.0,-1.0
+598,Nexans SA,Q141644,0,False,nothing,72.36,1,1.0,1.0
+599,Nexteer Automotive Group Ltd,Q16923629,0,False,nothing,-62.42000000000001,-1,-0.5,-1.0
+600,NextEra Energy Inc,Q967868,0,False,nothing,353.45625000000007,1,1.0,1.0
+601,Nidec Corp,Q3341241,0,False,nothing,24.59714285714286,1,1.0,1.0
+602,Nielsen Holdings PLC,Q540891,0,False,nothing,-15.1275,-1,-1.0,-1.0
+603,NIKE Inc,Q483915,0,False,nothing,30.385471698113204,1,1.0,1.0
+604,Nine Dragons Paper Holdings Ltd,Q4972947,0,False,nothing,-9.04,-1,-1.0,-1.0
+605,Nintendo Co Ltd,Q8093,0,False,nothing,112.01617647058822,1,1.0,1.0
+606,NIO Inc,Q29921278,0,False,nothing,32.25363636363637,1,-0.42857142857142855,0.5
+607,Nippon Paper Industries Co Ltd,Q1993312,0,False,nothing,-5.355,-1,-1.0,-1.0
+608,Nippon Prologis REIT Inc,Q16983765,2,False,nothing,10.856666666666667,3,3.0,3.0
+609,NN Group NV,Q1834291,0,False,nothing,-11.840000000000002,-1,-1.0,-1.0
+610,Nokia Oyj,Q1418,0,False,nothing,47.65375,1,1.0,1.0
+611,Nordea Bank Abp,Q1123823,0,False,nothing,3.6400000000000015,1,1.0,1.0
+612,Nordic Semiconductor ASA,Q3425637,0,False,nothing,1.695,1,1.0,1.0
+613,Northland Power Inc,Q7059529,0,False,nothing,7.51,1,1.0,1.0
+614,Northwest Natural Holding Co,Q6955989,0,False,nothing,39.30666666666667,1,1.0,1.0
+615,Norway Royal Salmon ASA,Q17072149,0,False,nothing,-0.64,-1,-1.0,-1.0
+616,Novartis AG,Q507154,0,False,nothing,0.4616666666666636,1,1.0,1.0
+617,Novatek PJSC,Q251546,0,False,nothing,-0.8940000000000001,-1,-0.5,-1.0
+618,Novo Nordisk A/S,Q818846,0,False,nothing,-33.9,-1,-1.0,-1.0
+619,Novolipetsk Steel PJSC,Q1768082,0,False,nothing,-5.8475,-1,-1.0,-1.0
+620,Novozymes A/S,Q45576,0,False,nothing,35.205,1,1.0,1.0
+621,NRG Energy Inc,Q6955139,0,True,Our activities at N RG also directly support SD G 13 Climate Action through our commitments to combat the negative effects of climate change as well as several other S DGs including SD G 5 Gender Equality and SD G 11 Sustainable Cities and Sustainable Development Goals Ensure access to affordable reliable,34.53999999999999,2,2.0,2.0
+622,NTPC Ltd,Q1967805,0,False,nothing,-0.4450000000000003,-1,-1.0,-1.0
+623,Nufarm Ltd/Australia,Q900401,0,False,nothing,16.3,1,1.0,1.0
+624,NVIDIA Corp,Q182477,0,False,nothing,66.7954716981132,1,1.0,1.0
+625,NXP Semiconductors NV,Q1155668,0,False,nothing,7.063333333333328,1,1.0,1.0
+626,O-I Glass Inc,Q180106,0,False,nothing,6.63,1,1.0,1.0
+627,Oasis Petroleum Inc,Q20486933,0,False,nothing,0.776470588235294,1,1.0,1.0
+628,Occidental Petroleum Corp,Q2013357,0,False,nothing,-374.0033333333333,-1,-1.0,-1.0
+629,Oji Holdings Corp,Q385101,0,False,nothing,-0.4266666666666667,-1,-1.0,-1.0
+630,Olin Corp,Q7086908,0,False,nothing,-3.6,-1,-1.0,-1.0
+631,Olympus Corp,Q688619,0,False,nothing,220.12,1,0.6666666666666666,1.0
+632,OMV AG,Q168238,0,False,nothing,-77.8425,-1,-1.0,-1.0
+634,Ono Pharmaceutical Co Ltd,Q11464265,0,False,nothing,9.96,1,1.0,1.0
+635,Onto Innovation Inc,Q7377461,0,False,nothing,0.6000000000000001,1,1.0,1.0
+636,Ooredoo QPSC,Q919935,0,False,nothing,1.423999999999999,1,1.0,1.0
+637,Open Text Corp,Q2025791,0,False,nothing,153.16500000000002,1,1.0,1.0
+638,Oracle Corp,Q19900,0,True,Our grant ees a social enterprise in Lagos Nigeria that in centi viz es waste recycling in densely populated urban neighborhoods and Nairobi Kenya which promotes public awareness of the environmental and health hazards of e waste and educates the public about reuse recycling and safe disposal,-58.33827586206896,0,0.0,0.0
+639,Orange SA,Q1431486,0,True,With our solutions trans port operators can improve timetable adherence with vehicle geo location facilitating real time reaction to in ci dents and traffic improve transport network security with video and audio alerts in real time from cameras and recorders installed on board and at the roadside manage maintenance costs thanks to remote detection and resolution of technical problems in real the sustainable city of the future Projects for sustainable cities and zero CO 2 quarters rely chiefly on information and com muni cation technology,116.01,2,2.0,2.0
+640,Orbia Advance Corp SAB de CV,Q3307676,0,True,In pursuing our purpose we have identified six out of the 17 goals on which we can have the greatest impact as noted out more Feeding the world sustain ably Better managing water systems Empowering communities with data Making health and well being more accessible Advancing responsible business Making cities more livable lovable and resilient Or bia 2019 Sustainability Report 24 Appendix About Or bia Our Impact Advancing Responsible Business Advancing Sustainable Solutions With estimates of reaching a population of 9,0.5333333333333333,2,2.0,2.0
+641,Orbia Advance Corp SAB de CV,Q3307676,0,True,These solutions help bring clean water to millions of people and bring more circularity to water systems within buildings and entire Managing Water Systems Or bia 2019 Sustainability Report 31 Appendix About Or bia Our Impact Advancing Responsible Business Advancing Sustainable Solutions To keep global cities and citizens supplied with water through extreme weather cycles Wavin s storm water management solutions reduce flooding risks and help control groundwater loss in urban environments,0.5333333333333333,2,2.0,2.0
+642,Orbia Advance Corp SAB de CV,Q3307676,0,True,3 New Life for Pipes Or bia 2019 Sustainability Report 33 Appendix About Or bia Our Impact Advancing Responsible Business Advancing Sustainable Solutions As urbanization is on the rise so too are the challenges of ensuring that cities become the enabling environments for connected safe and fulfilling lives and without further strain on our natural resources and climate,0.5333333333333333,2,2.0,2.0
+643,Orbia Advance Corp SAB de CV,Q3307676,0,True,To these ends Or bia has been a leader in urban solutions for decades addressing a diverse range of infrastructure challenges and opportunities from developing building information modeling BIM technologies for efficient construction to designing innovative material solutions for temperature regulation sanitation water management and more essentials for better and smarter urban Cities More Livable Lovable and Resilient Or bia 2019 Sustainability Report 34 Appendix About Or bia Our Impact Advancing Responsible Business Advancing Sustainable Solutions Selected 2019 construction projects supported by the Building and Infrastructure group,0.5333333333333333,2,2.0,2.0
+644,Orbia Advance Corp SAB de CV,Q3307676,0,True,These and many other applications are the key enable rs that make our cities more resilient and offer ways to positively transform the everyday lives of people and Manrique Rocha President Polymer Solutions Sustainable Construction Around the World Gartner k varta let L ren Norway Gua tap Colombia Gartner k varta let L ren Norway Designed and supplied all the piping systems for energy efficiency and noise reduction across this 450 apartment complex,0.5333333333333333,2,2.0,2.0
+645,Orbia Advance Corp SAB de CV,Q3307676,0,True,The Source for Sustainable Urban Living At Or bia in so many parts of the world we see the tragic loss of water in cities and in homes through inadequate water infrastructures,0.5333333333333333,2,2.0,2.0
+646,Origin Energy Ltd,Q847931,0,False,nothing,-15.635000000000002,-1,-1.0,-1.0
+647,Origin Enterprises PLC,Q7102461,0,False,nothing,0.3466666666666667,1,1.0,1.0
+648,OTP Bank Nyrt,Q912778,0,True,GRI 413 Communities NO POVERTY GOOD HEALTH AND WELL BEING QUALITY EDUCATION SUSTAINABLE CITIES AND COMMUNITIES PARTNERSHIPS FOR THE GOALS Impact OT P Group is an organic part and local In line with our values we play an active role in the progress of local communities and in supporting those faced with difficulties,8.975000000000001,2,2.0,2.0
+649,Outfront Media Inc,Q23090931,0,False,nothing,-2.76,-1,-1.0,-1.0
+650,Oversea-Chinese Banking Corp Ltd,Q2042423,0,True,We make a sustainable die rence through targeted programmes across four themes Families Supporting cohesive and healthy communities Elderly Meeting the health and social interaction needs of an ageing population Environmental Sustainability Promoting environmentally responsible behaviour and supporting conservation e or ts Persons with Special Needs Encouraging societal inclusion and acceptance Participating in Global Compact Network Singapore G CNS Young SD G Leader Awards A team of students from Nanyang Polytechnic supported and mentored by OC BC st a were joint rst runner up in the CD L G CNS Young SD G Leaders Awards 2018,56.1375,2,2.0,2.0
+651,Owens Corning,Q7114736,2,False,nothing,3.306666666666666,3,2.5,3.0
+652,PACCAR Inc,Q1477661,0,False,nothing,91.945,1,1.0,1.0
+653,Packaging Corp of America,Q16983334,0,False,nothing,24.3,1,1.0,1.0
+654,Palo Alto Networks Inc,Q7128508,0,False,nothing,-24.4512,-1,-1.0,-1.0
+655,Panasonic Corp,Q53247,0,False,nothing,56.24839999999999,1,1.0,1.0
+656,Parker-Hannifin Corp,Q1470619,0,False,nothing,2.090666666666667,1,1.0,1.0
+657,PayPal Holdings Inc,Q483959,0,False,nothing,6.076875000000001,1,0.0,0.5
+658,Pennon Group PLC,Q278810,2,False,nothing,-7.140000000000001,1,0.0,0.5
+659,Pentair PLC,Q7165001,0,True,Our installations help keep urban spaces dry from small municipalities to the worlds largest pumping station in the city of New Orleans,27.11,2,2.0,2.0
+660,PepsiCo Inc,Q334800,0,False,nothing,25.00681818181818,1,1.0,1.0
+661,Performance Food Group Co,Q2070689,0,False,nothing,66.76,1,1.0,1.0
+662,PerkinElmer Inc,Q2066858,0,False,nothing,299.64,1,1.0,1.0
+663,Pernod Ricard SA,Q837049,0,False,nothing,9.186666666666666,1,1.0,1.0
+664,Perusahaan Gas Negara Tbk PT,Q13095961,0,False,nothing,0.57,1,1.0,1.0
+665,PetroChina Co Ltd,Q503182,0,True,SAFE AND CLEAN PRODUCTION AND OPERATION Ensure access to water and sanitation for all Clean water and sanitation Ensure access to affordable reliable sustainable and modern energy for all Affordable and clean energy Build resilient infrastructure promote sustainable industrialization and foster innovation Industry innovation and infrastructure Make cities inclusive safe resilient and sustainable Sustainable cities and communities Ensure sustainable consumption and production patterns Responsible consumption and production Take urgent action to combat climate change and its impacts Climate action Conserve and sustain ably use the oceans seas and marine resources Life below water Sustain ably manage forests combat desertification halt and reverse land degradation halt biodiversity loss Life on landS DGs 31 SAFE AND CLEAN PRODUCTION AND OPERATION IMPROVING HSE MANAGEMENT Work safety and environmental protection is a prerequisite which secures our steady development,-27.093333333333334,0,0.0,0.0
+666,Petroleo Brasileiro SA,Q210047,0,False,nothing,-14.316842105263158,-1,-1.0,-1.0
+667,Petronet LNG Ltd,Q7179027,0,False,nothing,-3.22,-1,-1.0,-1.0
+668,Pfizer Inc,Q206921,0,False,nothing,-81.51545685279189,-1,0.21052631578947367,-0.5
+669,PG&E Corp,Q1815011,0,False,nothing,-316.447,-1,-1.0,-1.0
+670,Philip Morris International Inc,Q1852556,0,False,nothing,28.530000000000005,1,1.0,1.0
+671,Phillips 66,Q1656230,0,False,nothing,18.222857142857144,1,0.21052631578947367,1.0
+672,Plug Power Inc,Q7205253,0,False,nothing,145.17363636363638,1,1.0,1.0
+673,PNC Financial Services Group Inc,Q38928,0,False,nothing,-119.91875000000002,-1,-1.0,-1.0
+674,Polymetal International PLC,Q2380266,0,False,nothing,2.76,1,1.0,1.0
+675,Polyus PJSC,Q2005769,0,False,nothing,3.0900000000000007,1,1.0,1.0
+676,Pool Corp,Q1471346,0,False,nothing,30.44333333333334,1,1.0,1.0
+677,Post Holdings Inc,Q27988145,0,False,nothing,37.06000000000001,1,1.0,1.0
+678,Power Grid Corp of India Ltd,Q3400886,0,False,nothing,13.067500000000004,1,1.0,1.0
+679,Power Integrations Inc,Q30265954,0,False,nothing,1.4,1,1.0,1.0
+680,PPG Industries Inc,Q48754,1,False,nothing,26.20800000000001,2,2.0,2.0
+681,Premier Foods PLC,Q7240301,0,False,nothing,-11.72,-1,-1.0,-1.0
+682,Primo Water Corp,Q2071102,0,False,nothing,0.8672727272727272,1,1.0,1.0
+683,Prologis Inc,Q16983765,1,True,ur oc us on sustainable design and in no ation is a ke dieren ti at or oe ring our customers communities and investors a unique value proposition in the marketplace,10.856666666666667,3,3.0,3.0
+684,Prologis Inc,Q16983765,1,True,All of our new developments are subject to rigorous environmental permitting processes including evaluation of sensitive habitats and protected species and we adhere to local codes and guidelines governing possible we incorporate native plants in our landscaping to support native wildlife and our focus on urban core infill development promotes environmental health and biodiversity by cleaning up potentially harmful legacy contaminants in the soil and continuously seek innovative ways to promote biodiversity globally,10.856666666666667,3,1.8333333333333333,3.0
+685,Prosus NV,Q67389109,0,False,nothing,-9.88,-1,-1.0,-1.0
+686,Prudential PLC,Q1374135,0,False,nothing,59.1,1,1.0,1.0
+687,Prysmian SpA,Q1964784,0,False,nothing,-31.36,-1,-1.0,-1.0
+688,PTC Inc,Q1760641,0,False,nothing,125.076,1,1.0,1.0
+689,PTT Exploration & Production PCL,Q6579845,0,False,nothing,2.965,1,0.3333333333333333,1.0
+690,PTT Global Chemical PCL,Q16306121,0,False,nothing,21.29,1,0.3333333333333333,1.0
+691,PTT PCL,Q1810389,0,False,nothing,-10.485000000000005,-1,0.3333333333333333,-0.5
+692,PulteGroup Inc,Q7259716,0,False,nothing,40.67,1,1.0,1.0
+693,Puma SE,Q157064,0,False,nothing,42.50230769230769,1,1.0,1.0
+694,PVH Corp,Q1132272,0,False,nothing,64.71000000000001,1,1.0,1.0
+695,Qatar Gas Transport Co Ltd,Q6960637,0,False,nothing,4.0200000000000005,1,1.0,1.0
+696,Qatar National Bank QPSC,Q1136759,0,False,nothing,-18.0,-1,-1.0,-1.0
+697,Qorvo Inc,Q18169198,0,False,nothing,0.0327272727272727,1,1.0,1.0
+698,QUALCOMM Inc,Q544847,0,False,nothing,52.444893617021286,1,1.0,1.0
+699,Quebecor Inc,Q912476,0,False,nothing,2.9866666666666646,1,1.0,1.0
+700,Raiffeisen Bank International AG,Q2127528,0,True,Build resilient infrastructure promote inclusive and sustainable industrialization and foster 13 Take urgent action to combat climate change and its peaceful and inclusive societies in order to foster sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all CITIZEN Environmentally friendly society Active civil society and public interest Sustainable entrepreneurship FAIR PARTNER In house ecology Employees and stakeholders Fair business and operating practices ENVIRONMENT Ecological product responsibility SOCIETY Social product responsibility ECONOMY Added value RESPONSIBLE BANKER We create sustainable value 31 R aiff eisen Bank Report 2019 Foreword Overview Management of sustainability Responsible banker Fairer partner Employee Fair partner In house ecology Engaged citizen GRI index and Assurance report The following table shows the relationship between the topics we have identified as material the areas of responsibility responsible banker fair partner engaged citizen the GRI standards the S DGs and the concerns in line with the Austrian Sustainability and Diversity Improvement Act Na DiVe G,6.006666666666668,2,2.0,2.0
+701,Raiffeisen Bank International AG,Q2127528,0,True,includes four different sustainable real estate projects in several Croatian cities,6.006666666666668,2,2.0,2.0
+702,Range Resources Corp,Q4048013,0,False,nothing,-18.270000000000003,-1,-1.0,-1.0
+703,Rayonier Inc,Q7299366,0,False,nothing,43.89333333333334,1,1.0,1.0
+704,Reckitt Benckiser Group PLC,Q1190881,0,False,nothing,11.230000000000002,1,1.0,1.0
+705,Regal Beloit Corp,Q7307899,0,False,nothing,0.7,1,1.0,1.0
+706,Reliance Industries Ltd,Q908931,0,False,nothing,-11.84125,-1,-1.0,-1.0
+707,Reliance Worldwide Corp Ltd,Q107261056,0,False,nothing,29.16,1,1.0,1.0
+708,RELX PLC,Q998470,0,False,nothing,14.339999999999998,1,1.0,1.0
+709,Renault SA,Q6686,0,False,nothing,-5.846829268292684,-1,-1.0,-1.0
+710,Renesas Electronics Corp,Q1196269,0,False,nothing,22.919,1,1.0,1.0
+711,Repsol SA,Q174747,0,True,Make cities and human settlements inclusive safe resilient and sustainable We are working to report this indicator individually,-18.83,0,0.0,0.0
+712,Republic Services Inc,Q7314415,1,False,nothing,246.09,2,2.0,2.0
+713,Restaurant Brands International Inc,Q18619470,0,False,nothing,4.35,1,1.0,1.0
+714,Rexnord Corp,Q28207096,0,False,nothing,25.30666666666666,1,1.0,1.0
+715,Rinnai Corp,Q795243,1,False,nothing,60.49999999999999,2,2.0,2.0
+716,Rio Tinto PLC,Q821293,0,False,nothing,-7.585384615384616,-1,-1.0,-1.0
+717,Rockwell Automation Inc,Q1529234,0,True,Our sustainability strategy focuses on three outcomes Sustainable Customers Sustainable Company and Sustainable Communities,41.69875,2,0.6666666666666666,2.0
+718,ROCKWOOL International A/S,Q255661,2,False,nothing,1.34,3,3.0,3.0
+719,Rohm Co Ltd,Q1192667,1,False,nothing,22.57,2,2.0,2.0
+720,Rollins Inc,Q7361273,0,False,nothing,2.7866666666666675,1,1.0,1.0
+721,Roper Technologies Inc,Q16932392,0,True,2 Contents From Our CEO 4 Our Business 5 Our Strategy 6 Environmental and Social Sustainability 7 Responsible Sourcing 8 Our Solutions 9 Our Employees 11 Our Communities 12 Highlights From Our Businesses 13 FROM OUR CEO At Roper we are incredibly proud of the long term success of our businesses,2.84,2,2.0,2.0
+722,Rotork PLC,Q7370594,0,False,nothing,1.6363636363636365,1,1.0,1.0
+723,Royal Bank of Canada,Q735261,0,False,nothing,5.581999999999998,1,1.0,1.0
+724,Royal Caribbean Cruises Ltd,Q427881,0,False,nothing,-12.021428571428572,-1,-1.0,-1.0
+726,RWE AG,Q138133,0,False,nothing,-131.9,-1,-1.0,-1.0
+727,Saipem SpA,Q2213203,0,False,nothing,15.990000000000002,1,1.0,1.0
+728,salesforce.com Inc,Q941127,0,False,nothing,20.41363636363636,1,1.0,1.0
+729,Salmar ASA,Q7403259,0,False,nothing,0.0199999999999997,1,1.0,1.0
+730,Sampo Oyj,Q1640495,0,False,nothing,145.47,1,1.0,1.0
+731,Samsung Electronics Co Ltd,Q20718,0,False,nothing,-14.575357142857143,-1,-1.0,-1.0
+732,Samsung SDI Co Ltd,Q21120876,0,False,nothing,-0.2216666666666666,-1,-1.0,-1.0
+733,Sands China Ltd,Q15913951,0,True,Learn more about our Drop by Drop In 2020 we partnered with Clean the World Foundation a global leader sanitation hygiene and sustainability to facilitate The Drop In 2020 the project reinvested capital from efforts in our operations to an innovative project how native plants and wetlands can help enhance water generate ecosystem services in Macao,-22.5,0,0.0,0.0
+734,Sandvik AB,Q1753718,0,False,nothing,-5.22,-1,-1.0,-1.0
+735,Sanofi,Q158205,0,False,nothing,9.963333333333331,1,1.0,1.0
+736,Santander Bank Polska SA,Q806653,0,False,nothing,-0.27,-1,-1.0,-1.0
+737,Sappi Ltd,Q481472,0,False,nothing,57.79499999999999,1,1.0,1.0
+738,Sasol Ltd,Q905998,0,False,nothing,-170.78,-1,-1.0,-1.0
+739,Saudi Arabian Oil Co,Q679322,0,False,nothing,-10.911470588235296,-1,-1.0,-1.0
+740,Saudi Electricity Co,Q12188903,0,True,A Vibrant Society Living by Islamic values Focusing our efforts to serve Umrah visitors Taking pride in our national identity Promoting culture and entertainment Living healthy being healthy Developing our cities Caring for our families Developing our childrens character Empowering our society,1.6699999999999997,2,2.0,2.0
+741,Saudi Telecom Co,Q1535171,0,False,nothing,43.655,1,1.0,1.0
+742,SBA Communications Corp,Q7388926,0,False,nothing,-0.96,-1,-1.0,-1.0
+744,SBI Cards & Payment Services Ltd,Q7388953,0,False,nothing,8.34,1,0.0,0.5
+745,Schindler Holding AG,Q651212,0,True,Our World Together with our customers we shape the cities of the future by providing sustainable smart urban mobility,0.03,2,2.0,2.0
+746,Schindler Holding AG,Q651212,0,True,Lesbian Gay Bisexual Transgender and Intersex 10 Schindler Sustainability Report 2019 Sustainability road map Create value in communities Over and above the contribution Sch in d ler products make to urban mobility we strive to make a positive contribution to society through targeted Corporate Social Responsibility initiatives,0.03,2,2.0,2.0
+747,Schlumberger NV,Q1425316,0,False,nothing,150.20999999999998,1,1.0,1.0
+748,Schneider Electric SE,Q49053,2,True,We create connected technologies that reshape industries transform cities and enrich lives,41.3875,4,4.0,4.0
+749,SCOR SE,Q920000,0,False,nothing,-1.7699999999999996,-1,-1.0,-1.0
+750,Sealed Air Corp,Q7440621,0,False,nothing,14.825,1,1.0,1.0
+751,Sekisui House Ltd,Q1539141,1,True,Our objective is to create sustainable communities in all our developments including the One Holland Village project which is attracting attention as a large scale residential and commercial mixed use development,-0.3499999999999996,1,1.0,1.0
+752,Sekisui House Ltd,Q1539141,1,True,China We are developing a townhouse business in the cities of Shenyang Su zhou Wu xi and Tai cang that makes use of Japan s track record of environment friendly housing under our own Seki sui House Yu qin brand,-0.3499999999999996,1,1.0,1.0
+753,Sekisui House Ltd,Q1539141,1,True,We have a deep understanding of China s history and culture and we demonstrate our appreciation as we build sustainable housing and engage in urban development,-0.3499999999999996,1,1.0,1.0
+754,Sekisui House Ltd,Q1539141,1,True,We are creating value by introducing Seki sui House housing developments urban development concepts and designs in styles that suit local environments and ways of life,-0.3499999999999996,1,1.0,1.0
+755,Sempra Energy,Q7449804,0,False,nothing,15.680000000000003,1,1.0,1.0
+756,Service Corp International/US,Q11306218,0,False,nothing,8.472,1,1.0,1.0
+757,ServiceNow Inc,Q7455653,0,True,With this goal we ve created sustainable supply chains developed a working process for reusing and recycling retired corporate IT and data center equipment and always prioritize LEE D certified or local equivalent building in all of our leased office space,873.2266666666668,2,2.0,2.0
+758,Severn Trent PLC,Q503077,0,True,8 Severn Trent Plc Sustainability Report 2020 Sustainable Development Goal Examples of our contribution Find out more Significant impact Build resilient infrastructure promote inclusive and sustainable industrialisation and foster innovation Partnership working to deliver sustainable urban drainage and green communities,-21.935,0,0.0,0.0
+759,Severn Trent PLC,Q503077,0,True,World Water Innovation Fund benefiting 60 million people many in less developed parts of the world Delivering an for everyone page 34 Providing a fair safe place to work page 37 Make cities and human settlements inclusive safe resilient and sustainable Creating new green spaces in urban areas Pledging to reach 100 electric vehicles by 2030 assumes specialist vehicles such as available within the time window Enhancing our natural environment page 18 Mitigating climate change,-21.935,0,1.0,0.5
+760,SGL Carbon SE,Q320207,0,False,nothing,-9.12,-1,-1.0,-1.0
+761,SGS SA,Q669620,0,False,nothing,26.902500000000003,1,1.0,1.0
+763,Shin-Etsu Chemical Co Ltd,Q904284,0,False,nothing,4.77,1,1.0,1.0
+764,Shinhan Financial Group Co Ltd,Q491325,0,False,nothing,-1.62,-1,-1.0,-1.0
+765,Shiseido Co Ltd,Q728185,0,False,nothing,35.52000000000001,1,1.0,1.0
+766,Siemens Healthineers AG,Q472451,0,False,nothing,0.0,-1,-1.0,-1.0
+767,SIG Combibloc Group AG,Q692083,0,False,nothing,-2.4000000000000004,-1,-1.0,-1.0
+768,Signify NV,Q2336380,2,True,We report our contribution to six S DGs 3 Good health and well being 7 Affordable and clean energy 8 Decent work and economic growth 11 Sustainable cities and communities 12 Responsible consumption and production and 13 Climate action,-0.11,2,2.0,2.0
+769,Sika AG,Q691382,0,False,nothing,-2.52,-1,-0.5,-1.0
+770,Silgan Holdings Inc,Q17080741,0,False,nothing,4.223333333333334,1,1.0,1.0
+771,Silicon Laboratories Inc,Q2286044,0,False,nothing,3.44,1,1.0,1.0
+772,Simpson Manufacturing Co Inc,Q29469208,0,False,nothing,5.04,1,1.0,1.0
+773,Singapore Exchange Ltd,Q1515558,0,False,nothing,17.2625,1,0.3333333333333333,1.0
+774,Singapore Telecommunications Ltd,Q864923,0,True,page 34 Goal 11 Sustainable Cities and Communities Make cities and human settlements inclusive safe resilient and sustainable The Singtel Group leverages our ICT competence to develop solutions that improve quality of living and focuses on building a resilient smart cities We actively support Smart City and Smart Nation visions and we are developing a suite of smart home solutions for our customers,193.455,2,2.0,2.0
+775,Singapore Telecommunications Ltd,Q864923,0,True,page 23 33 Goal 11 Sustainable Cities and Communities Make cities and human settlements inclusive safe resilient and sustainable The Singtel Group leverages our ICT competence to develop solutions that improve quality of living and focuses on building a resilient network smart cities We actively support Smart City and Smart Nation visions and we are developing a suite of smart home solutions for our customers,193.455,2,2.0,2.0
+776,Singapore Telecommunications Ltd,Q864923,0,True,page 31 Goal 11 Sustainable Cities and Communities Make cities and human settlements inclusive safe resilient and sustainable The Singtel Group leverages our ICT competence to develop solutions that improve quality of living and focuses on building a resilient network smart cities We actively support Smart City and Smart Nation visions and we are developing a suite of smart home solutions for our customers,193.455,2,2.0,2.0
+777,Singapore Telecommunications Ltd,Q864923,0,True,Our community strategy helps us to contribute towards the various UN Sustainable Development Goals of 3 4 8 9 10 and 11 on Good health and well being Quality education Decent work and economic growth Industry innovation and infrastructure Reduced inequalities and Sustainable cities and community investment figure which includes direct financial support in kind charitable sponsorships and staff volunteering hours has been verified by the London Benchmarking Group LB G,193.455,2,2.0,2.0
+778,Singapore Telecommunications Ltd,Q864923,0,True,We engage the Centre for Liveable Cities the Secretariat to the Singapore 100 RC project for such input at the national level and to mobil is e broader corporate engagement with the 100 RC initiative which supports SD G 17 on Partnership for the Goals,193.455,2,2.0,2.0
+779,Singapore Telecommunications Ltd,Q864923,0,True,Our sustainability strategy focuses on four key pillars Environment People Community and Marketplace and Structure and ES G Accountability Sustainability is governed across various levels in the organisation from the Board and Management to the business units and working groups,193.455,2,2.0,2.0
+780,Sino Biopharmaceutical Ltd,Q10874682,0,False,nothing,-0.63,-1,-1.0,-1.0
+781,Sinopharm Group Co Ltd,Q7524930,0,False,nothing,-11.34,-1,0.0,-0.5
+782,Sirius XM Holdings Inc,Q3277465,0,False,nothing,87.75785714285715,1,1.0,1.0
+783,SK Hynix Inc,Q370719,0,False,nothing,10.0725,1,1.0,1.0
+784,SK Telecom Co Ltd,Q493145,0,False,nothing,-7.595999999999999,-1,-1.0,-1.0
+785,Skyworks Solutions Inc,Q7538146,0,False,nothing,60.425,1,1.0,1.0
+786,SM Energy Co,Q16984687,0,False,nothing,2.75,1,1.0,1.0
+787,SMA Solar Technology AG,Q463337,2,False,nothing,0.0,1,1.0,1.0
+788,Smiths Group PLC,Q2295406,0,False,nothing,-0.995,-1,-1.0,-1.0
+789,Smurfit Kappa Group PLC,Q1536176,0,True,Our Open Community See how were helping to build a sustainable future in the communities where we operate People Discover your true potential and progress your career Visit our people section Careers Graduates Talent Development Meet Our People Employee Engagement Safety Inclusion and Diversity Graduates Looking to join a company where you can discover your true potential and progress your career Safety Our Safety for life campaign highlights the importance of safe working practices to ensure we make Smurf it Kappa an even safer place to Diversity EveryOne is our global inclusion and diversity programme to embrace and celebrate our global multi cultural workforce,-10.5,0,0.0,0.0
+790,Sodexo SA,Q1475554,0,False,nothing,-17.751666666666672,-1,-1.0,-1.0
+791,SoftBank Group Corp,Q201653,0,False,nothing,-17.742962962962967,-1,-0.42857142857142855,-1.0
+792,Solvay SA,Q706184,1,False,nothing,-32.835,0,0.0,0.0
+793,Sonic Healthcare Ltd,Q7561817,0,False,nothing,7.55,1,1.0,1.0
+794,Sonoco Products Co,Q7562151,0,False,nothing,3.53,1,1.0,1.0
+795,Sony Group Corp,Q41187,0,False,nothing,-372.268596491228,-1,0.6666666666666666,-0.5
+796,Southern Co,Q2304693,0,False,nothing,-236.56,-1,-1.0,-1.0
+797,Southern Copper Corp,Q7569806,0,False,nothing,5.6800000000000015,1,1.0,1.0
+798,Spectrum Brands Holdings Inc,Q771865,0,False,nothing,1.4,1,0.0,0.5
+799,Sprouts Farmers Market Inc,Q7581369,0,False,nothing,126.57,1,1.0,1.0
+800,SPX FLOW Inc,Q2207629,0,False,nothing,3.27,1,1.0,1.0
+801,SSE PLC,Q493854,0,False,nothing,7.990000000000002,1,1.0,1.0
+802,Stadler Rail AG,Q666703,2,False,nothing,-4.48,1,1.0,1.0
+803,Standard Chartered PLC,Q548278,0,False,nothing,131.682,1,1.0,1.0
+804,Stantec Inc,Q2331913,1,True,16 APPENDIXES RESPONSIBLE GOVERNANCE SOCIAL BETTERMENT ENVIRONMENTAL STEWARDSHIP SUSTAIN A BIL IT Y AT STAN TEC STAN TEC SNAPSHOT SUSTAIN A BIL IT Y AT A GL ANCE Cities and communities are on the front line in meeting the challenges of climate change regenerating the natural environment and creating sustainable socially inclusive Community Futures publication lays out the seven most prominent challenges and opportunities faced by our cities how those challenges and opportunities interconnect and how local tactics can provide global solutions Climate Change The scale of the challenge The future of human civilization will be determined by how we design our sustainable infrastructure and how quickly we implement it over the next 20 From pollution to regeneration Human activity is reshaping the planets natural systems,159.90666666666667,3,3.0,3.0
+805,Stantec Inc,Q2331913,1,True,Public Report References or Reasons for Omissions S AS B or T CFD if applicable 102 11 Precautionary principle As a consulting firm recognized for building sustainable communities our market position is based on protecting the environment and society,159.90666666666667,3,3.0,3.0
+806,Stantec Inc,Q2331913,1,True,All four of our strategic growth initiatives coastal resilience ecosystem restoration smart cities and urban places and energy transition have a direct connection to climate is addressing climate change in our design and delivery solutions with focus in these areas Promoting thought leadership on climate solutions Using emerging tools and putting responsible resource consumption at the forefront considering new dimensions of sustainability like wellness living small autonomous vehicles and small scale agriculture Guiding clients to invest in energy efficiency because the way we design and retrofit our buildings has a significant impact on mitigating the climate crisis Being guardians of water by ensuring our experts help communities protect water sources from pollution while reducing waste Advancing the science of wastewater treatment toward net positive with energy and resource recovery groundwater recharging and indirect and direct potable reuse Furthering the use of electric and automated vehicles to transform the street landscape Making renewable energy and related infrastructure feasible and equitable Protecting and restoring ecosystems and coastlines Helping communities assess and mitigate their climate risks increase resiliency and prepare for the effects of climate change Promoting Climate Action To encourage climate action Stan tec He riot Watt University and the Institution of Civil Engineers jointly hosted the sixth annual lecture,159.90666666666667,3,3.0,3.0
+807,Stantec Inc,Q2331913,1,True,11 STAN TEC SUSTAINABILITY SERVICES Buildings Health and well being Passive House Resilient communities Sustainability rating carbon and zero energy Energy Resources Biogas production Energy storage Grid modernization Hydropower Micro grids Pumped storage Solar Waste to energy Wind Environmental Services Atmospheric sciences Conservation Cultural resources Emergency response Remediation Restoration Supplier responsibility Zero waste Infrastructure Autonomous vehicles Complete streets Public transport Resilience Smart cities Sustainable infrastructure Urban places Water Nutrient recovery Wastewater treatment Water resource management Water supply Water treatment and reuse Watershed management Wet weather Sustainable Development Goals We recognize that sustainability success is possible only when society achieves an equitable distribution of social environmental and economic benefits in both the developed and developing world,159.90666666666667,3,3.0,3.0
+808,Stantec Inc,Q2331913,1,True,7 APPENDIXES RESPONSIBLE GOVERNANCE SOCIAL BETTERMENT ENVIRONMENTAL STEWARDSHIP SUSTAIN A BIL IT Y AT STAN TEC STAN TEC SNAPSHOT SUSTAIN A BIL IT Y AT A GL ANCE OUR SUSTAINABILITY SERVICE OFFERINGS Smart cities regional and community planning to conserve energy and promote wellness low impact development watershed planning brownfield development and Envision certifications Community Development Public transportation transit bus complete streets walking cycling transit and smart mobility accessible automated connected electric shared Transportation Integrated approaches that consider climate and site performance modeling passive and net zero positive design WELL Building criteria LEE D certification and post occupancy assessment at the scale of building interiors buildings and communities Buildings Coastal protection and restoration flood protection groundwater protection and recharging water reuse water conservation water and wastewater treatment and watershed management Water Ecosystem restoration wetlands and estuaries management energy and environmental audits climate change adaptation and mitigation planning carbon accounting and management natural resource damage assessments cultural impact assessments social partnering socio ecological systems resiliency sustainable economic appraisals environmental impact assessments and sustainability strategy and reporting Environmental Services Renewable energy design solar wind waterpower waste to energy energy storage transportation and infrastructure electrification and low carbon fuel development Energy Resource sUN Global Compact UN Sustainable Development Goals A I A 2030 Challenge UK Civil Engineers Declare Climate Change and Biodiversity Emergency Natural Capital Coalition Waste to Wealth Newcastle Blue Green Declaration Gender Equality Leadership in the Canadian Private Sector City of Edmonton Corporate Climate Leaders Program Pride at,159.90666666666667,3,3.0,3.0
+809,State Bank of India,Q1340361,0,False,nothing,-33.6475,-1,0.0,-0.5
+810,State Street Corp,Q2037125,0,False,nothing,16.04,1,0.21052631578947367,1.0
+811,Steelcase Inc,Q479167,0,False,nothing,44.50666666666666,1,1.0,1.0
+812,Stellantis NV,Q97439162,0,True,In alignment with the United Nations Sustainable Development Goals our social contribution efforts focus most particularly on Quality Education Gender Equality Decent Work and Economic Growth Reduced Inequality Industry Innovation and Infrastructure and Sustainable Cities and Groups 2018 activities focused on a variety of causes 35 for education related initiatives 56 for community development and welfare including health programs 9 for emergency relief and other efforts,13.173333333333336,2,2.0,2.0
+813,Stericycle Inc,Q3973262,2,False,nothing,95.39500000000002,3,3.0,3.0
+814,STMicroelectronics NV,Q661845,0,False,nothing,49.86,1,1.0,1.0
+815,Stora Enso Oyj,Q747265,0,False,nothing,18.2,1,1.0,1.0
+816,Stryker Corp,Q2357515,0,False,nothing,-63.435,-1,-1.0,-1.0
+817,Sun Hung Kai Properties Ltd,Q1789188,2,False,nothing,-0.4250000000000007,1,1.0,1.0
+818,Suzano SA,Q1030695,0,False,nothing,0.0,-1,-1.0,-1.0
+819,Svenska Cellulosa AB SCA,Q52601,0,False,nothing,2.346666666666667,1,1.0,1.0
+820,Svenska Handelsbanken AB,Q1421630,0,True,Here we present some examples of how we have worked during the year both through our own operations and through our business SUSTAINABLE DEVELOPMENT SUSTAINABILITY REPORT 2019 11 SUSTAINABLE CITIES AND COMMUNITIES Handels bank en has nance d several green loans for multi family dwellings which promotes target 11,-2.74,0,0.0,0.0
+821,Swedbank AB,Q1145493,0,False,nothing,-28.4,-1,-1.0,-1.0
+822,Swedish Match AB,Q52855,0,False,nothing,5.776666666666666,1,1.0,1.0
+823,Swedish Orphan Biovitrum AB,Q7654795,0,False,nothing,5.0,1,1.0,1.0
+824,Swire Properties Ltd,Q7658810,2,True,To learn more about this new project including our cutting edge architectural feature the CLIMATE RIBBON I encourage you to read the Sustainability in Action section of this report which focuses on Brick ell City Centres innovative and wide reaching sustainability by example in environmental initiatives As an established and experienced property developer and manager we have the opportunity to in u en ce behaviour widely and eec t positive change wherever we do business,26.749999999999996,4,4.0,4.0
+825,Swire Properties Ltd,Q7658810,2,True,areas in Hong Kong Sustainable Development Report 2013 35 Sustainable Design Our new developments and redevelopment projects give us the chance to incorporate sustainable design throughout their lifecycle s by embodying sustainability from their design through construction and PROJECTS In 2013 we launched several premium residential projects in Hong Kong,26.749999999999996,4,4.0,4.0
+826,Swiss Life Holding AG,Q667350,0,False,nothing,-55.87,-1,-1.0,-1.0
+827,Swiss Re AG,Q605565,0,False,nothing,15.273333333333335,1,0.0,0.5
+828,Synopsys Inc,Q2303478,0,False,nothing,56.36999999999999,1,1.0,1.0
+829,T-Mobile US Inc,Q3511885,0,False,nothing,49.30000000000001,1,-0.3333333333333333,0.5
+830,Taiwan Semiconductor Manufacturing Co Ltd,Q713418,1,False,nothing,-28.984081632653066,0,0.0,0.0
+831,TAL Education Group,Q96407440,0,False,nothing,4.0,1,1.0,1.0
+832,Tassal Group Ltd,Q7687626,0,False,nothing,-12.853333333333332,-1,-1.0,-1.0
+833,Tata Motors Ltd,Q188514,0,False,nothing,29.538125,1,1.0,1.0
+834,Tata Steel Ltd,Q963101,0,False,nothing,-0.4433333333333345,-1,-1.0,-1.0
+835,TC Energy Corp,Q1516108,0,False,nothing,-56.4,-1,-1.0,-1.0
+836,TDK Corp,Q855479,0,False,nothing,60.43333333333334,1,1.0,1.0
+837,TE Connectivity Ltd,Q663452,0,False,nothing,-0.78,-1,-1.0,-1.0
+838,Teijin Ltd,Q1111609,0,False,nothing,9.9,1,1.0,1.0
+839,Telecom Italia SpA/Milano,Q144617,0,False,nothing,-27.56,-1,-1.0,-1.0
+840,Teledyne Technologies Inc,Q7696127,0,False,nothing,-3.910000000000004,-1,-1.0,-1.0
+841,Telenet Group Holding NV,Q616340,0,True,We see a future of smarter cities more sustainable mobility solutions and a or d able health care services,3.4966666666666657,2,2.0,2.0
+842,Telia Co AB,Q862303,0,True,Sustainability Start page Sustainability At T elia Company we constantly reinvent what better connected lives businesses cities and societies look like,-690.38,0,0.0,0.0
+843,Telstra Corp Ltd,Q721162,0,False,nothing,-42.28769230769231,-1,-1.0,-1.0
+844,Tempur Sealy International Inc,Q19604577,0,False,nothing,17.990000000000002,1,1.0,1.0
+845,Tenaga Nasional Bhd,Q1584297,0,True,N A T I O N Contributing to Smart Cities in Malaysia Our research arm T NB Research S dn,15.68,2,2.0,2.0
+846,Tencent Holdings Ltd,Q860580,0,False,nothing,-7.417446808510638,-1,-0.42857142857142855,-1.0
+847,Tenet Healthcare Corp,Q3518066,0,False,nothing,-35.36000000000001,-1,-1.0,-1.0
+848,Tenneco Inc,Q1509038,1,False,nothing,0.0,0,0.0,0.0
+849,Teradyne Inc,Q2404292,0,False,nothing,-1.16,-1,-1.0,-1.0
+850,Tesco PLC,Q487494,0,False,nothing,-14.305555555555555,-1,-1.0,-1.0
+851,Tesla Inc,Q478214,1,False,nothing,-135.9742857142857,0,0.0,0.0
+852,Teva Pharmaceutical Industries Ltd,Q898750,0,False,nothing,-31.226666666666656,-1,0.21052631578947367,-0.5
+853,Texas Instruments Inc,Q193412,0,False,nothing,-17.568000000000005,-1,-1.0,-1.0
+854,Thermo Fisher Scientific Inc,Q643674,0,False,nothing,11.854,1,1.0,1.0
+855,thyssenkrupp AG,Q137910,0,False,nothing,-20.4275,-1,-1.0,-1.0
+856,TI Fluid Systems PLC,Q7670467,0,False,nothing,0.2333333333333333,1,1.0,1.0
+857,TJX Cos Inc,Q1285819,0,True,GRI 413 Local Communities 103 Management approach 413 1 Operations with local community engagement impact assessments and development programs Link on the website CR Report Page s SD G 1 No 30 SD G 2 Zero 30 SD G 3 Good Health and 36 SD G 4 Quality 32 SD G 5 Gender Affordable and Clean 44 Our corporate responsibility program is based on four Workplace Our Communities Environmental Sustainability and Responsible Business,-9.4,0,0.0,0.0
+858,Tokio Marine Holdings Inc,Q1812086,0,False,nothing,-78.528,-1,-1.0,-1.0
+859,Toll Brothers Inc,Q7814310,0,True,We select sites that support our strategy of creating thriving communities in the most desirable locations at the corner of Main and Main,11.75,2,2.0,2.0
+860,Toray Industries Inc,Q168115,0,False,nothing,6.354999999999999,1,1.0,1.0
+861,TotalEnergies SE,Q154037,0,False,nothing,-10.240000000000002,-1,-0.5,-1.0
+862,Tower Bersama Infrastructure Tbk PT,Q7829632,0,False,nothing,-0.24,-1,-1.0,-1.0
+863,Toyota Motor Corp,Q53268,0,False,nothing,8.434495412844038,1,1.0,1.0
+864,TransAlta Renewables Inc,Q2448801,0,False,nothing,91.7,1,1.0,1.0
+865,TransDigm Group Inc,Q7833612,0,False,nothing,-0.8160000000000001,-1,-1.0,-1.0
+866,Transurban Group,Q3538015,0,False,nothing,12.6,1,1.0,1.0
+867,Travelers Cos Inc,Q942471,0,False,nothing,5.117500000000001,1,1.0,1.0
+868,TreeHouse Foods Inc,Q16958009,0,False,nothing,0.3485714285714286,1,1.0,1.0
+869,Trex Co Inc,Q16985774,1,False,nothing,84.3,2,2.0,2.0
+870,Tri Pointe Homes Inc,Q105038141,0,False,nothing,27.18,1,1.0,1.0
+871,Trimble Inc,Q2297063,0,False,nothing,0.6533333333333333,1,1.0,1.0
+872,Trinseo SA,Q18354527,1,False,nothing,6.0,2,2.0,2.0
+873,Turkcell Iletisim Hizmetleri AS,Q283852,0,True,Sustainable Innovative Products for Our Customers We conduct studies that help our customers and our cities advance towards a more sustainable way of life and we realize sustainable innovative products such as Der gili k Turk cell Fi liz Ko pilot Ak ll F aks and Diji tal mz a,-3.039999999999996,0,0.0,0.0
+874,Turkiye Garanti Bankasi AS,Q322962,0,False,nothing,-16.92,-1,-1.0,-1.0
+875,Twitter Inc,Q918,0,False,nothing,-230.30193548387095,-1,-1.0,-1.0
+876,u-blox Holding AG,Q2466238,0,False,nothing,0.55,1,1.0,1.0
+877,Ubisoft Entertainment SA,Q188273,0,False,nothing,-53.59090909090909,-1,-0.42857142857142855,-1.0
+878,UBS Group AG,Q193199,0,False,nothing,-10.939615384615385,-1,0.0,-0.5
+879,UGI Corp,Q2852632,0,False,nothing,43.815,1,1.0,1.0
+880,UltraTech Cement Ltd,Q7880419,0,False,nothing,8.55,1,1.0,1.0
+881,Umicore SA,Q902769,2,False,nothing,29.28,3,3.0,3.0
+882,UniCredit SpA,Q45568,0,False,nothing,-44.42,-1,-1.0,-1.0
+883,Unilever PLC,Q157062,0,True,Online Sustainable Water and Integrated catchment Management principles SWIM Eco eff cie n cy in manufacturing Project Medusa Rhodes University project WBCS D water scenarios Living Lakes Conference 2005 Water and Sanitation for the Urban Poor Sustainability Working with others Locally Critical to managing our water imprint is engaging with local community stakeholders particularly in regions of high water stress,-219.5386363636364,0,0.0,0.0
+884,Union Pacific Corp,Q20183163,0,False,nothing,-16.8,-1,-1.0,-1.0
+885,United Overseas Bank Ltd,Q2064074,0,False,nothing,141.4057142857143,1,1.0,1.0
+886,United Parcel Service Inc,Q155026,0,False,nothing,9.352500000000004,1,1.0,1.0
+887,United Rentals Inc,Q7889101,0,False,nothing,-7.065000000000001,-1,-1.0,-1.0
+888,United States Steel Corp,Q72539,0,False,nothing,-20.16142857142857,-1,-1.0,-1.0
+889,United Utilities Group PLC,Q503038,0,True,as those arising from climate embrace innovation especially in an increasingly digital world to ensure the region where we operate has reliable sustainable and resilient infrastructure now and into the cities and communities Make cities and human settlements inclusive safe resilient and sustainable We use our understanding of customer needs and priorities to deliver services that meet their expectations and engage with communities to enhance participation in what we do,-7.140000000000004,0,0.0,0.0
+890,UnitedHealth Group Inc,Q2103926,0,False,nothing,-6.947142857142856,-1,-1.0,-1.0
+891,Universal Display Corp,Q3116307,2,False,nothing,40.395,3,3.0,3.0
+892,Uponor Oyj,Q1536068,0,False,nothing,20.160000000000004,1,1.0,1.0
+893,US Bancorp,Q739084,0,True,Close story accordion collapsed Racial Inequities and Civil Unrest Customers Previous Environmental Sustainability and Community Engagement Communities Next Opens new window Support opens new window Locations opens new window Careers opens new window About,26.040000000000003,2,0.21052631578947367,2.0
+894,Vale SA,Q583268,0,False,nothing,-24.972500000000004,-1,-1.0,-1.0
+895,Valmet Oyj,Q1197161,0,False,nothing,7.446153846153846,1,1.0,1.0
+896,Valmont Industries Inc,Q7912506,0,False,nothing,35.86000000000001,1,1.0,1.0
+897,Varta AG,Q695251,0,False,nothing,-10.72,-1,0.0,-0.5
+898,Ventas Inc,Q19865761,2,False,nothing,5.214,3,1.8333333333333333,3.0
+899,VeriSign Inc,Q734338,0,False,nothing,-1.1899999999999995,-1,-1.0,-1.0
+900,Verisk Analytics Inc,Q7921370,0,False,nothing,321.39,1,1.0,1.0
+901,Verizon Communications Inc,Q467752,0,False,nothing,1.323103448275864,1,1.0,1.0
+902,Vertiv Holdings Co,Q5370909,0,False,nothing,9.88,1,1.0,1.0
+903,Vestas Wind Systems A/S,Q868259,0,False,nothing,12.833999999999998,1,1.0,1.0
+904,VF Corp,Q457960,0,False,nothing,29.475,1,1.0,1.0
+905,Vina Concha y Toro SA,Q1123957,0,True,All objectives are interconnected and imp or tant but w are critical to our business and where we can have the greatest positive WATER RESPONSIBLE CONSUMPTION AND PRODUCTION AFFORDABLE AND CLEAN ENERGY DECENT WORK AND ECONOMIC GROWTH CLIMATE ACTION LIFE ON LAND PEACE JUSTICE AND STRONG INSTITUTIONS NO POVERTY GOOD HEALTH QUALITY EDUCATION GENDER EQUALITY CLEAN WATER AND SANITATION INNOVATION AND INFRASTRUCTURE REDUCED INEQUALITIES SUSTAINABLE CITIES AND COMMUNITIES PARTNERSHIP FOR THE GOALS 30 It seeks to promote disseminate and continue integrating the 10 principles of the Global Compact into the business sector seeking more responsible Footprint network is an organization that focuses on promoting fair and smart use of Pricing Leadership Coalition is a voluntary public private association that agrees to advance the Carbon Pricing Global Reporting Initiative GRI is an independent organization whose objective is to promote the development of sustainability reports in all types of AND ASSOCIATIONS,0.45,2,2.0,2.0
+906,Vinci SA,Q1475312,1,False,nothing,30.08,2,2.0,2.0
+907,Visa Inc,Q328840,0,False,nothing,156.97064516129032,1,1.0,1.0
+908,Visteon Corp,Q637474,0,False,nothing,135.5,1,1.0,1.0
+909,Vistra Corp,Q37068911,0,False,nothing,0.5175,1,1.0,1.0
+910,Vivendi SE,Q1127887,0,False,nothing,-0.893,-1,-1.0,-1.0
+911,Vodafone Group PLC,Q122141,0,False,nothing,24.05761904761905,1,1.0,1.0
+912,Volvo AB,Q163810,0,False,nothing,-124.436,-1,-1.0,-1.0
+913,Wabash National Corp,Q7958645,0,False,nothing,-2.32,-1,-1.0,-1.0
+914,Wacker Chemie AG,Q535517,1,False,nothing,-10.19,0,0.0,0.0
+915,Walt Disney Co,Q7414,0,False,nothing,36.22381578947369,1,1.0,1.0
+916,Waste Connections Inc,Q7972797,0,False,nothing,-3.2775000000000016,-1,-1.0,-1.0
+918,Waters Corp,Q1322011,0,False,nothing,18.91,1,1.0,1.0
+919,Weichai Power Co Ltd,Q3567081,0,False,nothing,0.0,-1,-1.0,-1.0
+920,Wells Fargo & Co,Q744149,0,False,nothing,-34.102424242424235,-1,0.21052631578947367,-0.5
+921,Welltower Inc,Q20486917,2,False,nothing,13.4,3,1.8333333333333333,3.0
+922,West Fraser Timber Co Ltd,Q1765036,0,False,nothing,6.640000000000001,1,1.0,1.0
+923,Western Digital Corp,Q738770,0,False,nothing,29.224999999999994,1,1.0,1.0
+924,Westlake Chemical Corp,Q17326957,0,True,We share how we are developing products and solutions for a more sustainable future protecting and investing in our people managing our environmental footprint and demonstrating our commitment to being a responsible corporate citizen in the communities where we We report on our sustainability performance on an annual basis,0.66,2,2.0,2.0
+925,Westpac Banking Corp,Q2031726,0,False,nothing,-16.795833333333334,-1,-1.0,-1.0
+926,Westrock Co,Q21016487,0,False,nothing,323.85,1,1.0,1.0
+927,WH Group Ltd,Q17499655,0,False,nothing,-6.693333333333334,-1,-1.0,-1.0
+928,Williams Cos Inc,Q930639,0,False,nothing,-8.115000000000002,-1,-1.0,-1.0
+929,Wm Morrison Supermarkets PLC,Q922344,0,False,nothing,9.441333333333334,1,1.0,1.0
+930,Wolters Kluwer NV,Q249798,0,False,nothing,-36.17714285714285,-1,-1.0,-1.0
+931,Woodside Petroleum Ltd,Q1812208,0,False,nothing,-26.69333333333333,-1,-1.0,-1.0
+932,Workday Inc,Q8034666,0,False,nothing,329.82499999999993,1,1.0,1.0
+933,Workhorse Group Inc,Q28406599,0,False,nothing,-22.46666666666667,-1,-1.0,-1.0
+934,WPP PLC,Q1318049,0,False,nothing,32.8725,1,1.0,1.0
+935,Wuliangye Yibin Co Ltd,Q3570160,0,False,nothing,-7.5,-1,-1.0,-1.0
+936,WW Grainger Inc,Q1627894,0,False,nothing,-0.2,-1,-1.0,-1.0
+937,Wynn Resorts Ltd,Q2274089,0,False,nothing,21.875,1,1.0,1.0
+938,X5 Retail Group NV,Q258748,0,False,nothing,5.02,1,1.0,1.0
+939,Xerox Holdings Corp,Q152433,0,True,BR 2018 Updated Our way of doing have always focused on environmental performance and sustainability long before it was popular to do so in order to have a positive effect on our operations offerings customers and communities,-66.46000000000001,0,0.0,0.0
+940,Xilinx Inc,Q1046482,0,True,We focus on reducing natural resource use the solid and chemical waste of our operations and minimizing our overall environmental impact communities around We provide a safe and healthy work environment for all employees,6.000000000000003,2,2.0,2.0
+941,Xinjiang Goldwind Science & Technology Co Ltd,Q1090900,0,True,The Company is committed to giving back to the society and supporting the development of local communities where we operated through efforts in poverty alleviation and assistance in the development of education environmental protection and public health culture and Company positions its own development in the framework of global sustainable development staying motivated and actively seeking for change,-0.54,0,0.0,0.0
+942,XPeng Inc,Q63035278,0,False,nothing,28.83333333333333,1,1.0,1.0
+943,XPO Logistics Inc,Q8042415,0,False,nothing,-24.375,-1,-1.0,-1.0
+944,Xylem Inc/NY,Q3146975,0,True,6 By 2030 reduce the adverse per capita environmental impact of cities including by paying special attention to air quality and municipal and other waste management We will help communities reduce water contamination that threatens human health by leveraging digital technologies to prevent polluted water from flooding communities or entering local waterways,16.17,2,2.0,2.0
+945,Yaskawa Electric Corp,Q2620239,0,False,nothing,21.975,1,1.0,1.0
+946,Yum! Brands Inc,Q668737,0,False,nothing,156.36499999999998,1,1.0,1.0
+947,Zebra Technologies Corp,Q2443609,0,False,nothing,54.83,1,1.0,1.0
+948,Zimmer Biomet Holdings Inc,Q203552,0,False,nothing,43.98461538461539,1,1.0,1.0
+949,Zoetis Inc,Q8073337,0,False,nothing,59.74,1,1.0,1.0
+950,Zur Rose Group AG,Q230343,0,False,nothing,29.76749999999999,1,1.0,1.0
+951,Zurich Insurance Group AG,Q230426,0,False,nothing,-48.5175,-1,-1.0,-1.0

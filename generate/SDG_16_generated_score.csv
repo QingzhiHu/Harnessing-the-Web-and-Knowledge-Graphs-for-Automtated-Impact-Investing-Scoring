@@ -1,0 +1,890 @@
+,company,wikidata_id,product_score,report_evidence_binary,report_evidence_content,average_sentiment_impactful,score_before_graph,graph_group_average,final_score
+0,3M Co,Q159433,0,False,nothing,-16.44388888888888,-1,-1.0,-1.0
+1,A O Smith Corp,Q4648219,0,False,nothing,2.3400000000000007,1,1.0,1.0
+2,a2 Milk Co Ltd,Q22909318,0,False,nothing,-8.46,-1,-1.0,-1.0
+3,ABB Ltd,Q52825,0,False,nothing,68.70545454545454,1,1.0,1.0
+4,Abbott Laboratories,Q306764,0,False,nothing,-6.77,-1,-1.0,-1.0
+5,AbbVie Inc,Q14662364,0,True,See our sustainability progress equity equality diversity and inclusion fuels our innovation and supports employee development and education,-26.65,0,0.0,0.0
+6,ABN AMRO Bank NV,Q287471,0,False,nothing,-52.13,-1,-1.0,-1.0
+7,Accenture PLC,Q338825,0,False,nothing,49.09142857142857,1,1.0,1.0
+8,Accor SA,Q212599,0,False,nothing,160.8957142857143,1,1.0,1.0
+9,Activision Blizzard Inc,Q344341,0,False,nothing,-88.65299999999999,-1,-1.0,-1.0
+10,Adani Transmission Ltd,Q83472792,0,True,21 59 63 PF 2 Labour and Working Conditions Occupational Health and Safety Human Rights Training and Education Pg s,15.06,2,2.0,2.0
+11,adidas AG,Q3895,0,False,nothing,136.77517241379311,1,1.0,1.0
+12,Adient PLC,Q26832896,0,False,nothing,-4.69,-1,-1.0,-1.0
+13,Adobe Inc,Q11463,0,False,nothing,46.590384615384615,1,1.0,1.0
+14,ADT Inc,Q290680,0,False,nothing,12.25,1,1.0,1.0
+15,Adtalem Global Education Inc,Q5244154,0,False,nothing,5.67,1,1.0,1.0
+16,Advance Auto Parts Inc,Q4686051,0,False,nothing,-4.515000000000001,-1,-1.0,-1.0
+17,Advanced Drainage Systems Inc,Q60745531,0,False,nothing,0.3400000000000001,1,1.0,1.0
+18,Advanced Micro Devices Inc,Q128896,0,False,nothing,56.13510204081632,1,1.0,1.0
+19,Adyen NV,Q4686934,0,False,nothing,29.82,1,1.0,1.0
+20,AECOM,Q2825507,0,True,From high performance buildings and infrastructure to resilient communities and environments to stable and secure nations our work is transformative differentiated and vital,-35.2,0,0.0,0.0
+21,AES Corp,Q291508,0,False,nothing,51.00000000000001,1,1.0,1.0
+22,Ageas SA/NV,Q392338,0,False,nothing,-6.386,-1,-1.0,-1.0
+23,Agilent Technologies Inc,Q393762,0,True,1 Charitable and Political Compliance Social and Environmental Responsibilities We value our place in the global community and are committed to conducting business in an ethical socially responsible and environmentally sustainable manner,380.1575,2,2.0,2.0
+24,AIA Group Ltd,Q1152465,0,False,nothing,-11.7,-1,-1.0,-1.0
+25,AIB Group PLC,Q1642179,0,False,nothing,-12.522499999999996,-1,-1.0,-1.0
+26,Air Liquide SA,Q407448,0,False,nothing,131.552,1,1.0,1.0
+27,Ajinomoto Co Inc,Q412826,0,False,nothing,4.46,1,1.0,1.0
+28,Akamai Technologies Inc,Q415598,0,False,nothing,264.46,1,1.0,1.0
+29,Akbank TAS,Q416624,0,False,nothing,0.0,-1,-1.0,-1.0
+30,Akzo Nobel NV,Q50912,0,False,nothing,10.345,1,1.0,1.0
+31,Albemarle Corp,Q127074,0,False,nothing,-2.88,-1,-1.0,-1.0
+32,Alcon Inc,Q684825,0,False,nothing,21.875,1,1.0,1.0
+33,Alexandria Real Estate Equities Inc,Q48739877,0,False,nothing,1.404,1,0.5,1.0
+34,Alfa Laval AB,Q686030,0,True,The four principles Social Business Integrity Environment and Transparency include respecting the human rights of our employees and the communities in which we operate and our work to reduce environmental impact Read about our Business Principles Business opportunities At Alfa Laval sustainability is also about capturing business opportunities,10.59666666666667,2,2.0,2.0
+35,Alibaba Group Holding Ltd,Q1359568,0,False,nothing,-105.8629411764706,-1,-0.42857142857142855,-1.0
+36,Allegion plc,Q16738121,0,True,Our community impact projects span safe and secure housing hunger relief domestic violence shelters support for educators schools and children facing health and social challenges STEM and mentoring programs and many more needs identified by our local operations,23.11,2,2.0,2.0
+37,Allianz SE,Q487292,0,True,We take a strong stance on gender equality diversity and inclusion training and development employee engagement and health and well being,-13.476363636363637,0,0.0,0.0
+38,Allianz SE,Q487292,0,True,8 Demonstrating integrity com pet ance and everything we do See more on page,-13.476363636363637,0,0.5,0.5
+39,Allied Properties Real Estate Investment Trust,Q697852,0,True,We aim to ensure our governance infrastructure supports equitable transparent and responsible business West Toronto Governance 44 Board and Management,51.05375000000001,2,0.5,2.0
+40,Allison Transmission Holdings Inc,Q2036530,0,False,nothing,9.2,1,1.0,1.0
+41,Alphabet Inc,Q20800404,0,False,nothing,-7.686999999999998,-1,-1.0,-1.0
+42,Alstom SA,Q309084,0,False,nothing,81.90727272727273,1,1.0,1.0
+43,Altice USA Inc,Q644289,0,False,nothing,-70.21000000000001,-1,-1.0,-1.0
+44,Altium Ltd,Q1066620,0,False,nothing,3.344999999999999,1,1.0,1.0
+45,Amadeus IT Group SA,Q696061,0,False,nothing,0.0,-1,-1.0,-1.0
+46,Amazon.com Inc,Q3884,0,False,nothing,29.50431309904153,1,1.0,1.0
+47,AMC Entertainment Holdings Inc,Q294721,0,False,nothing,-41.481923076923074,-1,-1.0,-1.0
+48,American Axle & Manufacturing Holdings Inc,Q4743120,0,True,Our Human Rights Policy also addresses workplace safety and security freedom of association wage and hour standards and prohibitions against forced labor child labor and human A AM INTEGRITY THE POWER OF DOING WHAT IS RIGHT IS PARAMOUNT,24.360000000000003,2,2.0,2.0
+49,American Express Co,Q194360,0,False,nothing,2.204705882352939,1,0.10526315789473684,1.0
+50,American International Group Inc,Q212235,0,False,nothing,-1103.2955555555554,-1,-1.0,-1.0
+51,American Tower Corp,Q4745263,0,False,nothing,-9.5,-1,0.5,-0.5
+52,American Water Works Co Inc,Q467238,0,False,nothing,559.81,1,1.0,1.0
+53,Amorepacific Corp,Q490142,0,False,nothing,11.923333333333332,1,1.0,1.0
+54,ams AG,Q477875,0,True,With more than 10 000 participants in 130 countries the UN Global Compact is committed to human rights just labor standards environmental protection and anti corruption its dedication to protecting the environment and to the sustainability of resources ams is committed to significantly reducing its carbon emissions,-1.2000000000000002,0,0.0,0.0
+55,Analog Devices Inc,Q484930,0,False,nothing,15.64,1,1.0,1.0
+56,ANDRITZ AG,Q442018,0,False,nothing,42.191428571428574,1,1.0,1.0
+57,Anglo American PLC,Q541451,0,False,nothing,-108.16249999999998,-1,-1.0,-1.0
+58,Anheuser-Busch InBev SA/NV,Q128738,0,False,nothing,51.95142857142857,1,1.0,1.0
+59,ANSYS Inc,Q295774,0,False,nothing,176.66,1,1.0,1.0
+60,Antero Resources Corp,Q39046155,0,False,nothing,0.18,1,1.0,1.0
+61,Anthem Inc,Q677488,0,True,And the voices from our more than 11 500 member strong Associate Resource Groups ARG s helped inspire us to open our hearts and minds to the needs and feelings of a broad range of work was extended through a 50 million five year pledge focused on eliminating racial injustice strengthening our communities and addressing health inequities,-55.64,0,0.0,0.0
+62,APA Group,Q20311412,0,False,nothing,0.2133333333333335,1,1.0,1.0
+63,Apple Inc,Q312,0,False,nothing,-124.62029810298102,-1,0.10526315789473684,-0.5
+64,Applied Materials Inc,Q621610,0,False,nothing,10.936,1,1.0,1.0
+65,Aptiv PLC,Q643626,0,False,nothing,71.34,1,1.0,1.0
+66,Aramark,Q625708,0,True,Language English French Spanish ES G Reporting Were working to reduce inequity support and grow our communities and protect our planet,14.875000000000028,2,2.0,2.0
+67,Aramark,Q625708,0,True,Simply stated we are working to reduce inequity support and grow our communities and protect our planet,14.875000000000028,2,2.0,2.0
+68,Aramark,Q625708,0,True,People are at the center of everything we do and so were focused on equity and wellbeing of our employees and consumers the people in the communities where we live and work as well as the people in our supply chain,14.875000000000028,2,2.0,2.0
+69,Arcadis NV,Q631507,0,False,nothing,22.23,1,1.0,1.0
+70,ArcelorMittal SA,Q27893,0,False,nothing,32.19000000000001,1,1.0,1.0
+71,Arista Networks Inc,Q2861324,0,False,nothing,44.55,1,1.0,1.0
+72,Arkema SA,Q673327,0,False,nothing,14.31,1,-0.5,0.5
+73,Asahi Kasei Corp,Q720489,0,False,nothing,40.78,1,1.0,1.0
+74,Ashtead Group PLC,Q4805956,0,False,nothing,2.640000000000001,1,1.0,1.0
+75,ASOS PLC,Q211951,0,False,nothing,-143.8341176470588,-1,-1.0,-1.0
+76,Aspen Pharmacare Holdings Ltd,Q4807838,0,True,We uphold the dignity fundamental freedoms and human rights of our employees contractors and the communities in which we live and work and others affected by our activities,-4.5600000000000005,0,0.0,0.0
+77,Aspen Technology Inc,Q736091,0,False,nothing,59.92,1,1.0,1.0
+78,Astellas Pharma Inc,Q528842,0,False,nothing,13.74,1,1.0,1.0
+79,AstraZeneca PLC,Q731938,0,True,We will report on the outcomes of our trial in peaceful and inclusive societies and build effective accountable and inclusive institutions at all levels Our contribution We aim to lead our industry in demonstrating ethical business practices and integrity in everything we do,-141.06684131736526,0,0.0,0.0
+80,AstraZeneca PLC,Q731938,0,True,As a business upholding human rights is foundational to our ability to retain talent our social acceptance to operate and the delivery of other sustainability focus areas such as Disease prevention and treatment Ethical business culture Inclusion and diversity Workforce wellbeing and safety and Responsible supply chain,-141.06684131736526,0,0.0,0.0
+81,AstraZeneca PLC,Q731938,0,True,exercising and managing any conditions or diseases Mental wellbeing feeling positive building resilience achieving balance and a strong sense of community Financial wellbeing managing finances today while preparing for the future We investigate safety incidents to understand root causes and make changes to prevent re occurrence,-141.06684131736526,0,0.0,0.0
+82,Atlas Copco AB,Q757164,0,False,nothing,5.636666666666667,1,1.0,1.0
+83,Australia & New Zealand Banking Group Ltd,Q714641,0,False,nothing,28.06357142857143,1,1.0,1.0
+84,Auto Trader Group PLC,Q4826130,0,False,nothing,2.9450000000000003,1,1.0,1.0
+85,Autodesk Inc,Q628051,0,False,nothing,8.795714285714284,1,1.0,1.0
+86,Avantor Inc,Q104842834,0,True,We believe in doing business in ways that ensure ethical compliance anti corruption safety and diversity and inclusion,-16.240000000000002,0,0.0,0.0
+87,Avery Dennison Corp,Q790650,0,False,nothing,3.0000000000000004,1,1.0,1.0
+88,Avis Budget Group Inc,Q2874395,0,False,nothing,143.35500000000002,1,1.0,1.0
+89,Aviva PLC,Q791179,0,True,This includes ensuring clear accountability for action transparent reporting respecting human rights and ensuring we are an employer of choice through our focus on diversity and inclusion health and believe the best is yet to come for our customers our people and our planet,-19.676666666666662,0,0.0,0.0
+90,Aviva PLC,Q791179,0,True,1 m Number of people made more resilient Aviv a plc Sustainability Report Stronger Communities We help people prepare for protect against and recover from environmental financial and health challenges Alignment to UN S DGs Stronger Communities Stronger communities help us to overcome lifes challenges and achieve more together,-19.676666666666662,0,0.0,0.0
+91,AXA SA,Q160054,0,False,nothing,-13.36857142857143,-1,0.0,-0.5
+92,Axalta Coating Systems Ltd,Q26215536,0,False,nothing,83.25142857142858,1,1.0,1.0
+93,Axiata Group Bhd,Q792500,0,False,nothing,-21.54500000000001,-1,-1.0,-1.0
+94,Axis Bank Ltd,Q2003549,0,True,Our Purpose Banking that leads to a more inclusive and equitable economy thriving community and a healthier planet,-33.49,0,0.0,0.0
+95,Axis Bank Ltd,Q2003549,0,True,The emphasis is on attracting and managing talent strengthening our commitments and action on diversity equity and inclusion and ensuring the safety of our employees and their families,-33.49,0,0.0,0.0
+96,Axis Bank Ltd,Q2003549,0,True,Our Approach to Creating Enduring Value Banking for an equitable and inclusive economy thriving community and a healthier planet best underscores our role as an institution,-33.49,0,0.0,0.0
+97,Axis Bank Ltd,Q2003549,0,True,Our Core Values Customer Centric it y Teamwork Ethics Ownership Transparency Our Purpose Banking that leads to a more inclusive and equitable economy thriving community and a healthier planet,-33.49,0,0.0,0.0
+98,Baidu Inc,Q14772,0,False,nothing,-28.59363636363636,-1,-1.0,-1.0
+99,Bajaj Finance Ltd,Q28173355,0,False,nothing,-6.525,-1,-1.0,-1.0
+100,Ball Corp,Q4034815,0,False,nothing,19.095,1,1.0,1.0
+101,Ballard Power Systems Inc,Q474383,0,False,nothing,-5.52,-1,-1.0,-1.0
+102,Banco Bilbao Vizcaya Argentaria SA,Q806189,0,False,nothing,-8.806363636363637,-1,-1.0,-1.0
+103,Banco BTG Pactual SA,Q2877503,0,False,nothing,22.380000000000003,1,1.0,1.0
+104,Banco Comercial Portugues SA,Q118581,0,False,nothing,-2.5600000000000005,-1,-1.0,-1.0
+105,Banco de Sabadell SA,Q762330,0,False,nothing,-0.8800000000000001,-1,-1.0,-1.0
+106,Banco do Brasil SA,Q610817,0,False,nothing,-11.12153846153846,-1,-1.0,-1.0
+107,Banco Santander Chile,Q1094313,0,False,nothing,7.364999999999999,1,1.0,1.0
+108,Banco Santander SA,Q6496310,0,False,nothing,-6.995,-1,-1.0,-1.0
+109,Bancolombia SA,Q806206,0,True,We have also implemented voluntary commitments such as DJS I PRI Responsible Investment Principles Principles of Ecuador Business for Peace Mandate for Water Carbon Disclosure Project CDP which address contexts such as climate protection anti corruption and water resource management and peace building,-0.16,0,0.0,0.0
+110,Bandhan Bank Ltd,Q19882235,0,False,nothing,-7.300000000000001,-1,-1.0,-1.0
+111,Bangkok Bank PCL,Q806483,0,False,nothing,31.69333333333333,1,1.0,1.0
+112,Bank Negara Indonesia Persero Tbk PT,Q2882611,0,False,nothing,1035.7733333333335,1,1.0,1.0
+113,Bank of America Corp,Q487907,0,False,nothing,-43.64059999999999,-1,-1.0,-1.0
+114,Bank of China Ltd,Q790068,0,False,nothing,-55.577,-1,-1.0,-1.0
+115,Bank of Ireland Group PLC,Q806689,0,False,nothing,6.038333333333331,1,1.0,1.0
+116,Bank of Nova Scotia,Q451476,0,True,Scotiabank s approach to Environmental Social and Governance ES G focuses on four pillars Environmental Action Economic Resilience Inclusive Society and Leadership Governance,-44.322,0,0.0,0.0
+117,Bankinter SA,Q806808,0,False,nothing,-0.4666666666666666,-1,-1.0,-1.0
+118,Barclays PLC,Q245343,0,False,nothing,-48.17829787234043,-1,-1.0,-1.0
+119,BASF SE,Q9401,0,False,nothing,50.69625,1,1.0,1.0
+120,Basler AG,Q810387,0,False,nothing,0.16,1,1.0,1.0
+121,Bausch Health Cos Inc,Q1700871,0,False,nothing,-9.75,-1,-1.0,-1.0
+122,Baxter International Inc,Q761965,0,False,nothing,25.83,1,1.0,1.0
+123,Bayer AG,Q152051,0,False,nothing,-3.1923684210526337,-1,-1.0,-1.0
+124,Bayerische Motoren Werke AG,Q26678,0,False,nothing,41.735416666666666,1,1.0,1.0
+125,Beijing Enterprises Holdings Ltd,Q836569,0,False,nothing,-0.92,-1,-1.0,-1.0
+126,Belden Inc,Q815327,0,False,nothing,6.85,1,1.0,1.0
+127,Berkshire Hathaway Inc,Q217583,0,False,nothing,-130.39,-1,0.10526315789473684,-0.5
+128,Berry Global Group Inc,Q4894819,0,False,nothing,2.28,1,1.0,1.0
+129,Bharat Petroleum Corp Ltd,Q854826,0,False,nothing,-2.492,-1,-1.0,-1.0
+130,Bharti Airtel Ltd,Q854867,0,False,nothing,-16.794999999999998,-1,-1.0,-1.0
+131,BHP Group Ltd,Q625713,0,False,nothing,-15.334166666666668,-1,-1.0,-1.0
+132,BHP Group PLC,Q625713,0,False,nothing,-7.83,-1,-1.0,-1.0
+133,Biffa PLC,Q4904749,0,True,Accreditation s SUSTAINABILITY Our alignment to the UNs Sustainable Development Goals Ensure healthy lives and promote wellbeing for all at all ages Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all Ensure access to affordable reliable sustainable and modern energy for all Promote sustained inclusive and sustainable economic growth full and productive employment and decent work for all Build resilient infrastructure promote inclusive and sustainable industrialisation and foster innovation Reduce inequality within and among countries Make cities and human settlements inclusive safe resilient and sustainable Ensure sustainable consumption and production patterns,48.260000000000005,2,1.0,2.0
+134,Big Yellow Group PLC,Q4906703,0,False,nothing,6.23,1,1.0,1.0
+135,Biotage AB,Q10429829,0,True,Globally we are a signatory of the United Nations Global Compact which encourages businesses to embrace sustainability and social responsibility,0.0,0,0.0,0.0
+136,Blackbaud Inc,Q4922539,0,False,nothing,48.11,1,1.0,1.0
+137,BNP Paribas SA,Q499707,0,False,nothing,31.253125,1,1.0,1.0
+138,Bombardier Inc,Q333498,0,False,nothing,31.168999999999997,1,1.0,1.0
+139,Booking Holdings Inc,Q18674747,0,False,nothing,-1.7000000000000002,-1,-1.0,-1.0
+140,Boralex Inc,Q2910597,0,False,nothing,84.6,1,1.0,1.0
+141,Boston Properties Inc,Q4844439,0,False,nothing,2.32,1,0.5,1.0
+142,Boston Scientific Corp,Q894585,0,False,nothing,-28.885,-1,-1.0,-1.0
+143,BP PLC,Q152057,0,False,nothing,-111.93764705882352,-1,-1.0,-1.0
+144,Braskem SA,Q899395,0,False,nothing,-75.96,-1,-1.0,-1.0
+145,BRF SA,Q899097,0,False,nothing,3.3199999999999985,1,1.0,1.0
+146,Bridgestone Corp,Q179433,0,False,nothing,54.42,1,0.0,0.5
+147,Bristol-Myers Squibb Co,Q266423,0,False,nothing,-36.30555555555556,-1,-1.0,-1.0
+148,British American Tobacco Malaysia Bhd,Q856411,0,False,nothing,0.0640000000000004,1,1.0,1.0
+149,British American Tobacco PLC,Q856411,0,False,nothing,0.0640000000000004,1,1.0,1.0
+150,Britvic PLC,Q4971696,0,False,nothing,32.980000000000004,1,1.0,1.0
+151,Broadcom Inc,Q4827416,0,False,nothing,42.9,1,1.0,1.0
+152,BT Group PLC,Q593786,0,False,nothing,-298.4031578947368,-1,-0.3333333333333333,-1.0
+153,BYD Co Ltd,Q2608329,0,False,nothing,57.46,1,0.10526315789473684,1.0
+154,CA Immobilien Anlagen AG,Q1022921,0,True,We are committed to strengthening workers rights preventing human rights abuses and acting in accordance with the principles of non disc rim in a tion equal opportunities and zero tolerance of cor rup tion and bribery throughout our sphere of in flu en ce,0.0,0,0.0,0.0
+155,CA Immobilien Anlagen AG,Q1022921,0,True,Our strategy focuses in particular on health safety employment working conditions and the social aspects of a sustainable supply chain and ur ban district development,0.0,0,0.0,0.0
+156,Cal-Maine Foods Inc,Q5018092,0,False,nothing,14.625,1,1.0,1.0
+157,Campbell Soup Co,Q1030544,0,False,nothing,5.935000000000002,1,1.0,1.0
+158,Canfor Corp,Q1033165,0,False,nothing,26.26,1,1.0,1.0
+159,Capital One Financial Corp,Q1034654,0,False,nothing,165.88875000000002,1,1.0,1.0
+160,CapitaLand Ltd,Q3272868,0,False,nothing,39.55,1,1.0,1.0
+161,Carlsberg AS,Q113215,0,False,nothing,37.94,1,1.0,1.0
+162,Carrefour SA,Q3117359,0,False,nothing,-9.728260869565217,-1,-1.0,-1.0
+163,Cascades Inc,Q544004,0,False,nothing,-10.56,-1,-1.0,-1.0
+164,Catalent Inc,Q19866242,0,False,nothing,8.045000000000002,1,1.0,1.0
+165,CBRE Group Inc,Q1023013,0,False,nothing,5.492727272727271,1,1.0,1.0
+166,CCR SA,Q1121225,0,False,nothing,-1.3200000000000005,-1,-1.0,-1.0
+167,CD Projekt SA,Q7098994,0,False,nothing,-101.183,-1,-1.0,-1.0
+168,Celanese Corp,Q547450,0,False,nothing,12.055,1,1.0,1.0
+169,Cemex SAB de CV,Q1053348,0,False,nothing,44.580000000000005,1,1.0,1.0
+170,Centrica PLC,Q259013,0,False,nothing,-21.072857142857146,-1,-1.0,-1.0
+171,Cerner Corp,Q1055390,0,False,nothing,20.895000000000003,1,1.0,1.0
+172,CF Industries Holdings Inc,Q905806,0,False,nothing,-1.5499999999999998,-1,-1.0,-1.0
+173,Charter Communications Inc,Q2961234,0,False,nothing,-60.09800000000001,-1,0.10526315789473684,-0.5
+174,Chegg Inc,Q5089544,0,False,nothing,-258.03,-1,-1.0,-1.0
+175,Chevron Corp,Q319642,0,False,nothing,-246.9825,-1,-1.0,-1.0
+176,China Everbright Environment Group Ltd,Q10890263,0,False,nothing,12.32,1,1.0,1.0
+177,China Hongqiao Group Ltd,Q10874559,0,False,nothing,-1.08,-1,-1.0,-1.0
+178,China Merchants Bank Co Ltd,Q1073327,0,False,nothing,-0.2850000000000001,-1,-1.0,-1.0
+179,China Merchants Port Holdings Co Ltd,Q268784,0,False,nothing,4.870000000000001,1,1.0,1.0
+180,China Resources Gas Group Ltd,Q5099882,0,True,The Company utilizes every member unit to fulfill its social responsibilities in the four directions of poverty alleviation education aid caring for groups with special needs and volunteer services striving to become an outstanding corporate citizen and a respectable enterprise,0.0,0,0.0,0.0
+181,China Resources Gas Group Ltd,Q5099882,0,True,2 Ideology on Corporate Responsibility The Group continued to shoulder the corporate mission of to create a better life together and uphold the four core values of to be honest and trustworthy performance oriented customers first and be thankful,0.0,0,0.0,0.0
+182,China Resources Gas Group Ltd,Q5099882,0,True,In order to protect and improve livelihood and to fulfill its social responsibilities centering on four major directions of poverty alleviation education aid caring for groups with special needs volunteer service in order to give back to the society with tangible actions and to share the fruits of its corporate development with more takes decades to grow a green tree with deep roots,0.0,0,0.0,0.0
+183,China Resources Land Ltd,Q5099887,0,False,nothing,-0.5,-1,-1.0,-1.0
+184,China Traditional Chinese Medicine Holdings Co Ltd,Q27892807,0,False,nothing,4.847857142857142,1,0.0,0.5
+185,China Vanke Co Ltd,Q861340,0,False,nothing,-33.35,-1,-1.0,-1.0
+186,Chubb Ltd,Q1089060,0,False,nothing,14.559999999999995,1,1.0,1.0
+187,Chugai Pharmaceutical Co Ltd,Q750619,0,False,nothing,-20.72,-1,-1.0,-1.0
+188,Cie de Saint-Gobain,Q678565,0,False,nothing,-90.07333333333334,-1,-1.0,-1.0
+189,Cie Generale des Etablissements Michelin SCA,Q151107,0,False,nothing,110.49736842105264,1,1.0,1.0
+190,Cimarex Energy Co,Q16829606,0,False,nothing,-0.1699999999999999,-1,-1.0,-1.0
+191,Cimpress PLC,Q22121865,0,False,nothing,14.0875,1,1.0,1.0
+192,Cintas Corp,Q1092571,0,False,nothing,35.81333333333335,1,1.0,1.0
+194,Citigroup Inc,Q219508,0,False,nothing,38.6016129032258,1,1.0,1.0
+195,Citrix Systems Inc,Q916196,0,False,nothing,48.24,1,1.0,1.0
+196,City Developments Ltd,Q16259060,0,False,nothing,35.7,1,1.0,1.0
+197,Clear Channel Outdoor Holdings Inc,Q5130656,0,False,nothing,92.56,1,1.0,1.0
+198,Clearwater Paper Corp,Q5130952,0,False,nothing,-0.31,-1,-1.0,-1.0
+199,CLP Holdings Ltd,Q977959,0,False,nothing,85.68,1,1.0,1.0
+200,CME Group Inc,Q1071967,0,False,nothing,-8.025714285714285,-1,-1.0,-1.0
+201,CNH Industrial NV,Q15238661,0,False,nothing,5.816000000000001,1,1.0,1.0
+202,CNP Assurances,Q1023930,0,False,nothing,58.42,1,1.0,1.0
+203,Coca-Cola Europacific Partners PLC,Q106829668,0,False,nothing,-0.32,-1,-1.0,-1.0
+204,Coca-Cola Femsa SAB de CV,Q20714863,0,False,nothing,2793.42,1,1.0,1.0
+205,Cogent Communications Holdings Inc,Q1106938,0,False,nothing,21.480000000000004,1,1.0,1.0
+206,Cognizant Technology Solutions Corp,Q1107035,0,False,nothing,220.3466666666667,1,1.0,1.0
+207,Coherent Inc,Q1107088,0,False,nothing,-9.96,-1,-1.0,-1.0
+208,Colfax Corp,Q2579502,0,False,nothing,0.0,-1,-1.0,-1.0
+209,Colgate-Palmolive Co,Q609466,0,False,nothing,37.92,1,1.0,1.0
+210,Columbia Sportswear Co,Q1112588,0,False,nothing,25.9,1,1.0,1.0
+211,Comcast Corp,Q1113804,0,False,nothing,-37.188125000000014,-1,-1.0,-1.0
+212,Comfort Systems USA Inc,Q5151691,0,False,nothing,-0.1399999999999999,-1,-1.0,-1.0
+213,Commonwealth Bank of Australia,Q285328,0,True,According to these principles governments have a duty to protect human rights our responsibility is to respect human respect human rights and seek to manage the risks of human rights abuses through our direct operations and business relationships in the following respect the human rights of our employees contractors customers second ees visitors and volunteers by operating a workplace that is open fair inclusive and respectful of fundamental human rights regardless of age gender sexual orientation culture race ability religion or beliefs providing customers suppliers and employees with access to mechanisms through which grievances and complaints may be raised providing a safe and healthy workplace which promotes physical mental and financial well being supporting freedom of association for Group employees choosing to join trade unions and requiring that employees attest to and undertake mandatory training on our Code of respect human rights in our business relationships in the following ways where reasonably practicable we work to assess and address the risks of modern slavery in our business operations Supply Chains and Financing decisions as reported in our annual Modern Slavery Statement and we engage with our Suppliers rated high risk for modern slavery to assess and address the risks of modern slavery in their expect our Clients,-11.47166666666667,0,0.0,0.0
+214,CommScope Holding Co Inc,Q5152057,0,True,2 Promote just peaceful and inclusive societies We pride ourselves on our contribution to digital access and inclusion across the globe,86.36999999999999,2,2.0,2.0
+215,CommScope Holding Co Inc,Q5152057,0,True,We focused on hunger relief C OVID 19 schools hospitals and the disadvantaged,86.36999999999999,2,2.0,2.0
+216,Community Health Systems Inc,Q5154770,0,False,nothing,-0.1999999999999998,-1,-1.0,-1.0
+217,Compass Group PLC,Q782697,0,False,nothing,-19.78625,-1,-1.0,-1.0
+218,Constellation Brands Inc,Q1128160,0,False,nothing,-1.0799999999999983,-1,-1.0,-1.0
+219,Contact Energy Ltd,Q1128439,0,False,nothing,14.2725,1,1.0,1.0
+220,Contemporary Amperex Technology Co Ltd,Q18653563,0,True,Smiling faces and warmth Fighting fighters in C ATL LO HAS Movie watching Working hard and living happily Flor i culture Training A good mood every day Happy Color Run Live a colorful life Fun Games Remain vigorous Christmas Activities Stockings are hung at the end of the bed when we are young and warmth encircles us as we grow up Artistic Performances Experience traditional Chinese culture in your spare time Sustainable Development Month All win Harmony Innovate to Achieve Legitimate Operation Eco friendly Female Leadership Lecture To Shine a Light on Female Power Garbage Sorting Lecture Raising childrens environmental awareness 2 nd P logging Activity Go green and have fun,55.68142857142858,2,2.0,2.0
+221,Continental AG,Q163241,0,False,nothing,-7.5,-1,-1.0,-1.0
+222,Continental Resources Inc/OK,Q5165314,0,False,nothing,-3.405,-1,-1.0,-1.0
+223,Corning Inc,Q5842736,0,False,nothing,27.03,1,1.0,1.0
+224,Cosan SA,Q2998228,0,False,nothing,-0.18,-1,-1.0,-1.0
+225,Coty Inc,Q1104787,0,False,nothing,259.69800000000004,1,1.0,1.0
+226,Credicorp Ltd,Q126559,0,False,nothing,372.135,1,1.0,1.0
+227,Credit Suisse Group AG,Q372657,0,False,nothing,-198.638,-1,0.0,-0.5
+228,CRH PLC,Q1053299,0,False,nothing,7.8725,1,1.0,1.0
+229,Croda International PLC,Q3003175,0,True,102 14 GRI The pandemic has strengthened our commitment to the S DGs and to help create a fairer safer and more resilient world one that reduces the potential for a take hold in the first place and makes us much better prepared to deal with it if it International Plc Sustainability Report Stuart Arnott Chair and Supplier Partnerships Julia Crease y Responsible Business and ES G Reporting Mural i Du v vur i Regional Head Phil Ru xt on Communications Staff Engagement C roda Foundation Free k S nieder s Health and Wellbeing Ian Hob day Carbon Cover and Sustainable Innovation Sandra Breen e President Regional Delivery Mark Robinson Reducing Emissions Heath and Safety Environmental Stewardship Mine En u stun Product Stewardship Dave Cherry Land Use and Crop Science Innovation Tracy Sheedy Gender Balance Fair Income Knowledge Management Wellbeing Excluding Avant i and I berchem unless otherwise to this work is enabling and encouraging conversations about our Commitment to take place informally and in a de centralised way,-13.222500000000004,0,0.0,0.0
+230,Crown Castle International Corp,Q5189320,0,False,nothing,-17.430000000000007,-1,0.5,-0.5
+231,Crown Holdings Inc,Q5189378,0,False,nothing,45.1,1,1.0,1.0
+232,CVS Health Corp,Q624375,0,False,nothing,85.18222222222222,1,1.0,1.0
+233,CyberArk Software Ltd,Q5197666,0,False,nothing,326.33,1,1.0,1.0
+234,CyrusOne Inc,Q16953751,0,False,nothing,2.7224999999999997,1,0.5,1.0
+235,Daikin Industries Ltd,Q1157589,0,False,nothing,50.87333333333336,1,1.0,1.0
+237,Daiwa House Industry Co Ltd,Q913825,0,True,We are of the opinion that although these efforts have just begun our Group can utilize the know how developed over the years to contribute to finding a solution to various societal issues such as the unoccupied house the S DGs put forth by the United Nations number 11 says make cities and human settlements inclusive safe resilient and sustainable,23.800000000000004,2,2.0,2.0
+238,Danaher Corp,Q1159256,0,False,nothing,-1.2400000000000002,-1,-1.0,-1.0
+239,Danone SA,Q329426,0,False,nothing,-16.80583333333333,-1,-1.0,-1.0
+240,Danske Bank A/S,Q1636974,0,True,Ree c ting our work to promote equal opportunities in leadership and our efforts to reduce illicit nanci al ow s and combat nanci al crime the updated strategy also addresses SD G 5 Gender equality and SD G 16 Peace justice and strong institutions,-64.0,0,0.0,0.0
+241,DBS Group Holdings Ltd,Q705417,0,False,nothing,4.552857142857143,1,1.0,1.0
+242,Deckers Outdoor Corp,Q1181953,0,False,nothing,5.7700000000000005,1,1.0,1.0
+243,Dell Technologies Inc,Q27500963,0,False,nothing,27.58285714285714,1,1.0,1.0
+244,Delta Electronics Inc,Q5254620,0,False,nothing,-4.98,-1,-1.0,-1.0
+245,DENTSPLY SIRONA Inc,Q23781052,0,False,nothing,5.93,1,1.0,1.0
+246,Derichebourg SA,Q3023799,0,False,nothing,4.32,1,1.0,1.0
+247,Deutsche Bank AG,Q66048,0,False,nothing,-58.1584,-1,-1.0,-1.0
+248,Deutsche Telekom AG,Q9396,0,False,nothing,-750.24,-1,-0.3333333333333333,-1.0
+249,Deutsche Wohnen SE,Q1204510,0,False,nothing,-58.426,-1,-1.0,-1.0
+250,Devon Energy Corp,Q1206980,0,True,2021 Sustainability SUSTAINABLE DEVELOPMENT GOAL REFERENCES R Employee Wellness SR STEMS R Water Management SR Climate ChangeS R Workforce Safety SR Enterprise Risk Management SR Land Conservation and Biodiversity SR Air Emissions United Nations Sustainable Development Goals action plan for providing affordable and clean energy protecting our planet and promoting peace and prosperity for all people,2.7,2,2.0,2.0
+251,Devon Energy Corp,Q1206980,0,True,and integrity and recognized governance practices such as board independence proactive shareholder engagement and risk management help us sustain the trust we ve built with our Action page 42 The United Nations has established 17 Sustainable Development Goals S DGs part of a globally agreed upon action plan for organizations seeking to provide protect the environment while also promoting peace and prosperity for all people,2.7,2,2.0,2.0
+252,Dexcom Inc,Q15109865,0,False,nothing,17.43,1,1.0,1.0
+253,Diageo PLC,Q161140,0,False,nothing,50.13125,1,1.0,1.0
+254,Diamondback Energy Inc,Q65091423,0,False,nothing,-4.38,-1,-1.0,-1.0
+255,DiaSorin SpA,Q3706466,0,False,nothing,39.48,1,1.0,1.0
+256,Digital Realty Trust Inc,Q5275969,0,False,nothing,94.42,1,0.5,1.0
+257,Direct Line Insurance Group PLC,Q5280285,0,False,nothing,5.320000000000001,1,1.0,1.0
+258,Discover Financial Services,Q5281775,0,False,nothing,11.840000000000003,1,1.0,1.0
+259,Dollar General Corp,Q145168,0,False,nothing,41.98774193548388,1,1.0,1.0
+260,Dollar Tree Inc,Q5289230,0,True,Fostering a corporate culture of Diversity Equity and Inclusion DEI and forming our DEI Executive Council charged to build on our progress of embracing differences ensuring fair treatment and providing equal access to opportunities and resources,42.5,2,2.0,2.0
+261,Dometic Group AB,Q5290243,0,False,nothing,34.580000000000005,1,1.0,1.0
+262,Dover Corp,Q16974527,0,False,nothing,24.805,1,1.0,1.0
+263,Dow Inc,Q62739842,0,False,nothing,51.025,1,1.0,1.0
+264,DS Smith PLC,Q5206214,0,False,nothing,7.185454545454545,1,1.0,1.0
+265,Duke Energy Corp,Q1264404,0,False,nothing,-21.24058823529412,-1,-1.0,-1.0
+266,Duke Realty Corp,Q48742298,0,False,nothing,0.0,-1,-1.0,-1.0
+267,DuPont de Nemours Inc,Q221062,0,False,nothing,-72.12222222222222,-1,-1.0,-1.0
+268,E.ON SE,Q270223,0,False,nothing,-48.40249999999999,-1,-1.0,-1.0
+269,Eastman Chemical Co,Q899022,0,False,nothing,28.2,1,1.0,1.0
+270,Eaton Corp PLC,Q48872,0,False,nothing,-9.48,-1,-1.0,-1.0
+271,eBay Inc,Q58024,0,False,nothing,-20.43578947368422,-1,0.0,-0.5
+272,Ecolab Inc,Q1282031,0,False,nothing,23.21,1,1.0,1.0
+273,Ecopetrol SA,Q1282130,0,False,nothing,-51.74,-1,-1.0,-1.0
+274,Edenred,Q3047407,0,False,nothing,13.899999999999997,1,1.0,1.0
+275,Edgewell Personal Care Co,Q5337641,0,False,nothing,0.9275,1,1.0,1.0
+276,EDP - Energias de Portugal SA,Q1341222,0,True,We are committed to the environment the creation of social value for citizenship and the quality of life of the communities in the regions where we operate,-17.025000000000002,0,0.0,0.0
+277,Edwards Lifesciences Corp,Q16966841,0,False,nothing,29.385,1,1.0,1.0
+278,eHealth Inc,Q5323107,0,False,nothing,2.28,1,1.0,1.0
+279,Elanco Animal Health Inc,Q30280160,0,False,nothing,-5.629999999999999,-1,-1.0,-1.0
+280,Electrolux AB,Q505922,0,False,nothing,-6.359999999999999,-1,-1.0,-1.0
+281,Electronic Arts Inc,Q173941,0,True,highlighting our commitments and progress across diversity building healthy communities sustainability and more,-41.680465116279066,0,0.0,0.0
+282,Element Solutions Inc,Q18228597,0,False,nothing,14.85,1,1.0,1.0
+283,Eli Lilly & Co,Q632240,0,False,nothing,18.558,1,1.0,1.0
+284,Embraer SA,Q105557,0,True,A strategic vision and an ability to overcome challenges with creativity and PRESENCE IS OUR FRONTIER We demonstrate a global presence acting locally to leverage com pet i ti ve ness and using the best of each location envisioning a world without borders one that values BUILD A SUSTAINABLE are constantly striving to build the fo un dati on for the company s longevity consid e ring stockholders profitability respect for quality of life environment and BOURG ET NETHERLANDS AMSTERDAM CHINA BEIJING BELO HORIZONTE MG BOT UC ATU SP BRAS LIA DF CAMPINAS SP GA VIO PEI XO TO SP SO JOS DOS CAMPOS SP SO PAULO SP SOROCABA SP TAU BAT SP BRAZIL PORTUGAL ALVERCA VOR A UNITED STATES IRELAND,25.80375,2,2.0,2.0
+285,EMCOR Group Inc,Q5370289,0,False,nothing,0.4760000000000001,1,1.0,1.0
+286,Emerson Electric Co,Q1335585,0,False,nothing,49.25,1,1.0,1.0
+287,Emirates Telecommunications Group Co PJSC,Q543449,0,False,nothing,273.27000000000004,1,1.0,1.0
+288,Enbridge Inc,Q1339966,0,True,24 Sustainability approach Healthier planet Safe operations Inclusive society Energized workforce Responsible business Inclusive society By living our values everywhere we operate and in everything we do we can advance Indigenous reconciliation strengthen local communities and build bridges to a more inclusive and prosperous future,-83.17966666666666,0,0.0,0.0
+289,Enbridge Inc,Q1339966,0,True,Sustainability approach Healthier planet Safe operations Inclusive society Energized workforce Responsible business Sustainable Development Goals En bridge supports the United Nations Sustainable Development Goals S DGs which are a call for all countries to work together to end poverty protect the planet and ensure that all people are able to enjoy peace and prosperity by the spring of 2021 we worked with the Global Compact Network Canada the Canadian chapter of the United Compact to identify the S DGs that are most relevant to our business and where we can make our Our process included a workshop with internal stakeholders and external research and future reports we will evolve our reporting against the S DGs and associated targets,-83.17966666666666,0,0.0,0.0
+290,Encompass Health Corp,Q5690400,0,False,nothing,4.65,1,1.0,1.0
+291,Endo International PLC,Q5376211,0,False,nothing,-30.239999999999995,-1,-1.0,-1.0
+292,Enel SpA,Q651222,0,False,nothing,-2.171666666666665,-1,-1.0,-1.0
+293,Energizer Holdings Inc,Q1200840,0,False,nothing,-11.386666666666668,-1,-1.0,-1.0
+294,Engie SA,Q13416787,0,False,nothing,11.898,1,1.0,1.0
+295,ENN Energy Holdings Ltd,Q55610325,0,False,nothing,-0.1399999999999999,-1,-1.0,-1.0
+296,Enphase Energy Inc,Q17012234,0,False,nothing,26.99,1,1.0,1.0
+297,Entra ASA,Q5380649,0,False,nothing,-13.1,-1,-1.0,-1.0
+298,EPAM Systems Inc,Q1275613,0,False,nothing,40.510000000000005,1,1.0,1.0
+299,EQT Corp,Q5323987,0,True,We are committed to supporting the education and training of children and adults the development of diverse livable communities and preserving our natural environments,15.188333333333334,2,2.0,2.0
+300,Equinix Inc,Q851641,0,False,nothing,298.6975,1,1.0,1.0
+301,Equinor ASA,Q1776022,0,True,We are managing our environmental impact respecting human rights and promoting integrity and transparency,-63.685,0,0.0,0.0
+302,Equinor ASA,Q1776022,0,True,The longer term goal is to develop a balanced scorecard of leading and lagging indicators to measure both investments in and outcomes of our human rights rights ver i cations Management system Ensuring fair treatment and non discrimination Providing safe healthy and secure workplace and ac como dati on Providing fair wages and reasonable working hours Respecting freedom of assembly association and the right to collective bargaining Preventing modern slavery Preventing child labour and protecting young workers Respecting a fec ted community members Providing access to remedy Subcontracting Introduction Strategy governance Safety security Integrity anti corruption Human rights Environment Shared value Climate the energy transition Appendices Business context and,-63.685,0,0.0,0.0
+303,Equity Residential,Q187740,0,False,nothing,-5.64,-1,0.5,-0.5
+304,Erste Group Bank AG,Q1310001,0,False,nothing,-0.068,-1,-1.0,-1.0
+305,Essity AB,Q30938280,0,False,nothing,-26.160000000000004,-1,-1.0,-1.0
+306,Etsy Inc,Q1353939,0,False,nothing,110.43166666666669,1,1.0,1.0
+307,Eutelsat Communications SA,Q848336,0,False,nothing,35.193333333333335,1,1.0,1.0
+308,Everest Re Group Ltd,Q1381973,0,False,nothing,30.950000000000003,1,1.0,1.0
+309,Evraz PLC,Q1382653,0,False,nothing,-0.6399999999999992,-1,-1.0,-1.0
+310,Exxon Mobil Corp,Q156238,0,False,nothing,-137.8398245614035,-1,0.10526315789473684,-0.5
+311,F5 Networks Inc,Q3029296,0,False,nothing,1.58,1,1.0,1.0
+312,Facebook Inc,Q355,0,False,nothing,-922.28115,-1,-1.0,-1.0
+313,Falabella SA,Q5135229,0,False,nothing,0.0,-1,-1.0,-1.0
+314,Faurecia SE,Q142205,0,True,a positive impact on society Combined with our company values Entrepreneurship Autonomy and Accountability Respect Exemplar it y and Energy these six Convictions mobilize our employees to balance short term execution and sustainable long term ambition,11.015,2,2.0,2.0
+315,Federal Signal Corp,Q1400073,0,False,nothing,0.7599999999999999,1,1.0,1.0
+316,Ferguson PLC,Q624682,0,False,nothing,0.0,-1,-1.0,-1.0
+317,First Abu Dhabi Bank PJSC,Q29124183,0,False,nothing,0.4649999999999998,1,1.0,1.0
+318,First Quantum Minerals Ltd,Q1419532,0,False,nothing,0.4349999999999999,1,1.0,1.0
+319,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 37 community advisory board Formed in 2016 the Community Advisory Board consists of distinguished community leaders in affordable housing financial empowerment and small business and economic development,3.255000000000001,2,2.0,2.0
+320,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 61 meeting clients earlier Professional Loan Program P LP 1 2 Number of Households 4 5,3.255000000000001,2,2.0,2.0
+321,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 65 Our Clients Say It Best When it comes to client satisfaction our clients say it best,3.255000000000001,2,2.0,2.0
+322,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 43 Paycheck Protection Program PPP The C OVID 19 pandemic disproportionately affected small businesses many of which have struggled to survive,3.255000000000001,2,2.0,2.0
+323,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 39 Supporting Affordable Housing and Home Ownership affordable housing Affordable housing makes our communities more inclusive by providing adequate housing for people from a broader range of economic backgrounds,3.255000000000001,2,2.0,2.0
+324,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 47 education Empowering Financial Education Education provides a path to opportunity which can have a positive lasting effect on our communities,3.255000000000001,2,2.0,2.0
+325,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 59 a client driven approach to cyber security First Republic understands that cyber risks are unique to each person and business that we serve,3.255000000000001,2,2.0,2.0
+326,First Republic Bank/CA,Q5453752,0,True,sustainable culture and community engagement strong clients and communities sustainable culture and community engagement strong clients and communities first republic its a privilege to serve you 57 net promotion in practice Our NPS is more than just a number it translates into more business with clients,3.255000000000001,2,2.0,2.0
+327,Fiserv Inc,Q1420513,0,False,nothing,200.5425,1,1.0,1.0
+328,FleetCor Technologies Inc,Q16838618,0,False,nothing,-0.69,-1,-1.0,-1.0
+329,Flowserve Corp,Q1430331,0,False,nothing,34.31999999999999,1,1.0,1.0
+330,Ford Motor Co,Q44294,0,False,nothing,-66.73283018867924,-1,-1.0,-1.0
+331,Fortescue Metals Group Ltd,Q1438957,0,False,nothing,3.978333333333334,1,1.0,1.0
+332,Fortinet Inc,Q2749364,0,False,nothing,187.13,1,1.0,1.0
+333,Fortive Corp,Q27919383,0,True,We are partnering for safer hospitals and highways renewable energy solutions and smarter use of precious natural resources,41.55,2,2.0,2.0
+334,Freeport-McMoRan Inc,Q1453620,0,False,nothing,-3.4599999999999973,-1,-1.0,-1.0
+335,Fresenius Medical Care AG & Co KGaA,Q650259,0,False,nothing,-60.55333333333334,-1,-1.0,-1.0
+336,Fresenius SE & Co KGaA,Q705361,0,False,nothing,-3.778928571428572,-1,-1.0,-1.0
+337,FUCHS PETROLUB SE,Q878404,0,False,nothing,0.0,-1,-1.0,-1.0
+338,FuelCell Energy Inc,Q16993862,0,False,nothing,-37.66714285714285,-1,-1.0,-1.0
+339,Fuji Electric Co Ltd,Q498662,0,False,nothing,0.0,-1,-1.0,-1.0
+340,Galapagos NV,Q5517961,0,False,nothing,9.4,1,1.0,1.0
+341,Gartner Inc,Q174198,0,False,nothing,-18.28277777777777,-1,-1.0,-1.0
+342,Gazprom PJSC,Q102673,0,False,nothing,-53.91244897959184,-1,-0.5,-1.0
+343,Geberit AG,Q464905,0,False,nothing,-2.4,-1,-1.0,-1.0
+344,Geely Automobile Holdings Ltd,Q739000,0,False,nothing,9.8525,1,1.0,1.0
+346,General Electric Co,Q54173,0,False,nothing,13.7284,1,1.0,1.0
+347,General Mills Inc,Q629998,0,False,nothing,-17.877142857142857,-1,-1.0,-1.0
+348,General Motors Co,Q81965,0,False,nothing,-92.78060344827584,-1,-1.0,-1.0
+349,GFL Environmental Inc,Q25001278,0,False,nothing,30.76000000000001,1,1.0,1.0
+350,Gilead Sciences Inc,Q663596,0,False,nothing,-11.901999999999996,-1,-1.0,-1.0
+351,Givaudan SA,Q509544,0,False,nothing,39.43333333333334,1,1.0,1.0
+352,GlaxoSmithKline PLC,Q212322,0,False,nothing,-244.9448,-1,-1.0,-1.0
+353,Global Payments Inc,Q5570544,0,False,nothing,12.660000000000002,1,1.0,1.0
+354,GN Store Nord AS,Q1544339,0,False,nothing,18.24,1,1.0,1.0
+355,Golden Agri-Resources Ltd,Q17039222,0,False,nothing,-17.92,-1,0.3333333333333333,-0.5
+356,Goldman Sachs Group Inc,Q193326,0,False,nothing,-26.07679487179487,-1,-0.3333333333333333,-1.0
+357,Goodman Group,Q3110722,0,True,People and culture Our workplaces promote the health safety and well being of our people and our customers,-1.4880000000000002,0,0.0,0.0
+358,Goodyear Tire & Rubber Co,Q620875,0,False,nothing,-64.32444444444444,-1,-1.0,-1.0
+359,GrafTech International Ltd,Q5592433,0,False,nothing,94.095,1,1.0,1.0
+360,Graphic Packaging Holding Co,Q5597139,0,False,nothing,9.0,1,1.0,1.0
+361,Grasim Industries Ltd,Q906943,0,False,nothing,13.15,1,1.0,1.0
+362,Great Portland Estates PLC,Q5599804,0,False,nothing,25.41,1,1.0,1.0
+363,Greencore Group PLC,Q5603798,0,False,nothing,-97.5,-1,-1.0,-1.0
+364,Greif Inc,Q20486914,0,False,nothing,7.92,1,1.0,1.0
+365,Grieg Seafood ASA,Q5608696,0,False,nothing,-0.2199999999999997,-1,-1.0,-1.0
+366,Grifols SA,Q901262,0,False,nothing,-0.1157142857142857,-1,-1.0,-1.0
+367,Gruma SAB de CV,Q545402,0,False,nothing,0.0,-1,-1.0,-1.0
+368,Grupo Bimbo SAB de CV,Q775031,0,False,nothing,-7.199999999999999,-1,-1.0,-1.0
+369,Grupo Televisa SAB,Q47099,0,False,nothing,140.78666666666666,1,1.0,1.0
+370,GS Yuasa Corp,Q931156,0,False,nothing,12.86,1,1.0,1.0
+371,Gudang Garam Tbk PT,Q1553005,0,True,Surya Wo now id jojo who established the principles of Cat ur Dharma which include harmony and respect for one another the value of hard work honesty and diligence care for health respect towards faith and the recognition of mutual cooperation considering our employees as partners in business,-1.41,0,0.0,0.0
+372,Haier Smart Home Co Ltd,Q1143211,0,False,nothing,-2.6236363636363635,-1,-1.0,-1.0
+373,Halliburton Co,Q656165,0,True,The sustainability of our business the reduction in environmental impacts and the enhancement of the economic and social well being of our employees and the communities in which we live and work are critical to our success,103.50571428571432,2,0.10526315789473684,2.0
+374,Halma PLC,Q5643254,0,False,nothing,8.77,1,1.0,1.0
+375,Hana Financial Group Inc,Q490601,0,False,nothing,-6.78,-1,-1.0,-1.0
+376,Hanesbrands Inc,Q5647768,0,False,nothing,91.32,1,1.0,1.0
+377,Hankook Tire & Technology Co Ltd,Q493094,0,False,nothing,-1.2600000000000002,-1,0.0,-0.5
+378,Hapvida Participacoes e Investimentos SA,Q10293878,0,False,nothing,0.0,-1,-1.0,-1.0
+379,HCA Healthcare Inc,Q1630431,0,False,nothing,-331.52,-1,-1.0,-1.0
+380,HCL Technologies Ltd,Q5629103,0,False,nothing,71.18666666666667,1,1.0,1.0
+381,Healthpeak Properties Inc,Q16975567,0,False,nothing,0.0,-1,0.5,-0.5
+382,HeidelbergCement AG,Q632233,0,False,nothing,-7.229999999999999,-1,-1.0,-1.0
+383,HelloFresh SE,Q23014836,0,False,nothing,22.22,1,1.0,1.0
+384,Helvetia Holding AG,Q933766,0,True,We are focusing on environmental standards human rights and avoiding bribery and corruption,0.0,0,0.0,0.0
+385,Henderson Land Development Co Ltd,Q1604969,0,False,nothing,-2.4800000000000004,-1,-1.0,-1.0
+386,Henkel AG & Co KGaA,Q276507,0,False,nothing,36.92000000000001,1,1.0,1.0
+387,Hexcel Corp,Q5748967,0,False,nothing,0.2164705882352941,1,1.0,1.0
+388,Hilton Worldwide Holdings Inc,Q1057464,0,False,nothing,160.74125000000004,1,1.0,1.0
+389,HKT Trust & HKT Ltd,Q5895075,0,False,nothing,6.56,1,1.0,1.0
+390,Hokuetsu Corp,Q11404108,0,False,nothing,0.0,-1,-1.0,-1.0
+391,Holcim Ltd,Q267818,0,False,nothing,-29.965714285714284,-1,-1.0,-1.0
+392,Holmen AB,Q1467848,0,False,nothing,0.0,-1,-1.0,-1.0
+393,Hologic Inc,Q5884072,0,False,nothing,1024.4266666666665,1,1.0,1.0
+394,Home Depot Inc,Q864407,0,False,nothing,-8.771764705882356,-1,-1.0,-1.0
+395,HomeServe PLC,Q5890431,0,True,We build our businesses on strong foundations championing human rights equal opportunities diversity and inclusion,13.175000000000002,2,2.0,2.0
+396,HomeServe PLC,Q5890431,0,True,We invest in learning and development for all and support wellbeing Health Safety,13.175000000000002,2,2.0,2.0
+397,Honda Motor Co Ltd,Q9584,0,False,nothing,157.8421052631579,1,1.0,1.0
+398,Housing Development Finance Corp Ltd,Q1446319,0,False,nothing,2.028,1,1.0,1.0
+399,Howmet Aerospace Inc,Q25104597,0,False,nothing,3.46,1,1.0,1.0
+400,HP Inc,Q21404084,0,False,nothing,-9.0,-1,-1.0,-1.0
+401,HSBC Holdings PLC,Q190464,0,False,nothing,-22.74875,-1,-1.0,-1.0
+402,HUGO BOSS AG,Q491627,0,False,nothing,-4.983333333333333,-1,-1.0,-1.0
+403,Huntsman Corp,Q851361,0,False,nothing,5.764999999999999,1,1.0,1.0
+404,Hydro One Ltd,Q3143709,0,False,nothing,9.409999999999998,1,1.0,1.0
+405,Hyundai Mobis Co Ltd,Q497534,0,False,nothing,-1.46,-1,0.3333333333333333,-0.5
+406,Hyundai Motor Co,Q55931,0,False,nothing,18.971384615384626,1,0.3333333333333333,1.0
+407,Iberdrola SA,Q1437502,0,True,actions in order to promote improvement in peoples quality of life looking after the environment sustainable development universal access to energy and the eradication of hunger including collection campaigns that seek to respond to social needs g support the promotion and conservation of biodiversity and of the cultural and artistic heritage of the territories and communities in which the Group does business h support initiatives that contribute to a more healthy egalitarian and just society such as supporting the empowerment of women and promoting the reconciliation of personal and work life and i promote the protection of animals as living sentient beings and particularly the fight against abandonment violence mistreatment abuse and the illegal trafficking of animals respecting their quality as sentient beings in accordance with the characteristics of each species and the limitations established by applicable legal provisions,-36.333333333333336,0,0.0,0.0
+408,Iberdrola SA,Q1437502,0,True,respect the human rights recognised by domestic and international laws oppose child labour and forced or compulsory labour not discriminating based on any condition and respect the freedom of association and of collective bargaining the right to free circulation within each country the rights of ethnic minorities and indigenous populations in the countries where the Group does business and the right to the environment of all the communities in which it operates and understand access to energy as a right related and linked to other human rights upon the terms set forth in the Policy on Respect for Human Rights b,-36.333333333333336,0,0.0,0.0
+409,ICICI Bank Ltd,Q1653258,0,True,6 Develop effective accountable and transparent institutions at all levels Our Key Initiatives Our Key Initiatives LIFE ON LAND PEACE JUSTICE AND STRONG INSTITUTIONS Local level efforts towards supporting these goals Through specific projects we have contributed towards protecting the local biodiversity and the environment,10.495454545454546,2,2.0,2.0
+410,IDEX Corp,Q5970002,0,False,nothing,156.81714285714287,1,1.0,1.0
+411,IDEXX Laboratories Inc,Q1758392,0,True,8 We treat each other with trust respect and honesty placing a high value on accessibility collaboration open communication clear decision making and individual accountability,825.0899999999999,2,2.0,2.0
+412,iHeartMedia Inc,Q477993,0,True,WE ARE ALL Are All Human is a foundation dedicated to advancing the agenda of equity diversity and inclusion,10.723583333333332,2,2.0,2.0
+413,iHeartMedia Inc,Q477993,0,True,The Peacemaker Corps empowers generations to come together and make our world a peaceful compassionate safe and tolerant place to live,10.723583333333332,2,2.0,2.0
+414,iHeartMedia Inc,Q477993,0,True,By focusing on the universal values that make us all human we can reach common ground eliminate discrimination and achieve a more equitable 92 GRANTING YOUR CHRISTMAS WISH For the 13 th consecutive year i Heart Media granted Christmas Wishes to those in need and deserving of a special holiday gift,10.723583333333332,2,2.0,2.0
+415,II-VI Inc,Q15109887,0,False,nothing,0.7142857142857143,1,1.0,1.0
+416,Illinois Tool Works Inc,Q1510378,0,True,This commitment is reinforced by strong policies and practices related to fair ethical and honest business dealings robust governance and compliance with applicable laws while demonstrating respect for human rights at IT W and throughout our supply chain,238.86000000000004,2,2.0,2.0
+417,Illumina Inc,Q2068984,0,False,nothing,-16.461111111111123,-1,-1.0,-1.0
+418,Imperial Brands PLC,Q1471161,0,False,nothing,-61.32000000000001,-1,0.0,-0.5
+419,Industria de Diseno Textil SA,Q44504,0,False,nothing,-19.098,-1,-1.0,-1.0
+420,Industrial & Commercial Bank of China Ltd,Q26463,0,False,nothing,-29.785714285714285,-1,-1.0,-1.0
+421,Inficon Holding AG,Q1404191,0,False,nothing,0.0,-1,-1.0,-1.0
+422,Infineon Technologies AG,Q311394,0,False,nothing,26.42,1,0.5,1.0
+423,Inner Mongolia Yili Industrial Group Co Ltd,Q1231406,0,False,nothing,59.15,1,1.0,1.0
+424,Innergex Renewable Energy Inc,Q3151374,0,False,nothing,1.938,1,1.0,1.0
+425,Intel Corp,Q248,0,False,nothing,21.950392156862744,1,1.0,1.0
+426,InterContinental Hotels Group PLC,Q1424962,0,False,nothing,74.64999999999999,1,1.0,1.0
+427,International Business Machines Corp,Q37156,0,False,nothing,179.06525000000002,1,0.10526315789473684,1.0
+428,International Paper Co,Q202972,0,False,nothing,83.81,1,1.0,1.0
+429,Intesa Sanpaolo SpA,Q1343118,0,False,nothing,50.82,1,1.0,1.0
+430,Intrum AB,Q1671623,0,True,The UNs S DGs also define sustainability in terms of anti corruption human rights and labour rights,16.2,2,2.0,2.0
+431,Intuitive Surgical Inc,Q2743863,0,False,nothing,10.859999999999998,1,1.0,1.0
+432,IPG Photonics Corp,Q5973024,0,True,Our charitable contributions target education community welfare civic and social service programs and arts and culture,4.4300000000000015,2,2.0,2.0
+433,IQVIA Holdings Inc,Q305473,0,False,nothing,13.100000000000003,1,1.0,1.0
+434,ISS A/S,Q9956,0,True,SD G 16 Promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels We aim to eradicate all forms of discrimination and unethical behaviour through the IS S Code of Conduct and the Global People Standards,-0.8,0,0.0,0.0
+435,ISS A/S,Q9956,0,True,working conditions retention of people diversity and inclusion and human rights our impact on the environment and climate with sound business standards IS S achieved a platinum Eco V ad is rating by focusing on five key activities,-0.8,0,0.0,0.0
+436,ITC Ltd,Q1655008,0,False,nothing,35.26571428571428,1,0.0,0.5
+437,ITM Power PLC,Q5974865,0,False,nothing,-5.120000000000001,-1,-1.0,-1.0
+438,Itron Inc,Q5923178,0,False,nothing,15.105,1,1.0,1.0
+439,Japan Tobacco Inc,Q898568,0,False,nothing,3.38,1,1.0,1.0
+440,Jardine Matheson Holdings Ltd,Q1683452,0,False,nothing,0.3350000000000026,1,0.3333333333333333,1.0
+441,Jazz Pharmaceuticals PLC,Q16255113,0,True,Learn more about Jazz s ES G commitments Diversity Equity and Inclusion and Belonging At Jazz we believe our people are one of our greatest assets,18.71333333333333,2,2.0,2.0
+442,JBS SA,Q1676554,0,False,nothing,-55.9025,-1,-1.0,-1.0
+443,JELD-WEN Holding Inc,Q1612593,0,False,nothing,13.400000000000002,1,1.0,1.0
+444,Johnson Controls International plc,Q667865,0,False,nothing,74.904,1,1.0,1.0
+445,Johnson Matthey PLC,Q502470,0,True,The 11 goals are set out across the three pillars of the sustainability strategy Products and services Goal Produce and innovate products for a cleaner healthier Drive lower global greenhouse emissions Goal Enable less harmful air pollution globally Goal Conserve scarce resource Operations Goal Achieve net zero by 2040 Goal Reduce water consumption and waste Goal Minimise environmental footprint People Goal Create a diverse inclusive and engaged company Goal Keep people safe Goal Uphold human rights in our value chain Goal Invest in our local communities These goals are all supported by 17 interim targets to 2030 to maintain focus,29.325,2,2.0,2.0
+446,Johnson Outdoors Inc,Q19654979,0,False,nothing,13.965,1,1.0,1.0
+447,JPMorgan Chase & Co,Q192314,0,False,nothing,-36.82178082191781,-1,-0.42857142857142855,-1.0
+448,JSW Steel Ltd,Q6108978,0,False,nothing,11.496666666666664,1,1.0,1.0
+449,Jyske Bank A/S,Q136672,0,False,nothing,11.28,1,1.0,1.0
+450,Kaiser Aluminum Corp,Q6348410,0,False,nothing,-0.4844444444444444,-1,-1.0,-1.0
+452,KB Home,Q6326486,0,False,nothing,42.03,1,1.0,1.0
+453,Kemira Oyj,Q905801,0,True,INTERNATIONAL SUSTAINABILITY PRINCIPLES The United Nations Global Compact has been signed by Ke mira Oy j as our commitment to respect and promote human rights implement decent work practices reduce our environmental impact and combat corruption,2.1,2,2.0,2.0
+454,Kemira Oyj,Q905801,0,True,The United Nations Global Compact has been signed by Ke mira Oy j as our commitment to respect and promote human rights implement decent work practices reduce our environmental impact and combat Care is a voluntary commitment by the global chemical industry to drive continuous improvement and achieve excellence in environmental health and safety and security performance,2.1,2,2.0,2.0
+455,Kering SA,Q931207,0,False,nothing,-9.36,-1,-1.0,-1.0
+456,Keyence Corp,Q1475699,0,False,nothing,13.410000000000002,1,1.0,1.0
+457,Kia Corp,Q35349,0,False,nothing,58.753958333333344,1,0.3333333333333333,1.0
+458,Kimberly-Clark Corp,Q1741634,0,False,nothing,-4.693076923076922,-1,-1.0,-1.0
+459,Kinder Morgan Inc,Q931032,0,False,nothing,-29.279999999999998,-1,-1.0,-1.0
+460,Kingspan Group PLC,Q6413386,0,False,nothing,-37.333333333333336,-1,-1.0,-1.0
+461,Klabin SA,Q1474718,0,False,nothing,0.0,-1,-1.0,-1.0
+462,Knorr-Bremse AG,Q256290,0,False,nothing,-13.38,-1,-1.0,-1.0
+463,Komatsu Ltd,Q162257,0,False,nothing,12.02,1,1.0,1.0
+464,Kone Oyj,Q1146592,0,False,nothing,13.26,1,1.0,1.0
+465,Koninklijke Ahold Delhaize NV,Q20539261,0,False,nothing,43.09,1,1.0,1.0
+466,Korea Electric Power Corp,Q486737,0,False,nothing,-6.88,-1,-1.0,-1.0
+467,Kraft Heinz Co,Q19681433,0,False,nothing,-1.3983333333333334,-1,0.10526315789473684,-0.5
+468,Kraton Corp,Q2417728,0,False,nothing,51.96,1,1.0,1.0
+469,Kroger Co,Q153417,0,False,nothing,-11.506,-1,-1.0,-1.0
+470,Kunlun Energy Co Ltd,Q1792238,0,False,nothing,0.0,-1,-1.0,-1.0
+471,Kurita Water Industries Ltd,Q6446085,0,False,nothing,13.95,1,1.0,1.0
+472,Kweichow Moutai Co Ltd,Q1518607,0,False,nothing,-8.7,-1,-1.0,-1.0
+473,Lamb Weston Holdings Inc,Q3216600,0,False,nothing,36.00000000000001,1,1.0,1.0
+474,Lattice Semiconductor Corp,Q747207,0,False,nothing,20.1,1,1.0,1.0
+475,Lear Corp,Q502344,0,False,nothing,7.36,1,1.0,1.0
+476,LendingTree Inc,Q6522339,0,False,nothing,21.9225,1,1.0,1.0
+477,Lennar Corp,Q16981175,0,False,nothing,-4.48,-1,-1.0,-1.0
+478,Lenovo Group Ltd,Q14799,0,False,nothing,-25.154,-1,-1.0,-1.0
+479,LG Chem Ltd,Q486976,0,False,nothing,-32.25,-1,-1.0,-1.0
+480,Linde PLC,Q682759,0,False,nothing,-24.14,-1,-1.0,-1.0
+481,Live Nation Entertainment Inc,Q1061903,0,False,nothing,-30.046000000000003,-1,-1.0,-1.0
+482,LKQ Corp,Q20711490,0,False,nothing,-27.17,-1,-1.0,-1.0
+483,Lloyds Banking Group PLC,Q1152764,0,False,nothing,-2.6533333333333338,-1,-1.0,-1.0
+484,London Stock Exchange Group PLC,Q5573225,0,False,nothing,2.1374999999999997,1,1.0,1.0
+485,Longfor Group Holdings Ltd,Q11180568,0,True,office and promote healthy living Participate in community construction Take an active part in social welfare and charity Advocate employees to volunteer Strict compliance with contract requirements Increasing credibility Strengthening qualification review Expansion of business fields and continuous cooperation Safeguard employees rights and interests Pay attention to employee benefits and remuneration management Create comfortable and harmonious corporate culture Improve employees sense of belonging and satisfaction Refinement operation of customer service processes Strengthen safety and quality inspection Continuously improve the quality of product and service Continuously achieving operating results Improve corporate governance and risk management Release reports regularly to disclose information in a timely manner Hold shareholders meeting and strengthen investor relationship Respond to government policies Implement the national housing policy Operating according to laws and regulations Fostering urban development We conducted a questionnaire survey and invited stakeholders including ordinary employees suppliers customers investors government agencies regulatory authorities community representatives cooperative partners non governmental organizations and media to evaluate the material it y of each issue from their own WITH STAKEHOLDERS Material it y to stakeholders Governance Social Environmental 17 18 In the course of business development the Group keeps evaluating the risks and condition of business operation and correspondingly improves the level of corporate governance,-2.5200000000000005,0,0.0,0.0
+486,LONGi Green Energy Technology Co Ltd,Q28207127,0,False,nothing,-4.48,-1,-1.0,-1.0
+487,Lotte Chemical Corp,Q482841,0,False,nothing,-34.32,-1,-1.0,-1.0
+488,Louisiana-Pacific Corp,Q1872227,0,False,nothing,-5.725,-1,-1.0,-1.0
+489,LUKOIL PJSC,Q329347,0,False,nothing,-23.225,-1,-1.0,-1.0
+490,Lumen Technologies Inc,Q5063092,0,False,nothing,-350.68666666666667,-1,-1.0,-1.0
+491,Lumentum Holdings Inc,Q3156887,0,False,nothing,-4.420000000000001,-1,-1.0,-1.0
+492,Lundin Energy AB,Q253423,0,False,nothing,49.44,1,1.0,1.0
+493,Luzhou Laojiao Co Ltd,Q4260724,0,False,nothing,-3.08,-1,-1.0,-1.0
+494,LyondellBasell Industries NV,Q899255,0,True,GRI 410 1 Security personnel trained in human rights We promote the security of our workers and premises and take affirmative steps to maintain a workplace that is free from violence intimidation or other disruptive conditions,-4.14,0,0.0,0.0
+495,Magna International Inc,Q697311,0,True,In particular the Global Labour Standards Policy sets out key commitments with regard to maintaining respectful work environments where our employees feel safe and welcome with opportunities for personal and professional growth promoting the importance of diversity inclusion and respect for one another regardless of personal differences not tolerating harassment of any kind including physical sexual psychological or verbal abuse ensuring employees do not face discrimination in accordance with the protections afforded by applicable law including discrimination based on race nationality or social origin colour sex religion gender identity disability or sexual orientation condemning child labour rejecting forced or compulsory labour maintaining safe and healthy workplaces and providing employees with appropriate rest and leisure time,-19.64,0,0.0,0.0
+496,Mapfre SA,Q544532,0,False,nothing,-8.600000000000001,-1,-1.0,-1.0
+497,Mapletree Logistics Trust,Q6754089,0,False,nothing,1.09,1,1.0,1.0
+498,Marfrig Global Foods SA,Q3064573,0,False,nothing,-101.76,-1,-1.0,-1.0
+499,Marriott International Inc/MD,Q1141173,0,False,nothing,61.423,1,1.0,1.0
+500,Marvell Technology Inc,Q1347782,0,False,nothing,6.840000000000001,1,1.0,1.0
+501,Masco Corp,Q6782872,0,False,nothing,14.085,1,1.0,1.0
+502,Mastercard Inc,Q489921,0,False,nothing,1.267999999999997,1,1.0,1.0
+503,Maxim Integrated Products Inc,Q1784671,0,False,nothing,258.44,1,1.0,1.0
+504,Maximus Inc,Q6795931,0,True,We endeavor to ensure our business operations are free from complicity in human rights strive to be champions for an inclusive and collaborative culture that is free from discrimination and harassment where everyone always conduct business according to the highest standards of ethics and performance and in full compliance with all applicable laws,27.410000000000004,2,2.0,2.0
+505,MDC Holdings Inc,Q6715131,0,False,nothing,46.815,1,1.0,1.0
+506,MediaTek Inc,Q699848,0,False,nothing,22.55476190476191,1,1.0,1.0
+507,Medical Properties Trust Inc,Q30693638,0,False,nothing,-4.38,-1,-1.0,-1.0
+508,MEDNAX Inc,Q16981865,0,False,nothing,-1.790000000000001,-1,-1.0,-1.0
+509,Medtronic PLC,Q642189,0,True,Advancing social justice and equity From the killings of George Floyd Bre onna Taylor and other Black Americans to the increase of hate crimes and xenophobia involving Asian communities worldwide we stand united to combat racism and discrimination,49.288,2,2.0,2.0
+510,Meituan,Q15907772,0,False,nothing,-31.608,-1,-1.0,-1.0
+511,Mercer International Inc,Q1391599,0,False,nothing,-26.91,-1,-1.0,-1.0
+512,MetLife Inc,Q607131,0,False,nothing,62.39200000000001,1,1.0,1.0
+513,METRO AG,Q169167,0,False,nothing,-0.5,-1,-1.0,-1.0
+514,Metro Pacific Investments Corp,Q6824659,0,False,nothing,5.415000000000001,1,1.0,1.0
+515,MGM China Holdings Ltd,Q4043414,0,False,nothing,-0.76,-1,-1.0,-1.0
+516,MGM Resorts International,Q568532,0,True,3 OUR IMPACT The initiatives detailed in this report support 10 primary S DGs that focus on eliminating poverty and hunger advancing education achieving equality and doing business sustain ably among others,48.873000000000005,2,2.0,2.0
+517,MGM Resorts International,Q568532,0,True,Focused on What Matters Embracing Humanity and Protecting the Planet de nes our strategies across four areas Fostering Diversity and Inclusion Investing in Community Caring for One Another and Protecting the Planet,48.873000000000005,2,2.0,2.0
+518,Microchip Technology Inc,Q1545076,0,False,nothing,-1.22,-1,-1.0,-1.0
+519,Microsoft Corp,Q2283,0,False,nothing,-60.329545454545446,-1,0.10526315789473684,-0.5
+520,Midea Group Co Ltd,Q2609533,0,False,nothing,119.51333333333332,1,1.0,1.0
+521,Millicom International Cellular SA,Q276345,0,False,nothing,5.893333333333331,1,1.0,1.0
+522,Mitsubishi Estate Co Ltd,Q304962,0,False,nothing,19.32,1,1.0,1.0
+523,Mitsubishi UFJ Financial Group Inc,Q1542175,0,False,nothing,8.962,1,0.10526315789473684,1.0
+524,Mitsui Fudosan Co Ltd,Q1812986,0,True,Positioning the promotion of business while addressing collaboration and cooperation with the community reduction of environmental burden and improvement of security safety and comfort as vital to harmonious coexistence with the environment we endeavor to create urban environments of enrichment and comfort and contribute to the global environment,3.38,2,2.0,2.0
+525,Mitsui Fudosan Co Ltd,Q1812986,0,True,Established November 1 2001 Revised April 1 2018 Environmental Principles We at Mi tsui Fu do san are committed to social and economic development as well as global environmental preservation under the principles of coexisting in harmony with society linking diverse values and achieving a sustainable society represented by logo,3.38,2,2.0,2.0
+526,Mizrahi Tefahot Bank Ltd,Q2777129,0,False,nothing,0.0,-1,-1.0,-1.0
+527,Mobile TeleSystems PJSC,Q1368919,0,False,nothing,12.02,1,1.0,1.0
+528,Molson Coors Beverage Co,Q3319685,0,False,nothing,14.835,1,1.0,1.0
+529,Mondelez International Inc,Q12857502,0,False,nothing,8.625,1,1.0,1.0
+530,Mondi PLC,Q779252,0,False,nothing,18.285,1,0.0,0.5
+531,Monolithic Power Systems Inc,Q22058448,0,False,nothing,-0.1542857142857143,-1,-1.0,-1.0
+532,Morgan Stanley,Q334204,0,False,nothing,1.6194117647058817,1,0.10526315789473684,1.0
+533,Mowi ASA,Q776750,0,False,nothing,30.18,1,1.0,1.0
+534,MTN Group,Q1813361,0,False,nothing,-55.131875,-1,-1.0,-1.0
+535,Muangthai Capital PCL,Q6930725,0,False,nothing,0.0,-1,-1.0,-1.0
+536,Mueller Water Products Inc,Q16982326,0,False,nothing,0.8218181818181818,1,1.0,1.0
+537,Murphy Oil Corp,Q951259,0,True,Emergency Response and Preparedness page 48 Waste Management page 38 39 Goal 15 Protect restore and promote sustainable use of terrestrial ecosystems sustain ably manage forests combat desertification and halt and reverse land degradation and halt biodiversity loss Water Management pages 26 30 Biodiversity Protection pages 31 32 Spills Management page 33 Process Safety and Asset Integrity pages 34 35 Goal 16 Promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels Ethical Business Conduct pages 62 63 Public Advocacy page 63 Supply Chain Management page 64 Goal 17 Strengthen the means of implementation and revitalize the global partnership for sustainable development 2021 Sustainability Report multiple sections on industry collaboration and partnerships 2021 SUSTAINABILITY REPORT MURPHY OIL CORPORATION 86 Your Feedback Is Welcome For questions or feedback on our 2021 Sustainability Report please contact us at Information Visit for additional information,4.105,2,2.0,2.0
+538,Myriad Genetics Inc,Q3331496,0,False,nothing,-60.5,-1,-1.0,-1.0
+539,Nabors Industries Ltd,Q1962059,0,False,nothing,89.925,1,1.0,1.0
+540,Nasdaq Inc,Q1472929,0,False,nothing,76.63,1,1.0,1.0
+541,Naspers Ltd,Q1965898,0,False,nothing,63.333333333333336,1,-0.42857142857142855,0.5
+542,National Australia Bank Ltd,Q1430985,0,False,nothing,-37.781,-1,-1.0,-1.0
+543,National Bank of Canada,Q634298,0,False,nothing,22.955000000000005,1,1.0,1.0
+544,National Bank of Kuwait SAKP,Q4045072,0,False,nothing,39.3,1,1.0,1.0
+545,National Grid PLC,Q1465461,0,False,nothing,-85.8825,-1,-1.0,-1.0
+546,Naturgy Energy Group SA,Q474690,0,False,nothing,-13.32,-1,-1.0,-1.0
+547,Natwest Group PLC,Q13218598,0,False,nothing,-11.5275,-1,-1.0,-1.0
+548,Navigator Co SA,Q686182,0,False,nothing,-18.360000000000003,-1,-1.0,-1.0
+549,NCR Corp,Q524989,0,False,nothing,316.8475,1,1.0,1.0
+550,NEL ASA,Q30259493,0,False,nothing,-1.02,-1,-1.0,-1.0
+551,Nemak SAB de CV,Q21010157,0,False,nothing,2.893333333333333,1,1.0,1.0
+552,Neoen SA,Q39938677,0,False,nothing,-4.0200000000000005,-1,-1.0,-1.0
+553,Neste Oyj,Q616376,0,False,nothing,18.258333333333336,1,1.0,1.0
+554,NetEase Inc,Q196259,0,False,nothing,40.58,1,1.0,1.0
+555,Netflix Inc,Q907311,0,False,nothing,-0.3187307032590015,-1,0.10526315789473684,-0.5
+556,New World Development Co Ltd,Q752084,0,False,nothing,-6.400000000000001,-1,-1.0,-1.0
+557,Newell Brands Inc,Q667599,0,False,nothing,-13.355000000000002,-1,-1.0,-1.0
+558,Nexans SA,Q141644,0,False,nothing,72.36,1,1.0,1.0
+559,Nexteer Automotive Group Ltd,Q16923629,0,False,nothing,-62.42000000000001,-1,-1.0,-1.0
+560,NextEra Energy Inc,Q967868,0,False,nothing,353.45625000000007,1,1.0,1.0
+561,Nidec Corp,Q3341241,0,False,nothing,24.59714285714286,1,1.0,1.0
+562,Nielsen Holdings PLC,Q540891,0,False,nothing,-15.1275,-1,-1.0,-1.0
+563,NIKE Inc,Q483915,0,False,nothing,30.385471698113204,1,1.0,1.0
+564,Nine Dragons Paper Holdings Ltd,Q4972947,0,False,nothing,-9.04,-1,-1.0,-1.0
+565,Nintendo Co Ltd,Q8093,0,False,nothing,112.01617647058822,1,1.0,1.0
+566,NIO Inc,Q29921278,0,False,nothing,32.25363636363637,1,-0.42857142857142855,0.5
+567,Nippon Paper Industries Co Ltd,Q1993312,0,False,nothing,-5.355,-1,-1.0,-1.0
+568,Nippon Prologis REIT Inc,Q16983765,0,False,nothing,10.856666666666667,1,1.0,1.0
+569,NN Group NV,Q1834291,0,False,nothing,-11.840000000000002,-1,-1.0,-1.0
+570,Nokia Oyj,Q1418,0,False,nothing,47.65375,1,1.0,1.0
+571,Nordea Bank Abp,Q1123823,0,False,nothing,3.6400000000000015,1,1.0,1.0
+572,Nordic Semiconductor ASA,Q3425637,0,False,nothing,1.695,1,1.0,1.0
+573,Northland Power Inc,Q7059529,0,False,nothing,7.51,1,1.0,1.0
+574,Northwest Natural Holding Co,Q6955989,0,False,nothing,39.30666666666667,1,1.0,1.0
+575,Norway Royal Salmon ASA,Q17072149,0,False,nothing,-0.64,-1,-1.0,-1.0
+576,Novartis AG,Q507154,0,False,nothing,0.4616666666666636,1,1.0,1.0
+577,Novatek PJSC,Q251546,0,False,nothing,-0.8940000000000001,-1,-0.5,-1.0
+578,Novo Nordisk A/S,Q818846,0,False,nothing,-33.9,-1,-1.0,-1.0
+579,Novolipetsk Steel PJSC,Q1768082,0,False,nothing,-5.8475,-1,-1.0,-1.0
+580,Novozymes A/S,Q45576,0,False,nothing,35.205,1,1.0,1.0
+581,NRG Energy Inc,Q6955139,0,False,nothing,34.53999999999999,1,1.0,1.0
+582,NTPC Ltd,Q1967805,0,False,nothing,-0.4450000000000003,-1,-1.0,-1.0
+583,Nufarm Ltd/Australia,Q900401,0,False,nothing,16.3,1,1.0,1.0
+584,NVIDIA Corp,Q182477,0,False,nothing,66.7954716981132,1,1.0,1.0
+585,NXP Semiconductors NV,Q1155668,0,False,nothing,7.063333333333328,1,1.0,1.0
+586,O-I Glass Inc,Q180106,0,False,nothing,6.63,1,1.0,1.0
+587,Oasis Petroleum Inc,Q20486933,0,False,nothing,0.776470588235294,1,1.0,1.0
+588,Occidental Petroleum Corp,Q2013357,0,False,nothing,-374.0033333333333,-1,-1.0,-1.0
+589,Oji Holdings Corp,Q385101,0,False,nothing,-0.4266666666666667,-1,-1.0,-1.0
+590,Olin Corp,Q7086908,1,True,We are actively committed to safety global human rights and diversity,-3.6,1,1.0,1.0
+591,Olympus Corp,Q688619,0,False,nothing,220.12,1,0.3333333333333333,1.0
+592,OMV AG,Q168238,0,False,nothing,-77.8425,-1,-1.0,-1.0
+594,Ono Pharmaceutical Co Ltd,Q11464265,0,False,nothing,9.96,1,1.0,1.0
+595,Onto Innovation Inc,Q7377461,0,False,nothing,0.6000000000000001,1,1.0,1.0
+596,Ooredoo QPSC,Q919935,0,True,Our intent is to publish a full sustainability report going Commitment O ore doo is committed to the United Nations Sustainable Development Goals S DGs which aim to eradicate extreme poverty fight inequalities and injustice and fix climate change,1.423999999999999,2,2.0,2.0
+597,Open Text Corp,Q2025791,0,False,nothing,153.16500000000002,1,1.0,1.0
+598,Oracle Corp,Q19900,0,False,nothing,-58.33827586206896,-1,-1.0,-1.0
+599,Orange SA,Q1431486,0,False,nothing,116.01,1,1.0,1.0
+600,Orbia Advance Corp SAB de CV,Q3307676,0,False,nothing,0.5333333333333333,1,1.0,1.0
+601,Origin Energy Ltd,Q847931,0,False,nothing,-15.635000000000002,-1,-1.0,-1.0
+602,Origin Enterprises PLC,Q7102461,0,True,PEACE JUSTICE STRONG INSTITUTIONS Origin Enterprises plc Sustainability Report ORIGIN ENTERPRISES OUR SUSTAINABILITY APPROACH Our Sustainability Approach Reporting on what matters most Drivers of Sustainability Framework for Action OUR STRATEGY,0.3466666666666667,2,2.0,2.0
+603,Origin Enterprises PLC,Q7102461,0,True,NURTURING GROWTH NURTURING OUR ENVIRONMENT Sustainable Food Production Supporting Outdoor Space Regeneration Collaborative and Comprehensive Research Environmental Management System Climate change Carbon Emissions Reduction and Carbon Capture Biodiversity Reducing Water Usage and Water Stress Waste Reduction Packaging and Plastic Developing New Products NURTURING OUR SOCIETY Our People Support during the C OVID 19 response Our group wide values and engagement Health Safety Wellbeing Diversity Equality and Inclusion Wider Societal Influence ORIGIN ENTERPRISES OUR GOVERNANCE ES G Governance Framework Ethics Reporting CONTENTS Our People Our people are central to our success and while we operate locally we act as one company,0.3466666666666667,2,2.0,2.0
+604,OTP Bank Nyrt,Q912778,0,False,nothing,8.975000000000001,1,1.0,1.0
+605,Outfront Media Inc,Q23090931,0,False,nothing,-2.76,-1,-1.0,-1.0
+606,Oversea-Chinese Banking Corp Ltd,Q2042423,0,False,nothing,56.1375,1,1.0,1.0
+607,Owens Corning,Q7114736,0,False,nothing,3.306666666666666,1,1.0,1.0
+608,PACCAR Inc,Q1477661,0,False,nothing,91.945,1,1.0,1.0
+609,Packaging Corp of America,Q16983334,0,False,nothing,24.3,1,1.0,1.0
+610,Palo Alto Networks Inc,Q7128508,0,True,Our investments focus on organizations that provide basic needs educational enrichment health services and address social justice for populations aligned with our inclusion and diversity work hand in hand with our employee network groups ENG s to invest in causes that serve to uplift Black Latinx Women Veterans LGBT QI A and individuals with disabilities,-24.4512,0,0.0,0.0
+611,Panasonic Corp,Q53247,0,False,nothing,56.24839999999999,1,1.0,1.0
+612,Parker-Hannifin Corp,Q1470619,0,False,nothing,2.090666666666667,1,1.0,1.0
+613,PayPal Holdings Inc,Q483959,0,False,nothing,6.076875000000001,1,0.0,0.5
+614,Pennon Group PLC,Q278810,0,False,nothing,-7.140000000000001,-1,-1.0,-1.0
+615,Pentair PLC,Q7165001,0,False,nothing,27.11,1,1.0,1.0
+616,PepsiCo Inc,Q334800,0,False,nothing,25.00681818181818,1,1.0,1.0
+617,Performance Food Group Co,Q2070689,0,False,nothing,66.76,1,1.0,1.0
+618,PerkinElmer Inc,Q2066858,0,False,nothing,299.64,1,1.0,1.0
+619,Pernod Ricard SA,Q837049,0,True,We launched the Sustainability and Responsibility Road Map 2030 based on four pillars Circular Making Valuing People Responsible Hosting and Nurturing Ter roi r,9.186666666666666,2,2.0,2.0
+620,Perusahaan Gas Negara Tbk PT,Q13095961,0,False,nothing,0.57,1,1.0,1.0
+621,PetroChina Co Ltd,Q503182,0,True,Through our efforts we strive to build a harmonious BACK TO SOCIETY End poverty in all its forms everywhere No poverty End hunger achieve food security and improved nutrition and promote sustainable agriculture Zero hunger Ensure healthy lives and promote well being for all at all ages Good health and well being Ensure inclusive and quality education for all and promote lifelong learning Quality education Achieve gender equality and empower all women and girls Gender equality Build resilient infrastructure promote sustainable industrialization and foster innovation Industry innovation and infrastructure Promote inclusive and sustainable economic growth employment and decent work for all Decent work and economic growth Reduce inequality within and among countries Reduced inequalities Make cities inclusive safe resilient and sustainable Sustainable cities and communities S DGs 59 GIVING BACK TO SOCIETY PROMOTING LOCAL DEVELOPMENT Petro China s development is inseparable from the support and help of the governments communities and the general public,-27.093333333333334,0,0.0,0.0
+622,PetroChina Co Ltd,Q503182,0,True,SAFE AND CLEAN PRODUCTION AND OPERATION Ensure access to water and sanitation for all Clean water and sanitation Ensure access to affordable reliable sustainable and modern energy for all Affordable and clean energy Build resilient infrastructure promote sustainable industrialization and foster innovation Industry innovation and infrastructure Make cities inclusive safe resilient and sustainable Sustainable cities and communities Ensure sustainable consumption and production patterns Responsible consumption and production Take urgent action to combat climate change and its impacts Climate action Conserve and sustain ably use the oceans seas and marine resources Life below water Sustain ably manage forests combat desertification halt and reverse land degradation halt biodiversity loss Life on landS DGs 31 SAFE AND CLEAN PRODUCTION AND OPERATION IMPROVING HSE MANAGEMENT Work safety and environmental protection is a prerequisite which secures our steady development,-27.093333333333334,0,0.0,0.0
+623,Petroleo Brasileiro SA,Q210047,0,False,nothing,-14.316842105263158,-1,-1.0,-1.0
+624,Petronet LNG Ltd,Q7179027,0,False,nothing,-3.22,-1,-1.0,-1.0
+625,Pfizer Inc,Q206921,0,False,nothing,-81.51545685279189,-1,0.10526315789473684,-0.5
+626,PG&E Corp,Q1815011,0,False,nothing,-316.447,-1,-1.0,-1.0
+627,Philip Morris International Inc,Q1852556,0,False,nothing,28.530000000000005,1,1.0,1.0
+628,Phillips 66,Q1656230,0,True,Our company s strong governance high ethics safety focus and inclusive culture are based on our values of safety honour and commitment,18.222857142857144,2,0.10526315789473684,2.0
+629,Plug Power Inc,Q7205253,0,False,nothing,145.17363636363638,1,1.0,1.0
+630,PNC Financial Services Group Inc,Q38928,0,False,nothing,-119.91875000000002,-1,-1.0,-1.0
+631,Polymetal International PLC,Q2380266,0,False,nothing,2.76,1,1.0,1.0
+632,Polyus PJSC,Q2005769,0,False,nothing,3.0900000000000007,1,1.0,1.0
+633,Pool Corp,Q1471346,0,False,nothing,30.44333333333334,1,1.0,1.0
+634,Post Holdings Inc,Q27988145,0,False,nothing,37.06000000000001,1,1.0,1.0
+635,Power Grid Corp of India Ltd,Q3400886,0,False,nothing,13.067500000000004,1,1.0,1.0
+636,Power Integrations Inc,Q30265954,0,False,nothing,1.4,1,1.0,1.0
+637,PPG Industries Inc,Q48754,0,False,nothing,26.20800000000001,1,1.0,1.0
+638,Premier Foods PLC,Q7240301,0,False,nothing,-11.72,-1,-1.0,-1.0
+639,Primo Water Corp,Q2071102,0,True,We are committed to advancing respect for human rights building diverse and inclusive workplaces and promoting hydration and wellness in local communities where we live and work,0.8672727272727272,2,2.0,2.0
+640,Prologis Inc,Q16983765,0,False,nothing,10.856666666666667,1,0.5,1.0
+641,Prosus NV,Q67389109,0,False,nothing,-9.88,-1,-1.0,-1.0
+642,Prudential PLC,Q1374135,0,False,nothing,59.1,1,1.0,1.0
+643,Prysmian SpA,Q1964784,0,False,nothing,-31.36,-1,-1.0,-1.0
+644,PTC Inc,Q1760641,0,False,nothing,125.076,1,1.0,1.0
+645,PTT Exploration & Production PCL,Q6579845,0,False,nothing,2.965,1,0.3333333333333333,1.0
+646,PTT Global Chemical PCL,Q16306121,0,False,nothing,21.29,1,0.3333333333333333,1.0
+647,PTT PCL,Q1810389,0,False,nothing,-10.485000000000005,-1,0.3333333333333333,-0.5
+648,PulteGroup Inc,Q7259716,0,False,nothing,40.67,1,1.0,1.0
+649,Puma SE,Q157064,0,False,nothing,42.50230769230769,1,1.0,1.0
+650,PVH Corp,Q1132272,0,False,nothing,64.71000000000001,1,1.0,1.0
+651,Qatar Gas Transport Co Ltd,Q6960637,0,False,nothing,4.0200000000000005,1,1.0,1.0
+652,Qatar National Bank QPSC,Q1136759,0,False,nothing,-18.0,-1,-1.0,-1.0
+653,Qorvo Inc,Q18169198,0,False,nothing,0.0327272727272727,1,1.0,1.0
+654,QUALCOMM Inc,Q544847,0,True,End poverty in all its forms hunger achieve food security and improved nutrition and promote sustainable healthy lives and promote well being for all at all inclusive and equitable quality education and promote lifelong learning opportunities for gender equality and empower all women and availability and sustainable management of water and sanitation for access to a or d able reliable sustainable and modern energy for sustained inclusive and sustainable economic growth full and productive employment and decent work for resilient infrastructure promote inclusive and sustainable industrialization and foster inequality within and among cities and human settlements inclusive safe resilient and sustainable consumption and production urgent action to combat climate change and its and sustain ably use the oceans seas and marine resources for sustainable restore and promote sustainable use of terrestrial ecosystems sustain ably manage forests combat desert i cation and reverse land degradation and halt biodiversity learn more about all 17 S DGs please visit the UN Sustainable Development Goals peaceful and inclusive societies for sustainable development provide access to justice for all and build eec ti ve accountable and inclusive institutions at all the means of implementation and revitalize the global partnership for Our Support of the UN Sustainable Development Goals Appendix About this report About this Report Since our,52.444893617021286,2,2.0,2.0
+655,Quebecor Inc,Q912476,0,False,nothing,2.9866666666666646,1,1.0,1.0
+656,Raiffeisen Bank International AG,Q2127528,0,True,This the aims of counteracting social problems promoting cultural life and protecting the tolerance and a strong focus on people are the mainstay of our efforts to bring about future oriented developments in society,6.006666666666668,2,2.0,2.0
+657,Range Resources Corp,Q4048013,0,False,nothing,-18.270000000000003,-1,-1.0,-1.0
+658,Rayonier Inc,Q7299366,0,False,nothing,43.89333333333334,1,1.0,1.0
+659,Reckitt Benckiser Group PLC,Q1190881,0,False,nothing,11.230000000000002,1,1.0,1.0
+660,Regal Beloit Corp,Q7307899,0,False,nothing,0.7,1,1.0,1.0
+661,Reliance Industries Ltd,Q908931,0,True,307 1 102 16 102 17 102 21 102 22 102 24 102 29 102 37 103 2 408 1 417 1 417 2 410 1 418 1 406 1203 2 LIFE BELOW WATER LIFE ON LAND PEACE JUSTICE AND STRONG INSTITUTIONS PARTNERSHIPS FOR THE GOALS N VG 6 Businesses should respect protect and make efforts to restore the environment N VG 6 Businesses should respect protect and make efforts to restore the environment N VG 7 Businesses when engaged in influencing public and regulatory policy should do so in a responsible manner Support towards maintaining cultural heritage Integrating Values and Behaviours New Distribution Model for Lubes Business Rel star Ultimate Pitch Collaborating with 30 leading B Schools Partnering for Innovation Sustainable Business Responsibility GRI Indicators Case Studies Development Goals Report N VG 1 Businesses should conduct and govern themselves with Ethics Transparency and Accountability N VG 4 Businesses should respect the interests of and be responsive towards all stakeholders especially those who are disadvantaged vulnerable and marginal is ed N VG 7 Businesses when engaged in influencing public and regulatory policy should do so in a responsible manner 174 U NGC Communication on Progress Global Compact Principles Human Rights Labor Standards Support and respect the protection of internationally proclaimed human rights within the business sphere of the freedom of association and effective recognition of the right to collective the elimination of all forms of forced and compulsory the effective abolition of child the elimination of discrimination in respect of employment,-11.84125,0,0.0,0.0
+662,Reliance Worldwide Corp Ltd,Q107261056,0,False,nothing,29.16,1,1.0,1.0
+663,RELX PLC,Q998470,0,False,nothing,14.339999999999998,1,1.0,1.0
+664,Renault SA,Q6686,0,False,nothing,-5.846829268292684,-1,-1.0,-1.0
+665,Renesas Electronics Corp,Q1196269,0,False,nothing,22.919,1,1.0,1.0
+666,Repsol SA,Q174747,0,True,Promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels P 6 P 6 P 2 P 2 We are working to report this indicator individually,-18.83,0,0.0,0.0
+667,Repsol SA,Q174747,0,True,Make cities and human settlements inclusive safe resilient and sustainable We are working to report this indicator individually,-18.83,0,0.0,0.0
+668,Repsol SA,Q174747,0,True,Promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels P 1 P 1 We are working to report this indicator are working to report this indicator individually,-18.83,0,0.0,0.0
+669,Republic Services Inc,Q7314415,0,False,nothing,246.09,1,1.0,1.0
+670,Restaurant Brands International Inc,Q18619470,0,True,Related Content Our Vision Governance In 2015 the United Nations established a set of goals to end poverty protect and ensure prosperity for all,4.35,2,2.0,2.0
+671,Rexnord Corp,Q28207096,0,False,nothing,25.30666666666666,1,1.0,1.0
+672,Rinnai Corp,Q795243,0,True,02 Approaches to safety and peace of mind Linkage with S DGs Unwavering focus on preventing malfunctions and building products that are resilient to natural disasters Quality is our destiny is the fundamental concept of the R in nai Group and this guides our endeavors to deliver products to our customers that provide them with safety and peace of mind through mono zu kuri craftsmanship aimed and securing high quality,60.49999999999999,2,2.0,2.0
+673,Rio Tinto PLC,Q821293,0,False,nothing,-7.585384615384616,-1,-1.0,-1.0
+674,Rockwell Automation Inc,Q1529234,0,False,nothing,41.69875,1,0.3333333333333333,1.0
+675,ROCKWOOL International A/S,Q255661,0,False,nothing,1.34,1,1.0,1.0
+676,Rohm Co Ltd,Q1192667,0,False,nothing,22.57,1,1.0,1.0
+677,Rollins Inc,Q7361273,0,False,nothing,2.7866666666666675,1,1.0,1.0
+678,Roper Technologies Inc,Q16932392,0,False,nothing,2.84,1,1.0,1.0
+679,Rotork PLC,Q7370594,0,False,nothing,1.6363636363636365,1,1.0,1.0
+680,Royal Bank of Canada,Q735261,0,False,nothing,5.581999999999998,1,1.0,1.0
+681,Royal Caribbean Cruises Ltd,Q427881,0,False,nothing,-12.021428571428572,-1,-1.0,-1.0
+683,RWE AG,Q138133,0,False,nothing,-131.9,-1,-1.0,-1.0
+684,Saipem SpA,Q2213203,0,False,nothing,15.990000000000002,1,1.0,1.0
+685,salesforce.com Inc,Q941127,0,False,nothing,20.41363636363636,1,1.0,1.0
+686,Salmar ASA,Q7403259,0,False,nothing,0.0199999999999997,1,1.0,1.0
+687,Sampo Oyj,Q1640495,0,False,nothing,145.47,1,1.0,1.0
+688,Samsung Electronics Co Ltd,Q20718,0,False,nothing,-14.575357142857143,-1,-1.0,-1.0
+689,Samsung SDI Co Ltd,Q21120876,0,False,nothing,-0.2216666666666666,-1,-1.0,-1.0
+690,Sands China Ltd,Q15913951,0,False,nothing,-22.5,-1,-1.0,-1.0
+691,Sandvik AB,Q1753718,0,False,nothing,-5.22,-1,-1.0,-1.0
+692,Sanofi,Q158205,0,False,nothing,9.963333333333331,1,1.0,1.0
+693,Santander Bank Polska SA,Q806653,0,False,nothing,-0.27,-1,-1.0,-1.0
+694,Sappi Ltd,Q481472,0,False,nothing,57.79499999999999,1,1.0,1.0
+695,Sasol Ltd,Q905998,0,False,nothing,-170.78,-1,-1.0,-1.0
+696,Saudi Arabian Oil Co,Q679322,0,False,nothing,-10.911470588235296,-1,-1.0,-1.0
+697,Saudi Electricity Co,Q12188903,0,False,nothing,1.6699999999999997,1,1.0,1.0
+698,Saudi Telecom Co,Q1535171,0,False,nothing,43.655,1,1.0,1.0
+699,SBA Communications Corp,Q7388926,0,False,nothing,-0.96,-1,-1.0,-1.0
+701,SBI Cards & Payment Services Ltd,Q7388953,0,False,nothing,8.34,1,0.0,0.5
+702,Schindler Holding AG,Q651212,0,False,nothing,0.03,1,1.0,1.0
+703,Schlumberger NV,Q1425316,0,True,We are focused on safe promoting local content and encouraging STEM education while preserving and respecting human rights diversity and inclusion,150.20999999999998,2,2.0,2.0
+704,Schlumberger NV,Q1425316,0,True,8 Protect labor rights and safe secure work In Brazil we implemented a project specific human rights plan for a sub sea production systems project that included human rights self assessments of higher risk vendors and third party assessments of our facilities and vendors in Brazil Malaysia and China,150.20999999999998,2,2.0,2.0
+705,Schneider Electric SE,Q49053,0,False,nothing,41.3875,1,1.0,1.0
+706,SCOR SE,Q920000,0,True,we are committed to reducing climate helping to make companies more resilient promoting the adoption of appropriate practices and principles fostering cooperation and encouraging good governance integrity and accountability,-1.7699999999999996,0,0.0,0.0
+707,Sealed Air Corp,Q7440621,0,False,nothing,14.825,1,1.0,1.0
+708,Sekisui House Ltd,Q1539141,0,False,nothing,-0.3499999999999996,-1,-1.0,-1.0
+709,Sempra Energy,Q7449804,0,False,nothing,15.680000000000003,1,1.0,1.0
+710,Service Corp International/US,Q11306218,0,False,nothing,8.472,1,1.0,1.0
+711,ServiceNow Inc,Q7455653,0,False,nothing,873.2266666666668,1,1.0,1.0
+712,Severn Trent PLC,Q503077,0,True,World Water Innovation Fund benefiting 60 million people many in less developed parts of the world Delivering an for everyone page 34 Providing a fair safe place to work page 37 Make cities and human settlements inclusive safe resilient and sustainable Creating new green spaces in urban areas Pledging to reach 100 electric vehicles by 2030 assumes specialist vehicles such as available within the time window Enhancing our natural environment page 18 Mitigating climate change,-21.935,0,1.0,0.5
+713,SGL Carbon SE,Q320207,0,True,They include socially responsible environmentally conscious and resource friendly conduct the promotion of sustainable product solutions being responsible for our employees respecting human rights corporate citizenship and compliance and anti corruption standards,-9.12,0,0.0,0.0
+714,SGL Carbon SE,Q320207,0,True,The commitment to respect human rights fair working conditions the fight against corruption and bribery and the protection of our climate and environment are essential components of our economic behaviour,-9.12,0,0.0,0.0
+715,SGS SA,Q669620,0,False,nothing,26.902500000000003,1,1.0,1.0
+717,Shin-Etsu Chemical Co Ltd,Q904284,0,True,Strive to respect human rights assure equality in employment opportunities and support the self fulfillment of our employees,4.77,2,2.0,2.0
+718,Shinhan Financial Group Co Ltd,Q491325,0,False,nothing,-1.62,-1,-1.0,-1.0
+719,Shiseido Co Ltd,Q728185,0,True,We work to solve social issues through our business activities and in this way contribute to making the world a better place 4 The initiative includes three key pillars Clean Environment Respectful Society and Enriched Culture which will support S his eidos sustain world,35.52000000000001,2,2.0,2.0
+720,Siemens Healthineers AG,Q472451,0,False,nothing,0.0,-1,-1.0,-1.0
+721,SIG Combibloc Group AG,Q692083,0,False,nothing,-2.4000000000000004,-1,-1.0,-1.0
+722,Signify NV,Q2336380,0,True,We report our contribution to six S DGs 3 Good health and well being 7 Affordable and clean energy 8 Decent work and economic growth 11 Sustainable cities and communities 12 Responsible consumption and production and 13 Climate action,-0.11,0,0.0,0.0
+723,Sika AG,Q691382,0,False,nothing,-2.52,-1,-1.0,-1.0
+724,Silgan Holdings Inc,Q17080741,0,False,nothing,4.223333333333334,1,1.0,1.0
+725,Silicon Laboratories Inc,Q2286044,0,False,nothing,3.44,1,1.0,1.0
+726,Simpson Manufacturing Co Inc,Q29469208,0,False,nothing,5.04,1,1.0,1.0
+727,Singapore Exchange Ltd,Q1515558,0,False,nothing,17.2625,1,0.3333333333333333,1.0
+728,Singapore Telecommunications Ltd,Q864923,0,False,nothing,193.455,1,1.0,1.0
+729,Sino Biopharmaceutical Ltd,Q10874682,0,False,nothing,-0.63,-1,-1.0,-1.0
+730,Sinopharm Group Co Ltd,Q7524930,0,False,nothing,-11.34,-1,0.0,-0.5
+731,Sirius XM Holdings Inc,Q3277465,0,False,nothing,87.75785714285715,1,1.0,1.0
+732,SK Hynix Inc,Q370719,0,False,nothing,10.0725,1,1.0,1.0
+733,SK Telecom Co Ltd,Q493145,0,False,nothing,-7.595999999999999,-1,-1.0,-1.0
+734,Skyworks Solutions Inc,Q7538146,0,False,nothing,60.425,1,1.0,1.0
+735,SM Energy Co,Q16984687,0,False,nothing,2.75,1,1.0,1.0
+736,SMA Solar Technology AG,Q463337,0,False,nothing,0.0,-1,-1.0,-1.0
+737,Smiths Group PLC,Q2295406,0,False,nothing,-0.995,-1,-1.0,-1.0
+738,Smurfit Kappa Group PLC,Q1536176,0,False,nothing,-10.5,-1,-1.0,-1.0
+739,Sodexo SA,Q1475554,0,False,nothing,-17.751666666666672,-1,-1.0,-1.0
+740,SoftBank Group Corp,Q201653,0,False,nothing,-17.742962962962967,-1,-0.42857142857142855,-1.0
+741,Solvay SA,Q706184,0,False,nothing,-32.835,-1,-1.0,-1.0
+742,Sonic Healthcare Ltd,Q7561817,0,False,nothing,7.55,1,1.0,1.0
+743,Sonoco Products Co,Q7562151,0,False,nothing,3.53,1,1.0,1.0
+744,Sony Group Corp,Q41187,0,False,nothing,-372.268596491228,-1,0.3333333333333333,-0.5
+745,Southern Co,Q2304693,0,False,nothing,-236.56,-1,-1.0,-1.0
+746,Southern Copper Corp,Q7569806,0,False,nothing,5.6800000000000015,1,1.0,1.0
+747,Spectrum Brands Holdings Inc,Q771865,0,False,nothing,1.4,1,-0.3333333333333333,0.5
+748,Sprouts Farmers Market Inc,Q7581369,0,False,nothing,126.57,1,1.0,1.0
+749,SPX FLOW Inc,Q2207629,0,False,nothing,3.27,1,1.0,1.0
+750,SSE PLC,Q493854,0,False,nothing,7.990000000000002,1,1.0,1.0
+751,Stadler Rail AG,Q666703,0,False,nothing,-4.48,-1,-1.0,-1.0
+752,Standard Chartered PLC,Q548278,0,False,nothing,131.682,1,1.0,1.0
+753,Stantec Inc,Q2331913,0,False,nothing,159.90666666666667,1,1.0,1.0
+754,State Bank of India,Q1340361,0,False,nothing,-33.6475,-1,0.0,-0.5
+755,State Street Corp,Q2037125,0,False,nothing,16.04,1,0.10526315789473684,1.0
+756,Steelcase Inc,Q479167,0,True,We ve long pledged to protect the environment treat people with dignity and respect and act with integrity values that continue to serve as steady guide posts and inspire us to take action,44.50666666666666,2,2.0,2.0
+757,Stellantis NV,Q97439162,0,True,In alignment with the United Nations Sustainable Development Goals our social contribution efforts focus most particularly on Quality Education Gender Equality Decent Work and Economic Growth Reduced Inequality Industry Innovation and Infrastructure and Sustainable Cities and Groups 2018 activities focused on a variety of causes 35 for education related initiatives 56 for community development and welfare including health programs 9 for emergency relief and other efforts,13.173333333333336,2,2.0,2.0
+758,Stericycle Inc,Q3973262,0,True,All rights 7 31 S TERI CYCLE CORPORATE SOCIAL RESPONSIBILITY Compliance We protect people promote health and well being and safeguard the environment,95.39500000000002,2,2.0,2.0
+759,STMicroelectronics NV,Q661845,0,False,nothing,49.86,1,1.0,1.0
+760,Stora Enso Oyj,Q747265,0,True,Sustainable Development Goals We support the UNs S DGs a universal call to action to end poverty protect the planet and ensure that all people enjoy peace and prosperity,18.2,2,2.0,2.0
+761,Stryker Corp,Q2357515,0,False,nothing,-63.435,-1,-1.0,-1.0
+762,Sun Hung Kai Properties Ltd,Q1789188,0,False,nothing,-0.4250000000000007,-1,-1.0,-1.0
+763,Suzano SA,Q1030695,0,False,nothing,0.0,-1,-1.0,-1.0
+764,Svenska Cellulosa AB SCA,Q52601,0,False,nothing,2.346666666666667,1,1.0,1.0
+765,Svenska Handelsbanken AB,Q1421630,0,True,In the Goals world leaders have pledged to eradicate extreme poverty reduce inequality and injustice in the world and change by the year RISKS Transition risks are risks that arise through changes to legislation changes in the demand products and services changed customer behaviour or other structural shifts which take place as part of society s attempts to transition a climate neutral employee who discovers or suspects internal fraud or other irregularities in the Group can use when other channels are not appropriate Handels bank ens special system for whistle blowing in which identity protection can be guaranteed as far as is legally possible,-2.74,0,0.0,0.0
+766,Swedbank AB,Q1145493,0,False,nothing,-28.4,-1,-1.0,-1.0
+767,Swedish Match AB,Q52855,0,False,nothing,5.776666666666666,1,1.0,1.0
+768,Swedish Orphan Biovitrum AB,Q7654795,0,False,nothing,5.0,1,1.0,1.0
+769,Swire Properties Ltd,Q7658810,0,False,nothing,26.749999999999996,1,1.0,1.0
+770,Swiss Life Holding AG,Q667350,0,False,nothing,-55.87,-1,-1.0,-1.0
+771,Swiss Re AG,Q605565,0,False,nothing,15.273333333333335,1,0.0,0.5
+772,Synopsys Inc,Q2303478,0,False,nothing,56.36999999999999,1,1.0,1.0
+773,T-Mobile US Inc,Q3511885,0,False,nothing,49.30000000000001,1,-0.3333333333333333,0.5
+774,Taiwan Semiconductor Manufacturing Co Ltd,Q713418,0,False,nothing,-28.984081632653066,-1,-1.0,-1.0
+775,TAL Education Group,Q96407440,0,False,nothing,4.0,1,1.0,1.0
+776,Tassal Group Ltd,Q7687626,0,False,nothing,-12.853333333333332,-1,-1.0,-1.0
+777,Tata Motors Ltd,Q188514,0,False,nothing,29.538125,1,1.0,1.0
+778,Tata Steel Ltd,Q963101,0,False,nothing,-0.4433333333333345,-1,-1.0,-1.0
+779,TC Energy Corp,Q1516108,0,False,nothing,-56.4,-1,-1.0,-1.0
+780,TDK Corp,Q855479,0,False,nothing,60.43333333333334,1,1.0,1.0
+781,TE Connectivity Ltd,Q663452,0,False,nothing,-0.78,-1,-1.0,-1.0
+782,Teijin Ltd,Q1111609,0,False,nothing,9.9,1,1.0,1.0
+783,Telecom Italia SpA/Milano,Q144617,0,False,nothing,-27.56,-1,-1.0,-1.0
+784,Teledyne Technologies Inc,Q7696127,0,False,nothing,-3.910000000000004,-1,-1.0,-1.0
+785,Telenet Group Holding NV,Q616340,0,False,nothing,3.4966666666666657,1,1.0,1.0
+786,Telia Co AB,Q862303,0,True,Privacy Security Read more To maximize our positive impact and minimize risks we have built a strong foundation to ensure accountability an ethical and rights respecting culture and work covers a number of as Anti bribery and Corruption Human Rights including Childrens rights and Freedom of expression Employee diversity and Health and well being,-690.38,0,0.0,0.0
+787,Telstra Corp Ltd,Q721162,0,False,nothing,-42.28769230769231,-1,-1.0,-1.0
+788,Tempur Sealy International Inc,Q19604577,0,False,nothing,17.990000000000002,1,1.0,1.0
+789,Tenaga Nasional Bhd,Q1584297,0,False,nothing,15.68,1,1.0,1.0
+790,Tencent Holdings Ltd,Q860580,0,False,nothing,-7.417446808510638,-1,-0.42857142857142855,-1.0
+791,Tenet Healthcare Corp,Q3518066,0,False,nothing,-35.36000000000001,-1,-1.0,-1.0
+792,Tenneco Inc,Q1509038,0,False,nothing,0.0,-1,-1.0,-1.0
+793,Teradyne Inc,Q2404292,0,False,nothing,-1.16,-1,-1.0,-1.0
+794,Tesco PLC,Q487494,0,False,nothing,-14.305555555555555,-1,-1.0,-1.0
+795,Tesla Inc,Q478214,0,False,nothing,-135.9742857142857,-1,-1.0,-1.0
+796,Teva Pharmaceutical Industries Ltd,Q898750,0,False,nothing,-31.226666666666656,-1,0.10526315789473684,-0.5
+797,Texas Instruments Inc,Q193412,0,False,nothing,-17.568000000000005,-1,-1.0,-1.0
+798,Thermo Fisher Scientific Inc,Q643674,0,False,nothing,11.854,1,1.0,1.0
+799,thyssenkrupp AG,Q137910,0,False,nothing,-20.4275,-1,-1.0,-1.0
+800,TI Fluid Systems PLC,Q7670467,0,False,nothing,0.2333333333333333,1,1.0,1.0
+801,TJX Cos Inc,Q1285819,0,False,nothing,-9.4,-1,-1.0,-1.0
+802,Tokio Marine Holdings Inc,Q1812086,0,False,nothing,-78.528,-1,-1.0,-1.0
+803,Toll Brothers Inc,Q7814310,0,False,nothing,11.75,1,1.0,1.0
+804,Toray Industries Inc,Q168115,0,False,nothing,6.354999999999999,1,1.0,1.0
+805,TotalEnergies SE,Q154037,0,False,nothing,-10.240000000000002,-1,-0.5,-1.0
+806,Tower Bersama Infrastructure Tbk PT,Q7829632,0,False,nothing,-0.24,-1,-1.0,-1.0
+807,Toyota Motor Corp,Q53268,0,False,nothing,8.434495412844038,1,1.0,1.0
+808,TransAlta Renewables Inc,Q2448801,0,False,nothing,91.7,1,1.0,1.0
+809,TransDigm Group Inc,Q7833612,0,False,nothing,-0.8160000000000001,-1,-1.0,-1.0
+810,Transurban Group,Q3538015,0,False,nothing,12.6,1,1.0,1.0
+811,Travelers Cos Inc,Q942471,0,False,nothing,5.117500000000001,1,1.0,1.0
+812,TreeHouse Foods Inc,Q16958009,0,False,nothing,0.3485714285714286,1,1.0,1.0
+813,Trex Co Inc,Q16985774,0,False,nothing,84.3,1,1.0,1.0
+814,Tri Pointe Homes Inc,Q105038141,0,False,nothing,27.18,1,1.0,1.0
+815,Trimble Inc,Q2297063,0,False,nothing,0.6533333333333333,1,1.0,1.0
+816,Trinseo SA,Q18354527,0,False,nothing,6.0,1,1.0,1.0
+817,Turkcell Iletisim Hizmetleri AS,Q283852,0,False,nothing,-3.039999999999996,-1,-1.0,-1.0
+818,Turkiye Garanti Bankasi AS,Q322962,0,False,nothing,-16.92,-1,-1.0,-1.0
+819,Twitter Inc,Q918,0,False,nothing,-230.30193548387095,-1,-1.0,-1.0
+820,u-blox Holding AG,Q2466238,0,False,nothing,0.55,1,1.0,1.0
+821,Ubisoft Entertainment SA,Q188273,0,False,nothing,-53.59090909090909,-1,-0.42857142857142855,-1.0
+822,UBS Group AG,Q193199,0,False,nothing,-10.939615384615385,-1,-1.0,-1.0
+823,UGI Corp,Q2852632,0,False,nothing,43.815,1,1.0,1.0
+824,UltraTech Cement Ltd,Q7880419,0,True,Our approach contributes to the principles laid down by the United Nations Global can be defined as free fair open inclusive performance driven and collaborative,8.55,2,2.0,2.0
+825,UltraTech Cement Ltd,Q7880419,0,True,1 Million beneficiaries CSR Focus areas Education and Capacity Building Healthcare Sustainable Livelihoods Infrastructure Development Social Reform Our Vision is to actively contribute to the social and economic development of the communities in which we operate,8.55,2,2.0,2.0
+826,Umicore SA,Q902769,0,True,We foster a culture of equal opportunities equal and fair pay mutual respect and solidarity,29.28,2,2.0,2.0
+827,UniCredit SpA,Q45568,0,False,nothing,-44.42,-1,-1.0,-1.0
+828,Unilever PLC,Q157062,0,True,Human rights We conduct our operations with honesty integrity and openness and with respect for the human rights and interests of our employees,-219.5386363636364,0,0.0,0.0
+829,Union Pacific Corp,Q20183163,0,False,nothing,-16.8,-1,-1.0,-1.0
+830,United Overseas Bank Ltd,Q2064074,0,False,nothing,141.4057142857143,1,1.0,1.0
+831,United Parcel Service Inc,Q155026,0,True,The UPS Foundations philanthropic approach centres on four focus areas that reflect the Foundations mission and UPS corporate values and expertise Diversity Inclusion Environmental Sustainability Community Safety and Volunteer is m,9.352500000000004,2,2.0,2.0
+832,United Rentals Inc,Q7889101,0,False,nothing,-7.065000000000001,-1,-1.0,-1.0
+833,United States Steel Corp,Q72539,0,False,nothing,-20.16142857142857,-1,-1.0,-1.0
+834,United Utilities Group PLC,Q503038,0,True,Read more about our approach to climate change on pages 66 to more about our approach to climate change on pages 66 to 77 Peace justice and strong institutions Promote peaceful and inclusive societies for sustainable development provide access to justice for all and build effective accountable and inclusive institutions at all levels We run our business in a responsible manner and trustworthy is one of our core have high levels of transparency in our reporting and ethical standards of business conduct and corporate governance those systems and processes through which our organisation is managed controlled and held more about how we deliver value to our stakeholders on pages 46 and 47 Stock Code Report and Financial Statements for the year ended 31 March REPORT 6512 Jun 20,-7.140000000000004,0,0.0,0.0
+835,UnitedHealth Group Inc,Q2103926,0,False,nothing,-6.947142857142856,-1,-1.0,-1.0
+836,Universal Display Corp,Q3116307,0,False,nothing,40.395,1,1.0,1.0
+837,Uponor Oyj,Q1536068,0,False,nothing,20.160000000000004,1,1.0,1.0
+838,US Bancorp,Q739084,0,False,nothing,26.040000000000003,1,0.10526315789473684,1.0
+839,Vale SA,Q583268,0,False,nothing,-24.972500000000004,-1,-1.0,-1.0
+840,Valmet Oyj,Q1197161,0,False,nothing,7.446153846153846,1,1.0,1.0
+841,Valmont Industries Inc,Q7912506,0,False,nothing,35.86000000000001,1,1.0,1.0
+842,Varta AG,Q695251,0,False,nothing,-10.72,-1,-0.3333333333333333,-1.0
+843,Ventas Inc,Q19865761,0,False,nothing,5.214,1,0.5,1.0
+844,VeriSign Inc,Q734338,0,False,nothing,-1.1899999999999995,-1,-1.0,-1.0
+845,Verisk Analytics Inc,Q7921370,0,True,31 SOCIAL Our culture builds on the principles articulated in The Ve risk Way respect for the individual integrity passion persistence confidence humility excellence and teamwork,321.39,2,2.0,2.0
+846,Verizon Communications Inc,Q467752,0,False,nothing,1.323103448275864,1,1.0,1.0
+847,Vertiv Holdings Co,Q5370909,0,False,nothing,9.88,1,1.0,1.0
+848,Vestas Wind Systems A/S,Q868259,0,False,nothing,12.833999999999998,1,1.0,1.0
+849,VF Corp,Q457960,0,False,nothing,29.475,1,1.0,1.0
+850,Vina Concha y Toro SA,Q1123957,0,False,nothing,0.45,1,1.0,1.0
+851,Vinci SA,Q1475312,0,False,nothing,30.08,1,1.0,1.0
+852,Visa Inc,Q328840,0,False,nothing,156.97064516129032,1,1.0,1.0
+853,Visteon Corp,Q637474,0,False,nothing,135.5,1,1.0,1.0
+854,Vistra Corp,Q37068911,0,False,nothing,0.5175,1,1.0,1.0
+855,Vivendi SE,Q1127887,0,False,nothing,-0.893,-1,-1.0,-1.0
+856,Vodafone Group PLC,Q122141,0,False,nothing,24.05761904761905,1,1.0,1.0
+857,Volvo AB,Q163810,0,False,nothing,-124.436,-1,-1.0,-1.0
+858,Wabash National Corp,Q7958645,0,False,nothing,-2.32,-1,-1.0,-1.0
+859,Wacker Chemie AG,Q535517,0,False,nothing,-10.19,-1,-1.0,-1.0
+860,Walt Disney Co,Q7414,0,False,nothing,36.22381578947369,1,1.0,1.0
+861,Waste Connections Inc,Q7972797,0,False,nothing,-3.2775000000000016,-1,-1.0,-1.0
+863,Waters Corp,Q1322011,0,False,nothing,18.91,1,1.0,1.0
+864,Weichai Power Co Ltd,Q3567081,0,False,nothing,0.0,-1,-1.0,-1.0
+865,Wells Fargo & Co,Q744149,0,True,Contact Housing afford ability We drive solutions to enable people to open doors to a safe and affordable place to call home the foundation for wellness dignity and economic opportunity,-34.102424242424235,0,0.10526315789473684,0.5
+866,Welltower Inc,Q20486917,0,True,Our ENG s include Af Am ENG Armed Forces ENG Hispanic ENG LGBT QI ENG Parents ENG South Asian ENG WELL CORE Womens ENG Young Professionals ENG In addition to issuing a public Call for Peace and Understanding Well tower hosted a 2020 Well tower Diversity Forum a WELL CORE Corporate Social Responsibility Forum as well as multiple employee led small group conversations on equity and justice,13.4,2,0.5,2.0
+867,West Fraser Timber Co Ltd,Q1765036,0,False,nothing,6.640000000000001,1,1.0,1.0
+868,Western Digital Corp,Q738770,0,False,nothing,29.224999999999994,1,1.0,1.0
+869,Westlake Chemical Corp,Q17326957,0,False,nothing,0.66,1,1.0,1.0
+870,Westpac Banking Corp,Q2031726,0,False,nothing,-16.795833333333334,-1,-1.0,-1.0
+871,Westrock Co,Q21016487,0,False,nothing,323.85,1,1.0,1.0
+872,WH Group Ltd,Q17499655,0,False,nothing,-6.693333333333334,-1,-1.0,-1.0
+873,Williams Cos Inc,Q930639,0,False,nothing,-8.115000000000002,-1,-1.0,-1.0
+874,Wm Morrison Supermarkets PLC,Q922344,0,True,This includes fair working conditions health and safety in the workplace equal treatment and respect for the diverse communities in which we operate,9.441333333333334,2,2.0,2.0
+875,Wolters Kluwer NV,Q249798,0,True,SD G 3 Good health and well being our products protect and enhance peoples health SD G 9 Industry innovation and infrastructure Innovation is critical for long term sustainable growth and SD G 16 Peace justice and strong institutions our solutions help promote security and reduce risk,-36.17714285714285,0,0.0,0.0
+876,Wolters Kluwer NV,Q249798,0,True,Highlights include Being a digital company 91 of our revenues coming from digital and services A focus on innovation with 8 10 of total revenues invested in new and enhanced solutions Combining predictive analytics machine learning natural language processing and human expertise into our solutions and The culture of innovation among our employees through our innovation contests including the annual Global Innovation Awards and Code 16 Peace justice and strong institutions Our products and services help promote security and reduce risk as we Promote the rule of law by making information on laws and regulations available Provide solutions that help our customers comply with regulatory and legal obligations including anti corruption and anti bribery Help enhance public and professional access to legal and tax information and Provide information solutions that promote human rights including non discrimination and equal information about our contribution to the S DGs can be found on our website,-36.17714285714285,0,0.0,0.0
+877,Woodside Petroleum Ltd,Q1812208,0,False,nothing,-26.69333333333333,-1,-1.0,-1.0
+878,Workday Inc,Q8034666,0,False,nothing,329.82499999999993,1,1.0,1.0
+879,Workhorse Group Inc,Q28406599,0,False,nothing,-22.46666666666667,-1,-1.0,-1.0
+880,WPP PLC,Q1318049,0,False,nothing,32.8725,1,1.0,1.0
+881,Wuliangye Yibin Co Ltd,Q3570160,0,False,nothing,-7.5,-1,-1.0,-1.0
+882,WW Grainger Inc,Q1627894,0,False,nothing,-0.2,-1,-1.0,-1.0
+883,Wynn Resorts Ltd,Q2274089,0,False,nothing,21.875,1,1.0,1.0
+884,X5 Retail Group NV,Q258748,0,False,nothing,5.02,1,1.0,1.0
+885,Xerox Holdings Corp,Q152433,0,False,nothing,-66.46000000000001,-1,-1.0,-1.0
+886,Xilinx Inc,Q1046482,0,True,These include the maintenance of a management system upholding the human rights of workers maintaining a safe and healthy workplace prohibitions against bribes kickbacks conflicts of interest unfair business practices illegal insider trading and political contributions or lobbying on behalf of Xi linx as well as respect for intellectual property is committed to the eradication of the practice of slavery or human trafficking and firmly supports those efforts embodied in the California Transparency in Supply Chains Act of 2010 and the United Kingdom Modern Slavery Act of 2015 to eradicate these activities see our Statement,6.000000000000003,2,2.0,2.0
+887,Xinjiang Goldwind Science & Technology Co Ltd,Q1090900,0,False,nothing,-0.54,-1,-1.0,-1.0
+888,XPeng Inc,Q63035278,0,False,nothing,28.83333333333333,1,1.0,1.0
+889,XPO Logistics Inc,Q8042415,0,False,nothing,-24.375,-1,-1.0,-1.0
+890,Xylem Inc/NY,Q3146975,0,True,7 By 2030 ensure that all learners acquire the knowledge and skills needed to promote sustainable development including among others through education for sustainable development and sustainable lifestyles human rights gender equality promotion of a culture of peace and non violence global citizenship and appreciation of cultural diversity and of to sustainable development We will provide millions of people living at the base of the global economic pyramid with water hygiene education to improve quality of life,16.17,2,2.0,2.0
+891,Yaskawa Electric Corp,Q2620239,0,False,nothing,21.975,1,1.0,1.0
+892,Yum! Brands Inc,Q668737,0,False,nothing,156.36499999999998,1,1.0,1.0
+893,Zebra Technologies Corp,Q2443609,0,False,nothing,54.83,1,1.0,1.0
+894,Zimmer Biomet Holdings Inc,Q203552,0,False,nothing,43.98461538461539,1,1.0,1.0
+895,Zoetis Inc,Q8073337,0,False,nothing,59.74,1,1.0,1.0
+896,Zur Rose Group AG,Q230343,0,False,nothing,29.76749999999999,1,1.0,1.0
+897,Zurich Insurance Group AG,Q230426,0,False,nothing,-48.5175,-1,-1.0,-1.0

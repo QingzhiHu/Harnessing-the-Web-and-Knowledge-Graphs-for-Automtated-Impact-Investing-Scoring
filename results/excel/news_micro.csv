@@ -1,0 +1,18 @@
+17SDGs,MSCI sector,news header,sentiment,wiki_product,all
+SDG1: No Poverty,0.3906,0.4412,0.4738,0.4172,0.4756
+SDG2: Zero Hunger,0.7993,0.9777,0.9755,0.9780,0.9780
+SDG3: Good Health and Well-being,0.7349,0.9561,0.9546,0.9563,0.9609
+SDG4: Quality Education,0.7792,0.9629,0.9653,0.9671,0.9664
+SDG5: Gender Equality,0.5808,0.7905,0.8481,0.8504,0.8577
+SDG6: Clean Water and Sanitation,0.4535,0.6462,0.6832,0.7056,0.7206
+SDG7: Affordable and Clean Energy,0.4596,0.6367,0.6722,0.6458,0.6881
+SDG8: Decent Work and Economic Growth,0.2898,0.6021,0.6754,0.6734,0.6867
+"SDG9: Industry, Innovation and Infrastructure",0.4384,0.5832,0.5989,0.6466,0.6274
+SDG10: Reduced Inequality,0.3891,0.4772,0.4609,0.4754,0.4902
+SDG11: Sustainable Cities and Communities,0.7875,0.9378,0.9434,0.9347,0.9461
+SDG12: Responsible Consumption and Production,0.4820,0.8131,0.8256,0.8317,0.8400
+SDG13: Climate Action,0.6056,0.9570,0.9607,0.9580,0.9655
+SDG14: Life Below Water,0.7134,0.9371,0.9378,0.9323,0.9411
+SDG15: Life On Land,0.7875,0.8326,0.8462,0.8620,0.8726
+"SDG16: Peace, Justice, and Strong Institutions",0.3858,0.4255,0.4929,0.4344,0.5078
+SDG17: Partnerships for the Goals,0.4291,0.6874,0.6760,0.7008,0.7039
