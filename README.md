@@ -188,7 +188,7 @@ directory
 │   analysis_cleaned_news.ipynb (preprocess the news and produce features sentiment related features and news headline feature)
 │   analysis_cleaned_report.ipynb (preprocess the reorts with semantic search engine and NLI)
 │   analysis_cleaned_wiki.ipynb (preprocess the Wikipedia pages by extracting the relevant product information)
-│   download_data_all.ipynb (download )
+│   download_data_all.ipynb (download data)
 │   generate_score.py (heuristic way of generating scores, note the GNN method of generating scores is in SDG_framework_new.ipynb inside of folder overlap-community-detection)
 │   get_domain_wikipedia_sus_url.ipynb (get url of companies' domain, sustainability reports and wikipedia, and these links will be used to extract content later)
 │   get_report.py (download PDF reports and extract the content of the reports from sustainability reports url)
