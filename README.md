@@ -40,7 +40,7 @@ The slides contain the following sections:
 
 #### Paper
 
-The thesis in pdf format has been submitted, and you can also find it in this repository: ***./thesis.pdf***
+The thesis in pdf format has been submitted, and you can also find it in this repository: ***./master_AI_thesis_13167200.pdf***
 
 ## Installation
 
