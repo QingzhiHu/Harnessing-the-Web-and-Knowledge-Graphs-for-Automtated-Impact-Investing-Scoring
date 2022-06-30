@@ -178,7 +178,7 @@ column_features = ['magnitude_sum', 'magnitude_mean', 'magnitude_std',
 # print(int(sys.argv[1]))
 # number = int(sys.argv[1])
 overall_all_scores = []
-for i in range(1):
+for i in range(3):
     print("run time ", i)
     all_scores = []
     for number in range(1,18):

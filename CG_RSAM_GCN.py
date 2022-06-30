@@ -183,7 +183,7 @@ all_sdgs = ['01. No Poverty', '02. Zero Hunger', '03. Good Health & Wellbeing', 
 # print(int(sys.argv[1]))
 # number = int(sys.argv[1])
 overall_all_scores = []
-for i in range(1):
+for i in range(3):
     print("run time ", i)
     all_scores = []
     for sdg, number in zip(all_sdgs, range(1,18)):
