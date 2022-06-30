@@ -18,7 +18,7 @@ This project involves three steps:
 
 In this dissertation, we mix numerous AI algorithms from several subfields (Boosting, Graph Machine Learning, Information Retrieval/Natural Language Processing, XAI) in a unique manner to address the problem of sustainable investment in the financial arena. The challenges are solved by combining many AI approaches in an original way, which has not traditionally been done in earlier studies. The outline of our approach is shown in the schema below.
 
-![](C:\Users\ROB6460\Downloads\thesis_final\bert_nli\figures\Schema\outline.jpg)
+![](https://github.com/QingzhiHu/Thesis_Qingzhi/blob/main/figures/Schema/outline.jpg?raw=true)
 
 ### Resources
 
