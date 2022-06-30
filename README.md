@@ -4,7 +4,7 @@
 
 The repository contains *Master thesis Artificial Intelligence 2022* at the University of Amsterdam as a thesis intern at Robeco. 
 
-![](C:\Users\ROB6460\Downloads\thesis_final\bert_nli\figures\17SDGs.png)
+![](https://github.com/QingzhiHu/Thesis_Qingzhi/blob/main/figures/17SDGs.png?raw=true)
 
 The United Nations launched the 17 Sustainable Development Goals (SDGs) in 2015 as part of the 2030 Sustainable Development Agenda (as shown in the Figure above. The Figure is taken from the UN official website: https://www.un.org/en/sustainable-development-goals ).The aim of this project is to assess the present SDG framework produced by prominent financial institutions, as well as to aggregate diverse resources and automate the framework with the aid of artificial intelligence (AI), which could potentially help alignment with the SDGs and allow for informed investment decisions. 
 
