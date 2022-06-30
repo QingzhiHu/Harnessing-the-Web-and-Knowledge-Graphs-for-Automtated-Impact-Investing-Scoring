@@ -38,7 +38,7 @@ The slides contain the following sections:
 
 #### Paper
 
-You can find the thesis in pdf format at the root directory: ***./thesis.pdf***
+The thesis in pdf format has been submitted, and you can also find it in this repository: ***./thesis.pdf***
 
 ## Installation
 
@@ -46,6 +46,12 @@ Create a conda environment with all the requirements (edit `environment.yml`)
 
 ```
 conda env create -f environment.yml
+```
+
+If you want to change environment name
+
+```bash
+conda env create -n ENVNAME --file environment.yml
 ```
 
 Activate the environment
@@ -69,6 +75,8 @@ Note lots of results are saved in Jupyter notebooks, and there is a few things t
 * Preprocessing sustainability reports require both semantic search and BertNLI thus remember to switch between transformer versions while running the code ./analysis_cleaned_report.ipynb (I have printed the transformer version before running NLI and semantic search just to remind about this).
 
 * The original vector_engine requires SentenceTransformer 0.3.8 but due to we use a new pretrained model from HuggingFace, it is required to use sentence-transformers >= 2.2.0 (e.g. sentence-transformers==2.2.2)
+
+* The environment file is produced from my conda environment on Windows10 with GPU Nvidia RTX 3070. You need to install the right version for torch, pytorch geometric according to your system and GPU (cuda version) by following the instructions from their official websites. 
 
 ## Getting the classification results for BRF and GCN/RGCN
 
