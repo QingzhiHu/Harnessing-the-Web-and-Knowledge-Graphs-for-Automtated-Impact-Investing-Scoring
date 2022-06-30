@@ -4,7 +4,7 @@
 
 The repository contains *Master thesis Artificial Intelligence 2022* at the University of Amsterdam as a thesis intern at Robeco. **Note that this is a light version where all the data files are removed, hence not executable. This version can be used to check jupyter notebook results without the need to open it locally. The full version of 20+ GB can be retrieved from here: https://drive.google.com/drive/folders/1o2gg5lIGzMda0cJU8b7X-BBvALK17eYf?usp=sharing**
 
-![](https://github.com/QingzhiHu/Thesis_Qingzhi/blob/main/figures/17SDGs.png?raw=true)
+![](./figures/17SDGs.png?raw=true)
 
 The United Nations launched the 17 Sustainable Development Goals (SDGs) in 2015 as part of the 2030 Sustainable Development Agenda (as shown in the Figure above. The Figure is taken from the UN official website: https://www.un.org/en/sustainable-development-goals ).The aim of this project is to assess the present SDG framework produced by prominent financial institutions, as well as to aggregate diverse resources and automate the framework with the aid of artificial intelligence (AI), which could potentially help alignment with the SDGs and allow for informed investment decisions. 
 
@@ -18,7 +18,7 @@ This project involves three steps:
 
 In this dissertation, we mix numerous AI algorithms from several subfields (Boosting, Graph Machine Learning, Information Retrieval/Natural Language Processing, XAI) in a unique manner to address the problem of sustainable investment in the financial arena. The challenges are solved by combining many AI approaches in an original way, which has not traditionally been done in earlier studies. The outline of our approach is shown in the schema below.
 
-![](https://github.com/QingzhiHu/Thesis_Qingzhi/blob/main/figures/Schema/outline.jpg?raw=true)
+![](./figures/Schema/outline.jpg?raw=true)
 
 ### Resources
 
