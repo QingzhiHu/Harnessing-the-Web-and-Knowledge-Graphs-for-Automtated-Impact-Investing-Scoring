@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The repository contains *Master thesis Artificial Intelligence 2022* at the University of Amsterdam as a thesis intern at Robeco. **Note that this is a light version where all the data files are removed, hence not executable. This version can be used to check jupyter notebook results without the need to open it locally. The full version of 20+ GB can be viewed and retrieved from here: https://drive.google.com/drive/folders/15Cju0hlG1vCmh9ZUeVQpK-flenVyJND2?usp=sharing**
+The repository contains *Master thesis Artificial Intelligence 2022* at the University of Amsterdam as a thesis intern at Robeco. **Note that this is a light version where all the data files are removed, hence not executable. This version can be used to check jupyter notebook results without the need to open it locally. The full version of 20+ GB can be viewed and retrieved from here: https://drive.google.com/drive/folders/15Cju0hlG1vCmh9ZUeVQpK-flenVyJND2?usp=sharing Additionally, Robeco has not yet decided on whether I could include their data into this repository, thus the commands associated with Robeco's data is not executable at the moment. I will notify you once there is an update from them**. 
 
 ![](./figures/17SDGs.png?raw=true)
 
